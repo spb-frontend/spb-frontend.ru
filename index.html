@@ -20,13 +20,17 @@
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:site" content="@spb_frontend">
   <meta name="twitter:image:alt" content="SPB Frontend. Frontend artisans">
+
+  <link rel="stylesheet" href="styles/index.css">
 </head>
-<body>
-<header>
-  <h1>SPB Frontend</h1>
-  <picture>
+<body class="page">
+<header class="page__header">
+  <h1 class="page__heading">SPB Frontend</h1>
+</header>
+<aside class="page__aside">
+  <picture class="logo page__logo">
     <source type="image/webp"
-      srcset="
+            srcset="
       https://ucarecdn.com/bcedcf3c-77c7-4693-8888-7e5645185882/-/preview/-/resize/200x/-/format/webp/spb_frontend_logo.webp 1x,
       https://ucarecdn.com/bcedcf3c-77c7-4693-8888-7e5645185882/-/preview/-/resize/400x/-/format/webp/-/quality/lightest/spb_frontend_logo@2x.webp 2x,
       ">
@@ -35,17 +39,23 @@
       srcset="https://ucarecdn.com/bcedcf3c-77c7-4693-8888-7e5645185882/-/preview/-/resize/400x/-/quality/lightest/spb_frontend_logo@2x.png 2x"
       alt="SPB Frontend. Frontend artisans">
   </picture>
-</header>
-<main>
-  <dl>
-    <dt>ВКонтакте</dt><dd><a href="https://vk.com/spb_frontend">spb_frontend</a></dd>
-    <dt>Твитер</dt><dd><a href="https://twitter.com/spb_frontend">@spb_frontend</a></dd>
-    <dt>Слак-чат</dt><dd><a href="https://spb-frontend.slack.com/">spb-frontend.slack.com</a></dd>
-    <dt>Регистрация в Слак</dt><dd><a href="http://slack.spb-frontend.ru/">slack.spb-frontend.ru</a></dd>
-    <dt>Гитхаб</dt><dd><a href="https://github.com/spb-frontend">spb-frontend</a></dd>
-    <dt>Почта</dt><dd><a href="mailto:hi@spb-frontend.ru">hi@spb-frontend.ru</a></dd>
-  </dl>
 
+  <dl class="contacts">
+    <dt class="contacts__term">ВКонтакте</dt>
+    <dd class="contacts__desc"><a href="https://vk.com/spb_frontend">spb_frontend</a></dd>
+    <dt class="contacts__term">Твитер</dt>
+    <dd class="contacts__desc"><a href="https://twitter.com/spb_frontend">@spb_frontend</a></dd>
+    <dt class="contacts__term">Слак-чат</dt>
+    <dd class="contacts__desc"><a href="https://spb-frontend.slack.com/">spb-frontend.slack.com</a></dd>
+    <dt class="contacts__term">Регистрация в Слак</dt>
+    <dd class="contacts__desc"><a href="http://slack.spb-frontend.ru/">slack.spb-frontend.ru</a></dd>
+    <dt class="contacts__term">Гитхаб</dt>
+    <dd class="contacts__desc"><a href="https://github.com/spb-frontend">spb-frontend</a></dd>
+    <dt class="contacts__term">Почта</dt>
+    <dd class="contacts__desc"><a href="mailto:hi@spb-frontend.ru">hi@spb-frontend.ru</a></dd>
+  </dl>
+</aside>
+<main class="page__content">
   <p>
     SPB Frontend — петербургское сообщество фронтенд-разработчиков.
     Мы регулярно проводим встречи с 2014 года. Обычно это встречи с докладами по 30 минут, но бывают разные форматы.
@@ -88,7 +98,7 @@
   </p>
 
 </main>
-<footer>
+<footer class="page__footer">
   <div><a href="https://github.com/spb-frontend/spb-frontend.ru">Сайт на гитхабе</a></div>
 </footer>
 </body>
