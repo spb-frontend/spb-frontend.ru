@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[SPB Frontend]]></title><description><![CDATA[SPB Frontend official site]]></description><link>http://github.com/dylang/node-rss</link><generator>RSS for Node</generator><lastBuildDate>Fri, 28 Jul 2017 11:13:12 GMT</lastBuildDate><item><title><![CDATA[12 колонок на пакет мертвеца]]></title><link>https://goo.gl/btkTtU</link><guid isPermaLink="false">https://goo.gl/btkTtU</guid><pubDate>Sun, 16 Jul 2017 00:00:00 GMT</pubDate><content:encoded>&lt;ul&gt;
+&lt;li&gt;0:40 - CSS-in-JS: &lt;a href=&quot;https://github.com/kossnocorp/decss&quot;&gt;Decss&lt;/a&gt;, &lt;a href=&quot;https://github.com/styled-components/styled-components&quot;&gt;Styled Components&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;11:40 - &lt;a href=&quot;https://habrahabr.ru/company/mailru/blog/282027/&quot;&gt;Houdini&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;13:35 - Кастомные свойства в CSS&lt;/li&gt;
+&lt;li&gt;14:45 - Сетки в 2017, нужны или нет?&lt;/li&gt;
+&lt;li&gt;27:25 - &lt;a href=&quot;https://yarnpkg.com/lang/en/&quot;&gt;Yarn&lt;/a&gt; vs &lt;a href=&quot;https://pnpm.js.org/&quot;&gt;PNPM&lt;/a&gt; vs &lt;a href=&quot;https://www.npmjs.com/&quot;&gt;NPM 5.2.0&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;33:08 - Ведение личного проекта, опенсорс&lt;/li&gt;
+&lt;li&gt;39:20 - &lt;a href=&quot;https://github.com/gatsbyjs/gatsby&quot;&gt;Gatsby&lt;/a&gt; - генератор статики на &lt;a href=&quot;http://graphql.org/&quot;&gt;GraphQL&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item></channel></rss>

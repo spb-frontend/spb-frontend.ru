@@ -1,16 +1,24 @@
 {
   "assetsByChunkName": {
     "commons": [
-      "commons-493cf3e574130ce12d2b.js",
-      "commons-493cf3e574130ce12d2b.js.map"
+      "commons-1d2014835fc5dbcf42d1.js",
+      "commons-1d2014835fc5dbcf42d1.js.map"
     ],
-    "layout-component---index": [
-      "layout-component---index-ce020b6cfd3c4c91d35a.js",
-      "layout-component---index-ce020b6cfd3c4c91d35a.js.map"
+    "page-component---src-pages-podcast-js": [
+      "page-component---src-pages-podcast-js-40fb5300adebdfd961ab.js",
+      "page-component---src-pages-podcast-js-40fb5300adebdfd961ab.js.map"
     ],
     "page-component---src-pages-index-js": [
-      "page-component---src-pages-index-js-55242d852edefbb76728.js",
-      "page-component---src-pages-index-js-55242d852edefbb76728.js.map"
+      "page-component---src-pages-index-js-c45a221045b035bfff69.js",
+      "page-component---src-pages-index-js-c45a221045b035bfff69.js.map"
+    ],
+    "layout-component---index": [
+      "layout-component---index-c602a7e8f40b3b08c747.js",
+      "layout-component---index-c602a7e8f40b3b08c747.js.map"
+    ],
+    "path---podcast": [
+      "path---podcast-e2f1251580db4f37c0eb.js",
+      "path---podcast-e2f1251580db4f37c0eb.js.map"
     ],
     "path---index": [
       "path---index-586c7e095e534a3909ec.js",
@@ -29,8 +37,8 @@
       "page-component---src-pages-404-js-ae41f074a8554abb9154.js.map"
     ],
     "app": [
-      "app-ee74931212b768c52ade.js",
-      "app-ee74931212b768c52ade.js.map"
+      "app-6c2cd8db2f2816a61d3b.js",
+      "app-6c2cd8db2f2816a61d3b.js.map"
     ]
   }
 }
