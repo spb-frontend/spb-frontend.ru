@@ -1,24 +1,32 @@
 {
   "assetsByChunkName": {
     "commons": [
-      "commons-1d2014835fc5dbcf42d1.js",
-      "commons-1d2014835fc5dbcf42d1.js.map"
+      "commons-6c7343c5bb9c6227025d.js",
+      "commons-6c7343c5bb9c6227025d.js.map"
     ],
     "page-component---src-pages-podcast-js": [
-      "page-component---src-pages-podcast-js-b62f33f58f81cc8cc5cc.js",
-      "page-component---src-pages-podcast-js-b62f33f58f81cc8cc5cc.js.map"
+      "page-component---src-pages-podcast-js-f94496347b317338164f.js",
+      "page-component---src-pages-podcast-js-f94496347b317338164f.js.map"
     ],
     "page-component---src-pages-index-js": [
-      "page-component---src-pages-index-js-449eeb9bec146a5a29b4.js",
-      "page-component---src-pages-index-js-449eeb9bec146a5a29b4.js.map"
+      "page-component---src-pages-index-js-89bd2df70fce8393d1f3.js",
+      "page-component---src-pages-index-js-89bd2df70fce8393d1f3.js.map"
     ],
     "layout-component---index": [
-      "layout-component---index-87c6c2bdb0655246aacb.js",
-      "layout-component---index-87c6c2bdb0655246aacb.js.map"
+      "layout-component---index-8ef3b68e39bbc879cf2b.js",
+      "layout-component---index-8ef3b68e39bbc879cf2b.js.map"
+    ],
+    "page-component---src-components-podcast-page-index-js": [
+      "page-component---src-components-podcast-page-index-js-8b19dd591f8f1f840c44.js",
+      "page-component---src-components-podcast-page-index-js-8b19dd591f8f1f840c44.js.map"
     ],
     "path---podcast": [
-      "path---podcast-e2f1251580db4f37c0eb.js",
-      "path---podcast-e2f1251580db4f37c0eb.js.map"
+      "path---podcast-18c6b7c9abf4cf2e1a87.js",
+      "path---podcast-18c6b7c9abf4cf2e1a87.js.map"
+    ],
+    "path---podcast-1": [
+      "path---podcast-1-f4f055fd726416413d13.js",
+      "path---podcast-1-f4f055fd726416413d13.js.map"
     ],
     "path---index": [
       "path---index-586c7e095e534a3909ec.js",
@@ -37,8 +45,8 @@
       "page-component---src-pages-404-js-ae41f074a8554abb9154.js.map"
     ],
     "app": [
-      "app-6c2cd8db2f2816a61d3b.js",
-      "app-6c2cd8db2f2816a61d3b.js.map"
+      "app-87a52bd23ae2656093c0.js",
+      "app-87a52bd23ae2656093c0.js.map"
     ]
   }
 }
