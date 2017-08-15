@@ -1,0 +1,2 @@
+webpackJsonp([0xe0c58a9120b25000],{"./node_modules/json-loader/index.js!./.cache/json/podcast.json":function(e,n){e.exports={data:{allContentfulDrinkcast:{edges:[{node:{title:"#1 — «12 колонок на пакет мертвеца»",date:"2017-07-16T00:00+03:00"}}]}},pathContext:{}}}});
+//# sourceMappingURL=path---podcast-0e217a8a85ee97bbebf8.js.map
