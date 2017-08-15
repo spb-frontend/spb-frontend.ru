@@ -1,60 +1,64 @@
 {
   "assetsByChunkName": {
-    "commons": [
-      "commons-6c7343c5bb9c6227025d.js",
-      "commons-6c7343c5bb9c6227025d.js.map"
+    "path---podcast-1": [
+      "path---podcast-1-b932652ccaf51c109af8.js",
+      "path---podcast-1-b932652ccaf51c109af8.js.map"
     ],
-    "page-component---src-pages-podcast-js": [
-      "page-component---src-pages-podcast-js-2e9f2c38c8aaf2a7d735.js",
-      "page-component---src-pages-podcast-js-2e9f2c38c8aaf2a7d735.js.map"
+    "component---src-pages-index-js": [
+      "component---src-pages-index-js-99bdfef0928f8510caf9.js",
+      "component---src-pages-index-js-99bdfef0928f8510caf9.js.map"
     ],
-    "page-component---src-pages-index-js": [
-      "page-component---src-pages-index-js-dfcf259496b97eab5f2b.js",
-      "page-component---src-pages-index-js-dfcf259496b97eab5f2b.js.map"
-    ],
-    "layout-component---index": [
-      "layout-component---index-95d1285257bb79231b3b.js",
-      "layout-component---index-95d1285257bb79231b3b.js.map"
-    ],
-    "page-component---src-components-podcast-page-index-js": [
-      "page-component---src-components-podcast-page-index-js-bd6638480c981c641b6d.js",
-      "page-component---src-components-podcast-page-index-js-bd6638480c981c641b6d.js.map"
-    ],
-    "path---podcast": [
-      "path---podcast-5f51561c846a21c5cd16.js",
-      "path---podcast-5f51561c846a21c5cd16.js.map"
-    ],
-    "path---podcast-3": [
-      "path---podcast-3-e1e59e619b09ab5d04f1.js",
-      "path---podcast-3-e1e59e619b09ab5d04f1.js.map"
+    "path---": [
+      "path----557518bd178906f8d58a.js",
+      "path----557518bd178906f8d58a.js.map"
     ],
     "path---podcast-2": [
-      "path---podcast-2-727bc957b9e09cf42a4b.js",
-      "path---podcast-2-727bc957b9e09cf42a4b.js.map"
+      "path---podcast-2-d396b143e27d85b69b0b.js",
+      "path---podcast-2-d396b143e27d85b69b0b.js.map"
     ],
-    "path---podcast-1": [
-      "path---podcast-1-2afd58f764725ac271b2.js",
-      "path---podcast-1-2afd58f764725ac271b2.js.map"
+    "component---src-layouts-index-js": [
+      "component---src-layouts-index-js-3b46bb5dcd9c6d22d396.js",
+      "component---src-layouts-index-js-3b46bb5dcd9c6d22d396.js.map"
     ],
     "path---index": [
-      "path---index-586c7e095e534a3909ec.js",
-      "path---index-586c7e095e534a3909ec.js.map"
+      "path---index-a0e39f21c11f6a62c5ab.js",
+      "path---index-a0e39f21c11f6a62c5ab.js.map"
     ],
-    "path---404": [
-      "path---404-586c7e095e534a3909ec.js",
-      "path---404-586c7e095e534a3909ec.js.map"
+    "component---src-pages-404-js": [
+      "component---src-pages-404-js-98d33e62ecaea5947486.js",
+      "component---src-pages-404-js-98d33e62ecaea5947486.js.map"
+    ],
+    "commons": [
+      "commons-e30d858b8c497d0089b6.js",
+      "commons-e30d858b8c497d0089b6.js.map"
+    ],
+    "component---src-pages-podcast-js": [
+      "component---src-pages-podcast-js-1be77f6f6b6ee0b3a71d.js",
+      "component---src-pages-podcast-js-1be77f6f6b6ee0b3a71d.js.map"
     ],
     "path---404-html": [
-      "path---404-html-586c7e095e534a3909ec.js",
-      "path---404-html-586c7e095e534a3909ec.js.map"
+      "path---404-html-a0e39f21c11f6a62c5ab.js",
+      "path---404-html-a0e39f21c11f6a62c5ab.js.map"
     ],
-    "page-component---src-pages-404-js": [
-      "page-component---src-pages-404-js-ae41f074a8554abb9154.js",
-      "page-component---src-pages-404-js-ae41f074a8554abb9154.js.map"
+    "component---src-components-podcast-page-index-js": [
+      "component---src-components-podcast-page-index-js-a47f1419170c965c4fcb.js",
+      "component---src-components-podcast-page-index-js-a47f1419170c965c4fcb.js.map"
     ],
     "app": [
-      "app-3e5a783ee1be4275d046.js",
-      "app-3e5a783ee1be4275d046.js.map"
+      "app-babd7c5ff025260a492a.js",
+      "app-babd7c5ff025260a492a.js.map"
+    ],
+    "path---podcast-3": [
+      "path---podcast-3-2efb4c8a8114b5c14576.js",
+      "path---podcast-3-2efb4c8a8114b5c14576.js.map"
+    ],
+    "path---podcast": [
+      "path---podcast-3c4cbd4689ac7d20befb.js",
+      "path---podcast-3c4cbd4689ac7d20befb.js.map"
+    ],
+    "path---404": [
+      "path---404-a0e39f21c11f6a62c5ab.js",
+      "path---404-a0e39f21c11f6a62c5ab.js.map"
     ]
   }
 }
