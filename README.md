@@ -19,5 +19,3 @@ Site works on [gatsby engine](https://github.com/gatsbyjs/gatsby)
 ## Deploy
 
 - `npm run deploy`
-
-
