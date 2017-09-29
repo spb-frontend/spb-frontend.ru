@@ -40,6 +40,10 @@
       "path---podcast-9-9db226195e123b8cd312.js",
       "path---podcast-9-9db226195e123b8cd312.js.map"
     ],
+    "path---podcast-10": [
+      "path---podcast-10-f0924a1df738676f8067.js",
+      "path---podcast-10-f0924a1df738676f8067.js.map"
+    ],
     "path---index": [
       "path---index-a0e39f21c11f6a62c5ab.js",
       "path---index-a0e39f21c11f6a62c5ab.js.map"
@@ -65,16 +69,16 @@
       "component---src-components-podcast-page-index-js-d962edd431bc337301ad.js.map"
     ],
     "app": [
-      "app-a2695d57418a7baa88eb.js",
-      "app-a2695d57418a7baa88eb.js.map"
+      "app-c4deef408840644fee9d.js",
+      "app-c4deef408840644fee9d.js.map"
     ],
     "path---podcast-3": [
       "path---podcast-3-eb5294e3e69400ae94b2.js",
       "path---podcast-3-eb5294e3e69400ae94b2.js.map"
     ],
     "path---podcast": [
-      "path---podcast-3aee630e7e26d8ba9d82.js",
-      "path---podcast-3aee630e7e26d8ba9d82.js.map"
+      "path---podcast-5448f0f8a2f04cf66175.js",
+      "path---podcast-5448f0f8a2f04cf66175.js.map"
     ],
     "path---podcast-5": [
       "path---podcast-5-ba94ff9ae4d24daa9678.js",
