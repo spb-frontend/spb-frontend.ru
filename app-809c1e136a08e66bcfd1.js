@@ -53,14 +53,14 @@ webpackJsonp([15178676390636814000],{
 	exports.components = {
 	  "component---src-components-podcast-page-index-js": __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=component---src-components-podcast-page-index-js!./src/components/podcast-page/index.js"),
 	  "component---src-pages-404-js": __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=component---src-pages-404-js!./src/pages/404.js"),
-	  "component---src-pages-podcast-js": __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=component---src-pages-podcast-js!./src/pages/podcast.js"),
-	  "component---src-pages-index-js": __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=component---src-pages-index-js!./src/pages/index.js")
+	  "component---src-pages-index-js": __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=component---src-pages-index-js!./src/pages/index.js"),
+	  "component---src-pages-podcast-js": __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=component---src-pages-podcast-js!./src/pages/podcast.js")
 	};
 	
 	exports.json = (_exports$json = {
 	  "layout-index.json": __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"),
 	  "podcast-1.json": __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---podcast-1!./.cache/json/podcast-1.json")
-	}, _exports$json["layout-index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"), _exports$json["podcast-2.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---podcast-2!./.cache/json/podcast-2.json"), _exports$json["layout-index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"), _exports$json["podcast-3.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---podcast-3!./.cache/json/podcast-3.json"), _exports$json["layout-index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"), _exports$json["podcast-4.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---podcast-4!./.cache/json/podcast-4.json"), _exports$json["layout-index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"), _exports$json["podcast-5.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---podcast-5!./.cache/json/podcast-5.json"), _exports$json["layout-index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"), _exports$json["podcast-6.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---podcast-6!./.cache/json/podcast-6.json"), _exports$json["layout-index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"), _exports$json["podcast-7.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---podcast-7!./.cache/json/podcast-7.json"), _exports$json["layout-index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"), _exports$json["podcast-8.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---podcast-8!./.cache/json/podcast-8.json"), _exports$json["layout-index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"), _exports$json["podcast-9.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---podcast-9!./.cache/json/podcast-9.json"), _exports$json["layout-index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"), _exports$json["podcast-10.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---podcast-10!./.cache/json/podcast-10.json"), _exports$json["layout-index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"), _exports$json["podcast-11.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---podcast-11!./.cache/json/podcast-11.json"), _exports$json["layout-index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"), _exports$json["404.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---404!./.cache/json/404.json"), _exports$json["layout-index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"), _exports$json["podcast.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---podcast!./.cache/json/podcast.json"), _exports$json["layout-index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"), _exports$json["index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---index!./.cache/json/index.json"), _exports$json["layout-index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"), _exports$json["404-html.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---404-html!./.cache/json/404-html.json"), _exports$json);
+	}, _exports$json["layout-index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"), _exports$json["podcast-2.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---podcast-2!./.cache/json/podcast-2.json"), _exports$json["layout-index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"), _exports$json["podcast-3.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---podcast-3!./.cache/json/podcast-3.json"), _exports$json["layout-index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"), _exports$json["404.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---404!./.cache/json/404.json"), _exports$json["layout-index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"), _exports$json["index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---index!./.cache/json/index.json"), _exports$json["layout-index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"), _exports$json["podcast.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---podcast!./.cache/json/podcast.json"), _exports$json["layout-index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"), _exports$json["404-html.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---404-html!./.cache/json/404-html.json"), _exports$json);
 	
 	exports.layouts = {
 	  "component---src-layouts-index-js": __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=component---src-layouts-index-js!./.cache/layouts/index.js")
@@ -396,48 +396,6 @@ webpackJsonp([15178676390636814000],{
 
 /***/ }),
 
-/***/ "./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---podcast-10!./.cache/json/podcast-10.json":
-/***/ (function(module, exports, __webpack_require__) {
-
-	
-	    __webpack_require__(
-	      "./node_modules/gatsby/dist/loaders/gatsby-module-loader/patch.js"
-	    );
-	    module.exports = function(cb) { 
-	     return __webpack_require__.e/* nsure */(8291857283407408000, function(_, error) {
-	        if (error) {
-	          console.log('bundle loading error', error)
-	          cb(true)
-	        } else {
-	          cb(null, function() { return __webpack_require__("./node_modules/json-loader/index.js!./.cache/json/podcast-10.json") })
-	        }
-	      });
-	     }
-	    
-
-/***/ }),
-
-/***/ "./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---podcast-11!./.cache/json/podcast-11.json":
-/***/ (function(module, exports, __webpack_require__) {
-
-	
-	    __webpack_require__(
-	      "./node_modules/gatsby/dist/loaders/gatsby-module-loader/patch.js"
-	    );
-	    module.exports = function(cb) { 
-	     return __webpack_require__.e/* nsure */(17117425650496487000, function(_, error) {
-	        if (error) {
-	          console.log('bundle loading error', error)
-	          cb(true)
-	        } else {
-	          cb(null, function() { return __webpack_require__("./node_modules/json-loader/index.js!./.cache/json/podcast-11.json") })
-	        }
-	      });
-	     }
-	    
-
-/***/ }),
-
 /***/ "./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---podcast-2!./.cache/json/podcast-2.json":
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -480,132 +438,6 @@ webpackJsonp([15178676390636814000],{
 
 /***/ }),
 
-/***/ "./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---podcast-4!./.cache/json/podcast-4.json":
-/***/ (function(module, exports, __webpack_require__) {
-
-	
-	    __webpack_require__(
-	      "./node_modules/gatsby/dist/loaders/gatsby-module-loader/patch.js"
-	    );
-	    module.exports = function(cb) { 
-	     return __webpack_require__.e/* nsure */(5296906532200059000, function(_, error) {
-	        if (error) {
-	          console.log('bundle loading error', error)
-	          cb(true)
-	        } else {
-	          cb(null, function() { return __webpack_require__("./node_modules/json-loader/index.js!./.cache/json/podcast-4.json") })
-	        }
-	      });
-	     }
-	    
-
-/***/ }),
-
-/***/ "./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---podcast-5!./.cache/json/podcast-5.json":
-/***/ (function(module, exports, __webpack_require__) {
-
-	
-	    __webpack_require__(
-	      "./node_modules/gatsby/dist/loaders/gatsby-module-loader/patch.js"
-	    );
-	    module.exports = function(cb) { 
-	     return __webpack_require__.e/* nsure */(16615190530915520000, function(_, error) {
-	        if (error) {
-	          console.log('bundle loading error', error)
-	          cb(true)
-	        } else {
-	          cb(null, function() { return __webpack_require__("./node_modules/json-loader/index.js!./.cache/json/podcast-5.json") })
-	        }
-	      });
-	     }
-	    
-
-/***/ }),
-
-/***/ "./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---podcast-6!./.cache/json/podcast-6.json":
-/***/ (function(module, exports, __webpack_require__) {
-
-	
-	    __webpack_require__(
-	      "./node_modules/gatsby/dist/loaders/gatsby-module-loader/patch.js"
-	    );
-	    module.exports = function(cb) { 
-	     return __webpack_require__.e/* nsure */(618444863848076200, function(_, error) {
-	        if (error) {
-	          console.log('bundle loading error', error)
-	          cb(true)
-	        } else {
-	          cb(null, function() { return __webpack_require__("./node_modules/json-loader/index.js!./.cache/json/podcast-6.json") })
-	        }
-	      });
-	     }
-	    
-
-/***/ }),
-
-/***/ "./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---podcast-7!./.cache/json/podcast-7.json":
-/***/ (function(module, exports, __webpack_require__) {
-
-	
-	    __webpack_require__(
-	      "./node_modules/gatsby/dist/loaders/gatsby-module-loader/patch.js"
-	    );
-	    module.exports = function(cb) { 
-	     return __webpack_require__.e/* nsure */(3239247475727753700, function(_, error) {
-	        if (error) {
-	          console.log('bundle loading error', error)
-	          cb(true)
-	        } else {
-	          cb(null, function() { return __webpack_require__("./node_modules/json-loader/index.js!./.cache/json/podcast-7.json") })
-	        }
-	      });
-	     }
-	    
-
-/***/ }),
-
-/***/ "./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---podcast-8!./.cache/json/podcast-8.json":
-/***/ (function(module, exports, __webpack_require__) {
-
-	
-	    __webpack_require__(
-	      "./node_modules/gatsby/dist/loaders/gatsby-module-loader/patch.js"
-	    );
-	    module.exports = function(cb) { 
-	     return __webpack_require__.e/* nsure */(5132503707621593000, function(_, error) {
-	        if (error) {
-	          console.log('bundle loading error', error)
-	          cb(true)
-	        } else {
-	          cb(null, function() { return __webpack_require__("./node_modules/json-loader/index.js!./.cache/json/podcast-8.json") })
-	        }
-	      });
-	     }
-	    
-
-/***/ }),
-
-/***/ "./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---podcast-9!./.cache/json/podcast-9.json":
-/***/ (function(module, exports, __webpack_require__) {
-
-	
-	    __webpack_require__(
-	      "./node_modules/gatsby/dist/loaders/gatsby-module-loader/patch.js"
-	    );
-	    module.exports = function(cb) { 
-	     return __webpack_require__.e/* nsure */(8227698257271740000, function(_, error) {
-	        if (error) {
-	          console.log('bundle loading error', error)
-	          cb(true)
-	        } else {
-	          cb(null, function() { return __webpack_require__("./node_modules/json-loader/index.js!./.cache/json/podcast-9.json") })
-	        }
-	      });
-	     }
-	    
-
-/***/ }),
-
 /***/ "./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---podcast!./.cache/json/podcast.json":
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -640,7 +472,7 @@ webpackJsonp([15178676390636814000],{
 	          console.log('bundle loading error', error)
 	          cb(true)
 	        } else {
-	          cb(null, function() { return __webpack_require__("./node_modules/babel-loader/lib/index.js?{\"plugins\":[\"/Users/aleksandrkurganov/Projects/spb-frontend.ru/node_modules/gatsby/dist/utils/babel-plugin-extract-graphql.js\",\"/Users/aleksandrkurganov/Projects/spb-frontend.ru/node_modules/babel-plugin-add-module-exports/lib/index.js\",\"/Users/aleksandrkurganov/Projects/spb-frontend.ru/node_modules/babel-plugin-transform-object-assign/lib/index.js\"],\"presets\":[[\"/Users/aleksandrkurganov/Projects/spb-frontend.ru/node_modules/babel-preset-env/lib/index.js\",{\"loose\":true,\"uglify\":true,\"modules\":\"commonjs\",\"targets\":{\"browsers\":[\"> 1%\",\"last 2 versions\",\"IE >= 9\"]},\"exclude\":[\"transform-regenerator\",\"transform-es2015-typeof-symbol\"]}],\"/Users/aleksandrkurganov/Projects/spb-frontend.ru/node_modules/babel-preset-stage-0/lib/index.js\",\"/Users/aleksandrkurganov/Projects/spb-frontend.ru/node_modules/babel-preset-react/lib/index.js\"],\"cacheDirectory\":true}!./.cache/layouts/index.js") })
+	          cb(null, function() { return __webpack_require__("./node_modules/babel-loader/lib/index.js?{\"plugins\":[\"/Users/sergeylapin/repos/spb-frontend.ru/node_modules/gatsby/dist/utils/babel-plugin-extract-graphql.js\",\"/Users/sergeylapin/repos/spb-frontend.ru/node_modules/babel-plugin-add-module-exports/lib/index.js\",\"/Users/sergeylapin/repos/spb-frontend.ru/node_modules/babel-plugin-transform-object-assign/lib/index.js\"],\"presets\":[[\"/Users/sergeylapin/repos/spb-frontend.ru/node_modules/babel-preset-env/lib/index.js\",{\"loose\":true,\"uglify\":true,\"modules\":\"commonjs\",\"targets\":{\"browsers\":[\"> 1%\",\"last 2 versions\",\"IE >= 9\"]},\"exclude\":[\"transform-regenerator\",\"transform-es2015-typeof-symbol\"]}],\"/Users/sergeylapin/repos/spb-frontend.ru/node_modules/babel-preset-stage-0/lib/index.js\",\"/Users/sergeylapin/repos/spb-frontend.ru/node_modules/babel-preset-react/lib/index.js\"],\"cacheDirectory\":true}!./.cache/layouts/index.js") })
 	        }
 	      });
 	     }
@@ -1013,7 +845,7 @@ webpackJsonp([15178676390636814000],{
 /***/ "./.cache/pages.json":
 /***/ (function(module, exports) {
 
-	module.exports = [{"componentChunkName":"component---src-components-podcast-page-index-js","layout":"index","layoutComponentChunkName":"component---src-layouts-index-js","jsonName":"podcast-1.json","path":"/podcast/1"},{"componentChunkName":"component---src-components-podcast-page-index-js","layout":"index","layoutComponentChunkName":"component---src-layouts-index-js","jsonName":"podcast-2.json","path":"/podcast/2"},{"componentChunkName":"component---src-components-podcast-page-index-js","layout":"index","layoutComponentChunkName":"component---src-layouts-index-js","jsonName":"podcast-3.json","path":"/podcast/3"},{"componentChunkName":"component---src-components-podcast-page-index-js","layout":"index","layoutComponentChunkName":"component---src-layouts-index-js","jsonName":"podcast-4.json","path":"/podcast/4"},{"componentChunkName":"component---src-components-podcast-page-index-js","layout":"index","layoutComponentChunkName":"component---src-layouts-index-js","jsonName":"podcast-5.json","path":"/podcast/5"},{"componentChunkName":"component---src-components-podcast-page-index-js","layout":"index","layoutComponentChunkName":"component---src-layouts-index-js","jsonName":"podcast-6.json","path":"/podcast/6"},{"componentChunkName":"component---src-components-podcast-page-index-js","layout":"index","layoutComponentChunkName":"component---src-layouts-index-js","jsonName":"podcast-7.json","path":"/podcast/7"},{"componentChunkName":"component---src-components-podcast-page-index-js","layout":"index","layoutComponentChunkName":"component---src-layouts-index-js","jsonName":"podcast-8.json","path":"/podcast/8"},{"componentChunkName":"component---src-components-podcast-page-index-js","layout":"index","layoutComponentChunkName":"component---src-layouts-index-js","jsonName":"podcast-9.json","path":"/podcast/9"},{"componentChunkName":"component---src-components-podcast-page-index-js","layout":"index","layoutComponentChunkName":"component---src-layouts-index-js","jsonName":"podcast-10.json","path":"/podcast/10"},{"componentChunkName":"component---src-components-podcast-page-index-js","layout":"index","layoutComponentChunkName":"component---src-layouts-index-js","jsonName":"podcast-11.json","path":"/podcast/11"},{"componentChunkName":"component---src-pages-404-js","layout":"index","layoutComponentChunkName":"component---src-layouts-index-js","jsonName":"404.json","path":"/404/"},{"componentChunkName":"component---src-pages-podcast-js","layout":"index","layoutComponentChunkName":"component---src-layouts-index-js","jsonName":"podcast.json","path":"/podcast/"},{"componentChunkName":"component---src-pages-index-js","layout":"index","layoutComponentChunkName":"component---src-layouts-index-js","jsonName":"index.json","path":"/"},{"componentChunkName":"component---src-pages-404-js","layout":"index","layoutComponentChunkName":"component---src-layouts-index-js","jsonName":"404-html.json","path":"/404.html"}]
+	module.exports = [{"componentChunkName":"component---src-components-podcast-page-index-js","layout":"index","layoutComponentChunkName":"component---src-layouts-index-js","jsonName":"podcast-1.json","path":"/podcast/1"},{"componentChunkName":"component---src-components-podcast-page-index-js","layout":"index","layoutComponentChunkName":"component---src-layouts-index-js","jsonName":"podcast-2.json","path":"/podcast/2"},{"componentChunkName":"component---src-components-podcast-page-index-js","layout":"index","layoutComponentChunkName":"component---src-layouts-index-js","jsonName":"podcast-3.json","path":"/podcast/3"},{"componentChunkName":"component---src-pages-404-js","layout":"index","layoutComponentChunkName":"component---src-layouts-index-js","jsonName":"404.json","path":"/404/"},{"componentChunkName":"component---src-pages-index-js","layout":"index","layoutComponentChunkName":"component---src-layouts-index-js","jsonName":"index.json","path":"/"},{"componentChunkName":"component---src-pages-podcast-js","layout":"index","layoutComponentChunkName":"component---src-layouts-index-js","jsonName":"podcast.json","path":"/podcast/"},{"componentChunkName":"component---src-pages-404-js","layout":"index","layoutComponentChunkName":"component---src-layouts-index-js","jsonName":"404-html.json","path":"/404.html"}]
 
 /***/ }),
 
@@ -1685,7 +1517,7 @@ webpackJsonp([15178676390636814000],{
 	          console.log('bundle loading error', error)
 	          cb(true)
 	        } else {
-	          cb(null, function() { return __webpack_require__("./node_modules/babel-loader/lib/index.js?{\"plugins\":[\"/Users/aleksandrkurganov/Projects/spb-frontend.ru/node_modules/gatsby/dist/utils/babel-plugin-extract-graphql.js\",\"/Users/aleksandrkurganov/Projects/spb-frontend.ru/node_modules/babel-plugin-add-module-exports/lib/index.js\",\"/Users/aleksandrkurganov/Projects/spb-frontend.ru/node_modules/babel-plugin-transform-object-assign/lib/index.js\"],\"presets\":[[\"/Users/aleksandrkurganov/Projects/spb-frontend.ru/node_modules/babel-preset-env/lib/index.js\",{\"loose\":true,\"uglify\":true,\"modules\":\"commonjs\",\"targets\":{\"browsers\":[\"> 1%\",\"last 2 versions\",\"IE >= 9\"]},\"exclude\":[\"transform-regenerator\",\"transform-es2015-typeof-symbol\"]}],\"/Users/aleksandrkurganov/Projects/spb-frontend.ru/node_modules/babel-preset-stage-0/lib/index.js\",\"/Users/aleksandrkurganov/Projects/spb-frontend.ru/node_modules/babel-preset-react/lib/index.js\"],\"cacheDirectory\":true}!./src/components/podcast-page/index.js") })
+	          cb(null, function() { return __webpack_require__("./node_modules/babel-loader/lib/index.js?{\"plugins\":[\"/Users/sergeylapin/repos/spb-frontend.ru/node_modules/gatsby/dist/utils/babel-plugin-extract-graphql.js\",\"/Users/sergeylapin/repos/spb-frontend.ru/node_modules/babel-plugin-add-module-exports/lib/index.js\",\"/Users/sergeylapin/repos/spb-frontend.ru/node_modules/babel-plugin-transform-object-assign/lib/index.js\"],\"presets\":[[\"/Users/sergeylapin/repos/spb-frontend.ru/node_modules/babel-preset-env/lib/index.js\",{\"loose\":true,\"uglify\":true,\"modules\":\"commonjs\",\"targets\":{\"browsers\":[\"> 1%\",\"last 2 versions\",\"IE >= 9\"]},\"exclude\":[\"transform-regenerator\",\"transform-es2015-typeof-symbol\"]}],\"/Users/sergeylapin/repos/spb-frontend.ru/node_modules/babel-preset-stage-0/lib/index.js\",\"/Users/sergeylapin/repos/spb-frontend.ru/node_modules/babel-preset-react/lib/index.js\"],\"cacheDirectory\":true}!./src/components/podcast-page/index.js") })
 	        }
 	      });
 	     }
@@ -1706,7 +1538,7 @@ webpackJsonp([15178676390636814000],{
 	          console.log('bundle loading error', error)
 	          cb(true)
 	        } else {
-	          cb(null, function() { return __webpack_require__("./node_modules/babel-loader/lib/index.js?{\"plugins\":[\"/Users/aleksandrkurganov/Projects/spb-frontend.ru/node_modules/gatsby/dist/utils/babel-plugin-extract-graphql.js\",\"/Users/aleksandrkurganov/Projects/spb-frontend.ru/node_modules/babel-plugin-add-module-exports/lib/index.js\",\"/Users/aleksandrkurganov/Projects/spb-frontend.ru/node_modules/babel-plugin-transform-object-assign/lib/index.js\"],\"presets\":[[\"/Users/aleksandrkurganov/Projects/spb-frontend.ru/node_modules/babel-preset-env/lib/index.js\",{\"loose\":true,\"uglify\":true,\"modules\":\"commonjs\",\"targets\":{\"browsers\":[\"> 1%\",\"last 2 versions\",\"IE >= 9\"]},\"exclude\":[\"transform-regenerator\",\"transform-es2015-typeof-symbol\"]}],\"/Users/aleksandrkurganov/Projects/spb-frontend.ru/node_modules/babel-preset-stage-0/lib/index.js\",\"/Users/aleksandrkurganov/Projects/spb-frontend.ru/node_modules/babel-preset-react/lib/index.js\"],\"cacheDirectory\":true}!./src/pages/404.js") })
+	          cb(null, function() { return __webpack_require__("./node_modules/babel-loader/lib/index.js?{\"plugins\":[\"/Users/sergeylapin/repos/spb-frontend.ru/node_modules/gatsby/dist/utils/babel-plugin-extract-graphql.js\",\"/Users/sergeylapin/repos/spb-frontend.ru/node_modules/babel-plugin-add-module-exports/lib/index.js\",\"/Users/sergeylapin/repos/spb-frontend.ru/node_modules/babel-plugin-transform-object-assign/lib/index.js\"],\"presets\":[[\"/Users/sergeylapin/repos/spb-frontend.ru/node_modules/babel-preset-env/lib/index.js\",{\"loose\":true,\"uglify\":true,\"modules\":\"commonjs\",\"targets\":{\"browsers\":[\"> 1%\",\"last 2 versions\",\"IE >= 9\"]},\"exclude\":[\"transform-regenerator\",\"transform-es2015-typeof-symbol\"]}],\"/Users/sergeylapin/repos/spb-frontend.ru/node_modules/babel-preset-stage-0/lib/index.js\",\"/Users/sergeylapin/repos/spb-frontend.ru/node_modules/babel-preset-react/lib/index.js\"],\"cacheDirectory\":true}!./src/pages/404.js") })
 	        }
 	      });
 	     }
@@ -1727,7 +1559,7 @@ webpackJsonp([15178676390636814000],{
 	          console.log('bundle loading error', error)
 	          cb(true)
 	        } else {
-	          cb(null, function() { return __webpack_require__("./node_modules/babel-loader/lib/index.js?{\"plugins\":[\"/Users/aleksandrkurganov/Projects/spb-frontend.ru/node_modules/gatsby/dist/utils/babel-plugin-extract-graphql.js\",\"/Users/aleksandrkurganov/Projects/spb-frontend.ru/node_modules/babel-plugin-add-module-exports/lib/index.js\",\"/Users/aleksandrkurganov/Projects/spb-frontend.ru/node_modules/babel-plugin-transform-object-assign/lib/index.js\"],\"presets\":[[\"/Users/aleksandrkurganov/Projects/spb-frontend.ru/node_modules/babel-preset-env/lib/index.js\",{\"loose\":true,\"uglify\":true,\"modules\":\"commonjs\",\"targets\":{\"browsers\":[\"> 1%\",\"last 2 versions\",\"IE >= 9\"]},\"exclude\":[\"transform-regenerator\",\"transform-es2015-typeof-symbol\"]}],\"/Users/aleksandrkurganov/Projects/spb-frontend.ru/node_modules/babel-preset-stage-0/lib/index.js\",\"/Users/aleksandrkurganov/Projects/spb-frontend.ru/node_modules/babel-preset-react/lib/index.js\"],\"cacheDirectory\":true}!./src/pages/index.js") })
+	          cb(null, function() { return __webpack_require__("./node_modules/babel-loader/lib/index.js?{\"plugins\":[\"/Users/sergeylapin/repos/spb-frontend.ru/node_modules/gatsby/dist/utils/babel-plugin-extract-graphql.js\",\"/Users/sergeylapin/repos/spb-frontend.ru/node_modules/babel-plugin-add-module-exports/lib/index.js\",\"/Users/sergeylapin/repos/spb-frontend.ru/node_modules/babel-plugin-transform-object-assign/lib/index.js\"],\"presets\":[[\"/Users/sergeylapin/repos/spb-frontend.ru/node_modules/babel-preset-env/lib/index.js\",{\"loose\":true,\"uglify\":true,\"modules\":\"commonjs\",\"targets\":{\"browsers\":[\"> 1%\",\"last 2 versions\",\"IE >= 9\"]},\"exclude\":[\"transform-regenerator\",\"transform-es2015-typeof-symbol\"]}],\"/Users/sergeylapin/repos/spb-frontend.ru/node_modules/babel-preset-stage-0/lib/index.js\",\"/Users/sergeylapin/repos/spb-frontend.ru/node_modules/babel-preset-react/lib/index.js\"],\"cacheDirectory\":true}!./src/pages/index.js") })
 	        }
 	      });
 	     }
@@ -1748,7 +1580,7 @@ webpackJsonp([15178676390636814000],{
 	          console.log('bundle loading error', error)
 	          cb(true)
 	        } else {
-	          cb(null, function() { return __webpack_require__("./node_modules/babel-loader/lib/index.js?{\"plugins\":[\"/Users/aleksandrkurganov/Projects/spb-frontend.ru/node_modules/gatsby/dist/utils/babel-plugin-extract-graphql.js\",\"/Users/aleksandrkurganov/Projects/spb-frontend.ru/node_modules/babel-plugin-add-module-exports/lib/index.js\",\"/Users/aleksandrkurganov/Projects/spb-frontend.ru/node_modules/babel-plugin-transform-object-assign/lib/index.js\"],\"presets\":[[\"/Users/aleksandrkurganov/Projects/spb-frontend.ru/node_modules/babel-preset-env/lib/index.js\",{\"loose\":true,\"uglify\":true,\"modules\":\"commonjs\",\"targets\":{\"browsers\":[\"> 1%\",\"last 2 versions\",\"IE >= 9\"]},\"exclude\":[\"transform-regenerator\",\"transform-es2015-typeof-symbol\"]}],\"/Users/aleksandrkurganov/Projects/spb-frontend.ru/node_modules/babel-preset-stage-0/lib/index.js\",\"/Users/aleksandrkurganov/Projects/spb-frontend.ru/node_modules/babel-preset-react/lib/index.js\"],\"cacheDirectory\":true}!./src/pages/podcast.js") })
+	          cb(null, function() { return __webpack_require__("./node_modules/babel-loader/lib/index.js?{\"plugins\":[\"/Users/sergeylapin/repos/spb-frontend.ru/node_modules/gatsby/dist/utils/babel-plugin-extract-graphql.js\",\"/Users/sergeylapin/repos/spb-frontend.ru/node_modules/babel-plugin-add-module-exports/lib/index.js\",\"/Users/sergeylapin/repos/spb-frontend.ru/node_modules/babel-plugin-transform-object-assign/lib/index.js\"],\"presets\":[[\"/Users/sergeylapin/repos/spb-frontend.ru/node_modules/babel-preset-env/lib/index.js\",{\"loose\":true,\"uglify\":true,\"modules\":\"commonjs\",\"targets\":{\"browsers\":[\"> 1%\",\"last 2 versions\",\"IE >= 9\"]},\"exclude\":[\"transform-regenerator\",\"transform-es2015-typeof-symbol\"]}],\"/Users/sergeylapin/repos/spb-frontend.ru/node_modules/babel-preset-stage-0/lib/index.js\",\"/Users/sergeylapin/repos/spb-frontend.ru/node_modules/babel-preset-react/lib/index.js\"],\"cacheDirectory\":true}!./src/pages/podcast.js") })
 	        }
 	      });
 	     }
@@ -1757,4 +1589,4 @@ webpackJsonp([15178676390636814000],{
 /***/ })
 
 });
-//# sourceMappingURL=app-7d5ede6da349d11d50fa.js.map
+//# sourceMappingURL=app-809c1e136a08e66bcfd1.js.map
