@@ -55,11 +55,12 @@ class SubscriptionForm extends Component {
       <div
         id='mc_embed_signup'
         className={st.subscription}>
-        {this.state.status === 'success' &&
+        {this.state.status === 'success' && (
           <span className={st.success}>
             Спасибо, проверьте вашу почту и подтвердите подписку
-          </span>}
-        {this.state.status === 'form' &&
+          </span>
+        )}
+        {this.state.status === 'form' && (
           <form
             onSubmit={this.sendForm}
             action=''
@@ -87,12 +88,12 @@ class SubscriptionForm extends Component {
                 tabIndex='-1' />
             </div>
             <div className={st.errors}>
-              {this.state.errors.map(err =>
+              {this.state.errors.map(err => (
                 <div
                   key={err}
                   className={st.error}
-                  dangerouslySetInnerHTML={{__html: err.msg}} />,
-              )}
+                  dangerouslySetInnerHTML={{__html: err.msg}} />
+              ))}
             </div>
             <input
               type='submit'
@@ -100,7 +101,8 @@ class SubscriptionForm extends Component {
               name='subscribe'
               id='mc-embedded-subscribe'
               className={st.button} />
-          </form>}
+          </form>
+        )}
       </div>
     )
   }

@@ -7,7 +7,7 @@ import {SiteHeader} from '../components/nav-header/index'
 import '../css/typography.css'
 import '../css/index.css'
 
-const Template = props =>
+const Template = props => (
   <div className='page'>
     <SiteHeader />
 
@@ -69,9 +69,7 @@ const Template = props =>
         <SubscriptionForm />
       </aside>
 
-      <main className='page--content'>
-        {props.children()}
-      </main>
+      <main className='page--content'>{props.children()}</main>
     </div>
 
     <footer className='page--footer'>
@@ -82,6 +80,7 @@ const Template = props =>
       </div>
     </footer>
   </div>
+)
 
 export default Template
 

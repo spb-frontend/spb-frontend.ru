@@ -5,7 +5,6 @@ import Link from 'gatsby-link'
 import marked from 'marked'
 import {Box, Thread} from 'react-disqussion'
 import {timestampToSeconds} from '../../utils/time'
-import {getHumanDate} from '../../utils/date'
 
 const PLAYBACK_RATES = [1.0, 1.2, 1.4, 1.6, 1.8, 2.0]
 
@@ -29,23 +28,17 @@ class PodcastPage extends Component {
 
   render() {
     const {data, id} = this.props.pathContext
-    const {node: {title, date, link, notes}} = data
+    const {node: {title, link, notes, formatedDate}} = data
 
     return (
       <div>
         <div className={styles.back_link}>
-          <Link to='/podcast/'>
-            {'<'} назад
-          </Link>
+          <Link to='/podcast/'>{'<'} назад</Link>
         </div>
 
         <header className={styles.header}>
-          <h3 className={styles.header_title}>
-            {title}
-          </h3>
-          <date className={styles.header_date}>
-            {getHumanDate(date)}
-          </date>
+          <h3 className={styles.header_title}>{title}</h3>
+          <date className={styles.header_date}>{formatedDate}</date>
         </header>
 
         <div className={styles.player}>
@@ -56,14 +49,14 @@ class PodcastPage extends Component {
             src={link}
             ref={el => (this.audioEl = el)} />
           <div className={styles.player_controls}>
-            {PLAYBACK_RATES.map(speed =>
+            {PLAYBACK_RATES.map(speed => (
               <button
                 key={speed}
                 className={styles.player_controls_item}
                 onClick={() => this.handleSpeedClick(speed)}>
                 {speed}
-              </button>,
-            )}
+              </button>
+            ))}
           </div>
         </div>
 

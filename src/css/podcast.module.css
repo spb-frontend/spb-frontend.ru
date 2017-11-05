@@ -11,6 +11,7 @@
   color: #fff;
   text-align: center;
   margin-top: 0;
+  margin-bottom: 10px;
   font-size: 32px;
   font-weight: 200;
   line-height: 0;
@@ -49,6 +50,37 @@
 .footer ul {
   list-style: none;
   margin-left: 0;
+}
+
+.rss_icon {
+  width: 13px;
+  height: 13px;
+  margin: 0;
+}
+
+.itunes_icon {
+  position: relative;
+  top: 3px;
+  width: 19px;
+  height: 19px;
+  margin: 0;
+}
+
+.telegram_icon {
+  position: relative;
+  top: 2px;
+  width: 15px;
+  height: 15px;
+  margin: 0;
+}
+
+.links {
+  margin-bottom: 20px;
+}
+
+.linksItem {
+  color: #333;
+  margin-right: 15px;
 }
 
 @media screen and (min-width: 700px) {

@@ -1,4 +1,3 @@
-'use strict'
 import React, {Component} from 'react'
 import Helmet from 'react-helmet'
 import Link from 'gatsby-link'

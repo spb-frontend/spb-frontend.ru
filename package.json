@@ -24,8 +24,8 @@
   },
   "devDependencies": {
     "babel-eslint": "^7.2.3",
-    "eslint": "^4.4.1",
     "babel-preset-env": "^1.6.0",
+    "eslint": "^4.4.1",
     "eslint-plugin-compat": "^1.0.4",
     "eslint-plugin-import": "^2.7.0",
     "eslint-plugin-jsx-a11y": "^6.0.2",
@@ -34,7 +34,7 @@
     "husky": "^0.14.3",
     "jest": "^20.0.4",
     "lint-staged": "^4.0.3",
-    "prettier-eslint-cli": "^4.1.1",
+    "prettier-eslint-cli": "^4.4.0",
     "remark-cli": "^4.0.0",
     "remark-preset-lint-markdown-style-guide": "^2.1.0",
     "remark-preset-lint-recommended": "^3.0.0",
@@ -48,9 +48,11 @@
     "build": "gatsby build",
     "deploy": "gatsby build && gh-pages -d public",
     "develop": "gatsby develop",
-    "format": "./node_modules/.bin/prettier-eslint --trailing-comma=\"all\" --no-semi --single-quote --no-bracket-spacing --write  \"./*.json\" \"./*.js\" \"src/**/*.js\" \"plugins/**/*.js\"",
+    "format":
+      "./node_modules/.bin/prettier-eslint --trailing-comma=\"all\" --no-semi --single-quote --no-bracket-spacing --write  \"gatsby-config.js\" \"gatsby-node.js\"  \"./*.json\" \"./*.js\" \"src/**/*.js\" \"plugins/**/*.js\"",
     "test": "jest",
-    "lint": "eslint ./src & stylelint \"./src/{components,css}/*.css\" & remark .",
+    "lint":
+      "eslint ./src & stylelint \"./src/{components,css}/*.css\" & remark .",
     "precommit": "lint-staged"
   },
   "lint-staged": {
