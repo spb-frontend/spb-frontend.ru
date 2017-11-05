@@ -50,7 +50,7 @@ export default ({data: {allContentfulDrinkcast: {edges}}}) =>
 
 export const pageQuery = graphql`
   query MyQueryName {
-    allContentfulDrinkcast(limit: 1000, sort: {order: ASC, fields: [date]}) {
+    allContentfulDrinkcast(limit: 1000, sort: {order: DESC, fields: [date]}) {
       edges {
         node {
           title
