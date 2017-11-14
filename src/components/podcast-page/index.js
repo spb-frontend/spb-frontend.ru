@@ -6,12 +6,28 @@ import marked from 'marked'
 import {Box, Thread} from 'react-disqussion'
 import {timestampToSeconds} from '../../utils/time'
 
+import DotsIcon from '-!svg-react-loader?name=Icon!./dots.svg'
+
 const PLAYBACK_RATES = [1.0, 1.2, 1.4, 1.6, 1.8, 2.0]
 
 class PodcastPage extends Component {
   constructor(props) {
     super(props)
     this.handleTimeClick = this.handleTimeClick.bind(this)
+    this.handleActionsToggle = this.handleActionsToggle.bind(this)
+    this.handleSetTimestamp = this.handleSetTimestamp.bind(this)
+
+    this.state = {
+      actionsVisible: false,
+    }
+  }
+
+  componentDidMount() {
+    const match = location.search.slice(1).match(/t=(\d+)$/)
+
+    if (match) {
+      this.audioEl.currentTime = match[1]
+    }
   }
 
   handleTimeClick(e) {
@@ -26,7 +42,26 @@ class PodcastPage extends Component {
     this.audioEl.playbackRate = speed
   }
 
+  handleActionsToggle() {
+    this.setState(({actionsVisible}) => ({
+      actionsVisible: !actionsVisible,
+    }))
+  }
+
+  handleSetTimestamp() {
+    // To int32
+    let time = this.audioEl.currentTime | 0
+
+    // Make sure it is not NaN or Infinity
+    if (!isFinite(time)) {
+      time = 0
+    }
+
+    history.replaceState(null, '', `${location.pathname}?t=${time}`)
+  }
+
   render() {
+    const {actionsVisible} = this.state
     const {data, id} = this.props.pathContext
     const {node: {title, link, notes, formatedDate}} = data
 
@@ -49,14 +84,35 @@ class PodcastPage extends Component {
             src={link}
             ref={el => (this.audioEl = el)} />
           <div className={styles.player_controls}>
-            {PLAYBACK_RATES.map(speed => (
+            <div className={styles.player_controls_actions_panel}>
               <button
-                key={speed}
-                className={styles.player_controls_item}
-                onClick={() => this.handleSpeedClick(speed)}>
-                {speed}
+                type='button'
+                className={styles.player_actions}
+                onClick={this.handleActionsToggle}>
+                <DotsIcon className={styles.player_actions_dots} />
+                <span>Действия</span>
               </button>
-            ))}
+            </div>
+            <div className={styles.player_speed}>
+              {PLAYBACK_RATES.map(speed => (
+                <button
+                  key={speed}
+                  className={styles.player_speed_item}
+                  onClick={() => this.handleSpeedClick(speed)}>
+                  {speed}
+                </button>
+              ))}
+            </div>
+            <div
+              className={styles.player_controls_panel}
+              hidden={!actionsVisible}>
+              <button
+                type='button'
+                className={styles.player_button}
+                onClick={this.handleSetTimestamp}>
+                <span>Установить метку времени</span>
+              </button>
+            </div>
           </div>
         </div>
 
