@@ -49,11 +49,23 @@
 
 .player_controls {
   display: flex;
-  justify-content: flex-end;
   padding: 0 10px 5px;
+  flex-wrap: wrap;
 }
 
-.player_controls_item {
+.player_controls_actions_panel {
+  display: flex;
+  margin-right: auto;
+}
+
+.player_controls_panel {
+  border-top: 1px solid #ccc;
+  margin: 10px 5px 6px;
+  padding-top: 8px;
+  width: 100%;
+}
+
+.player_button {
   color: #555;
   background: transparent;
   border: none;
@@ -61,10 +73,36 @@
   cursor: pointer;
 }
 
-.player_controls_item:hover {
+.player_button:hover {
   color: #000;
 }
 
-.player_controls_item + .player_controls_item {
+.player_actions_dots {
+  width: 10px;
+  height: 10px;
+  margin-right: 4px;
+  fill: #555;
+}
+
+.player_actions {
+  composes: player_button;
+  display: flex;
+  align-items: center;
+}
+
+.player_actions:hover .player_actions_dots {
+  fill: #000;
+}
+
+.player_speed {
+  display: flex;
+  margin-left: auto;
+}
+
+.player_speed_item {
+  composes: player_button;
+}
+
+.player_speed_item + .player_speed_item {
   margin-left: 5px;
 }
