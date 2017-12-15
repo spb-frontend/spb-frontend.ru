@@ -1,132 +1,40 @@
 {
   "assetsByChunkName": {
-    "path---podcast-6": [
-      "path---podcast-6-40265daa8b0e9874129f.js",
-      "path---podcast-6-40265daa8b0e9874129f.js.map"
-    ],
-    "path---podcast-1": [
-      "path---podcast-1-fda7b6438687e56f1449.js",
-      "path---podcast-1-fda7b6438687e56f1449.js.map"
-    ],
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-eb8548821581fca42529.js",
-      "component---src-pages-index-js-eb8548821581fca42529.js.map"
-    ],
-    "path---podcast-17": [
-      "path---podcast-17-5a08a4378e25120636bf.js",
-      "path---podcast-17-5a08a4378e25120636bf.js.map"
-    ],
-    "path---podcast-7": [
-      "path---podcast-7-ef916c7e531baa5378d7.js",
-      "path---podcast-7-ef916c7e531baa5378d7.js.map"
+      "component---src-pages-index-js-25267821907fec04ea02.js",
+      "component---src-pages-index-js-25267821907fec04ea02.js.map"
     ],
     "path---": [
       "path----557518bd178906f8d58a.js",
       "path----557518bd178906f8d58a.js.map"
     ],
-    "path---podcast-8": [
-      "path---podcast-8-8d065ba2827e5463b48b.js",
-      "path---podcast-8-8d065ba2827e5463b48b.js.map"
-    ],
-    "path---podcast-4": [
-      "path---podcast-4-10ba3f3874aa6a52b157.js",
-      "path---podcast-4-10ba3f3874aa6a52b157.js.map"
-    ],
-    "path---podcast-20": [
-      "path---podcast-20-671a910a9e0749332f8c.js",
-      "path---podcast-20-671a910a9e0749332f8c.js.map"
-    ],
-    "path---podcast-16": [
-      "path---podcast-16-3a45542b20a8f598e12e.js",
-      "path---podcast-16-3a45542b20a8f598e12e.js.map"
-    ],
-    "path---podcast-2": [
-      "path---podcast-2-f45902cd8b1f420d5caf.js",
-      "path---podcast-2-f45902cd8b1f420d5caf.js.map"
-    ],
     "component---src-layouts-index-js": [
       "component---src-layouts-index-js-8885594db488280fac03.js",
       "component---src-layouts-index-js-8885594db488280fac03.js.map"
-    ],
-    "path---podcast-9": [
-      "path---podcast-9-4e6ce846f7ca601d85eb.js",
-      "path---podcast-9-4e6ce846f7ca601d85eb.js.map"
-    ],
-    "path---podcast-10": [
-      "path---podcast-10-f0c0c4d31549cd2f31d5.js",
-      "path---podcast-10-f0c0c4d31549cd2f31d5.js.map"
     ],
     "path---index": [
       "path---index-a0e39f21c11f6a62c5ab.js",
       "path---index-a0e39f21c11f6a62c5ab.js.map"
     ],
-    "path---podcast-19": [
-      "path---podcast-19-29ce9907dfdff3d5b60d.js",
-      "path---podcast-19-29ce9907dfdff3d5b60d.js.map"
-    ],
-    "path---podcast-18": [
-      "path---podcast-18-728ea9cebf00f7ee196c.js",
-      "path---podcast-18-728ea9cebf00f7ee196c.js.map"
-    ],
     "component---src-pages-404-js": [
-      "component---src-pages-404-js-98d33e62ecaea5947486.js",
-      "component---src-pages-404-js-98d33e62ecaea5947486.js.map"
+      "component---src-pages-404-js-8b5728302f5f2f6328fa.js",
+      "component---src-pages-404-js-8b5728302f5f2f6328fa.js.map"
     ],
     "commons": [
-      "commons-e30d858b8c497d0089b6.js",
-      "commons-e30d858b8c497d0089b6.js.map"
-    ],
-    "path---podcast-14": [
-      "path---podcast-14-9a5d0d9fc41119c1f0a7.js",
-      "path---podcast-14-9a5d0d9fc41119c1f0a7.js.map"
+      "commons-5beb8e51ec2137dd3e1f.js",
+      "commons-5beb8e51ec2137dd3e1f.js.map"
     ],
     "path---404-html": [
       "path---404-html-a0e39f21c11f6a62c5ab.js",
       "path---404-html-a0e39f21c11f6a62c5ab.js.map"
     ],
-    "component---src-components-podcast-page-index-js": [
-      "component---src-components-podcast-page-index-js-96790fd9659017a058b3.js",
-      "component---src-components-podcast-page-index-js-96790fd9659017a058b3.js.map"
-    ],
     "app": [
-      "app-cf530a260fb7b9748753.js",
-      "app-cf530a260fb7b9748753.js.map"
-    ],
-    "path---podcast-3": [
-      "path---podcast-3-949cb8d26b8f6f4b1a1f.js",
-      "path---podcast-3-949cb8d26b8f6f4b1a1f.js.map"
-    ],
-    "path---podcast": [
-      "path---podcast-0e71bf7767393a0477e8.js",
-      "path---podcast-0e71bf7767393a0477e8.js.map"
-    ],
-    "path---podcast-13": [
-      "path---podcast-13-a5229522b0964232c36a.js",
-      "path---podcast-13-a5229522b0964232c36a.js.map"
-    ],
-    "path---podcast-5": [
-      "path---podcast-5-9a64b4cce37bff07dd33.js",
-      "path---podcast-5-9a64b4cce37bff07dd33.js.map"
+      "app-ce9ac287a3654c32036b.js",
+      "app-ce9ac287a3654c32036b.js.map"
     ],
     "path---404": [
       "path---404-a0e39f21c11f6a62c5ab.js",
       "path---404-a0e39f21c11f6a62c5ab.js.map"
-    ],
-    "path---podcast-15": [
-      "path---podcast-15-d04059862c1a02473a26.js",
-      "path---podcast-15-d04059862c1a02473a26.js.map"
-    ],
-    "component---src-components-podcast-js": [
-      "component---src-components-podcast-js-f63fc30d283436f582bb.js",
-      "component---src-components-podcast-js-f63fc30d283436f582bb.js.map"
-    ],
-    "path---podcast-11": [
-      "path---podcast-11-23f39fde77fdb3b912df.js",
-      "path---podcast-11-23f39fde77fdb3b912df.js.map"
-    ],
-    "path---podcast-12": [
-      "path---podcast-12-ef2073fa6a62dfe68836.js",
-      "path---podcast-12-ef2073fa6a62dfe68836.js.map"
     ]
   }
 }
