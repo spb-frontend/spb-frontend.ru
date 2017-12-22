@@ -50,7 +50,7 @@
     "deploy":
       "rm -rf public && gatsby build && gh-pages -d public -m Updates [ci skip]",
     "deploy:ci":
-      "rm -rf public && gatsby build && node ghpages.js",
+      "sleep 300 && rm -rf public && gatsby build && node ghpages.js",
     "develop": "gatsby develop",
     "format":
       "./node_modules/.bin/prettier-eslint --trailing-comma=\"all\" --no-semi --single-quote --no-bracket-spacing --write  \"gatsby-config.js\" \"gatsby-node.js\"  \"./*.js\" \"src/**/*.js\" \"plugins/**/*.js\"",
