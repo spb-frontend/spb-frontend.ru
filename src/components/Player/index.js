@@ -2,7 +2,15 @@ import React, {Component} from 'react'
 import cn from 'classnames'
 import throttle from 'lodash.throttle'
 import {timestampToSeconds} from '../../utils/time'
-import {Sound, Play, Volume, Timer, Progress, Speed} from './components'
+import {
+  Sound,
+  Play,
+  Volume,
+  Timer,
+  Progress,
+  Speed,
+  Download,
+} from './components'
 import st from './style.module.css'
 
 export class Player extends Component {
@@ -31,8 +39,8 @@ export class Player extends Component {
   }
 
   render() {
-    const { file } = this.props
-    const { playStatus, position, duration, volume, playbackRate } = this.state
+    const {file, fileName} = this.props
+    const {playStatus, position, duration, volume, playbackRate} = this.state
 
     return (
       <div className={st.player}>
@@ -70,6 +78,12 @@ export class Player extends Component {
           playStatus={playStatus}
           autoLoad={true}
           url={file} />
+
+        <Download
+          fileName={fileName}
+          url={file} />
+
+        <div />
       </div>
     )
   }
