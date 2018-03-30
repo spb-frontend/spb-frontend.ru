@@ -4,6 +4,28 @@ import DownloadIcon from './download-icon'
 import cn from 'classnames'
 import st from './style.module.css'
 
+const NewBlob = function(data, datatype) {
+  let out
+  try {
+    out = new Blob([data], {type: datatype})
+  } catch (e) {
+    window.BlobBuilder =
+      window.BlobBuilder ||
+      window.WebKitBlobBuilder ||
+      window.MozBlobBuilder ||
+      window.MSBlobBuilder
+
+    if (e.name == 'TypeError' && window.BlobBuilder) {
+      const bb = new BlobBuilder() // eslint-disable-line
+      bb.append(data)
+      out = bb.getBlob(datatype)
+    } else if (e.name == 'InvalidStateError') {
+      out = new Blob([data], {type: datatype})
+    }
+  }
+  return out
+}
+
 export class Download extends Component {
   state = {
     loaded: false,
@@ -15,7 +37,8 @@ export class Download extends Component {
     fetch(url) // eslint-disable-line
       .then(res => res.blob())
       .then(blobs => {
-        const blob = new Blob([blobs])
+        // const blob = new Blob([blobs])
+        const blob = new NewBlob(blobs, 'audio/mpeg')
         const element = document.createElement('a')
         document.body.appendChild(element)
         element.setAttribute('href', window.URL.createObjectURL(blob))
