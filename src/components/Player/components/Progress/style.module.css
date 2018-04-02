@@ -12,6 +12,10 @@
   border-radius: 2px;
   overflow: hidden;
   margin-top: 15px;
+
+  &:focus {
+    box-shadow: 0 0 5px rgba(0, 0, 0, .5);
+  }
 }
 
 .progress_inner {

@@ -26,6 +26,95 @@ export class Player extends Component {
     this.setState({position: nextProps.position})
   }
 
+  keysHandlersHash = {
+    // space
+    32: () => { this.togglePlaying() },
+
+    // m or M
+    77: () => { this.toggleMute() },
+
+    // arrows
+    37: () => { this.decreasePosition() },
+    38: () => { this.increaseVolume() },
+    39: () => { this.increasePosition() },
+    40: () => { this.decreaseVolume() },
+  }
+
+  togglePlaying() {
+    let { playStatus } = this.state
+
+    if (playStatus === 'STOPPED' || playStatus === 'PAUSED') {
+      playStatus = 'PLAYING'
+    } else {
+      playStatus = 'PAUSED'
+    }
+
+    this.setState({ playStatus })
+  }
+
+  toggleMute() {
+    const { volume, prevVolume = 100 } = this.state
+
+    if (volume) {
+      this.setState({ volume: 0, prevVolume: volume })
+    } else {
+      this.setState({ volume: prevVolume });
+    }
+  }
+
+  changeVolume(value) {
+    if (value > 100) {
+      value = 100
+    }
+
+    if (value < 0) {
+      value = 0
+    }
+
+    this.setState(({ volume }) => ({
+      volume: value,
+      prevVolume: volume
+    }))
+  }
+
+  changePosition(position) {
+    const { duration } = this.state
+
+    if (position > duration) {
+      position = duration
+    }
+
+    if (position < 0) {
+      position = 0
+    }
+
+    this.setState(({ position }));
+  }
+
+  increaseVolume() {
+    const { volume } = this.state
+
+    this.changeVolume(volume + 5);
+  }
+
+  decreaseVolume() {
+    const { volume } = this.state
+
+    this.changeVolume(volume - 5);
+  }
+
+  increasePosition() {
+    const { position } = this.state
+
+    this.changePosition(position + 5000)
+  }
+
+  decreasePosition() {
+    const { position } = this.state
+
+    this.changePosition(position - 5000)
+  }
+
   handlePlaying = opts => {
     const seconds = Math.trunc(opts.position / 1000)
 
@@ -38,12 +127,26 @@ export class Player extends Component {
     this.setState({duration: opts.duration})
   }
 
+  handlePlayerKeyDown = event => {
+    const { playStatus } = this.state
+    const handler = this.keysHandlersHash[event.keyCode]
+    const isSpace = event.keyCode === 32
+    const focusedTag = document.activeElement.tagName.toLocaleLowerCase()
+
+    if (handler && (!isSpace || focusedTag !== 'button')) {
+      event.preventDefault()
+      handler()
+    }
+  }
+
   render() {
     const {file, fileName} = this.props
     const {playStatus, position, duration, volume, playbackRate} = this.state
 
     return (
-      <div className={st.player}>
+      <div
+        className={st.player}
+        onKeyDown={this.handlePlayerKeyDown}>
         <div className={st.controls}>
           <Play
             player={this}

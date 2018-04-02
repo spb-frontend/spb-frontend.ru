@@ -29,7 +29,9 @@ export class Progress extends Component {
         ref={el => (this.progressEl = el)}
         onClick={this.handlePosition}
         className={cn(className, st.progress_wrapper)}>
-        <div className={st.progress}>
+        <div
+          tabIndex='0'
+          className={st.progress}>
           <div
             style={{width: `${this.getWidth(position, duration)}%`}}
             className={st.progress_inner} />

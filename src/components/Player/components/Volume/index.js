@@ -10,20 +10,14 @@ export class Volume extends Component {
   }
 
   switch = () => {
-    const {player, volume} = this.props
-    if (volume === 0) {
-      player.setState({volume: this.state.prevVolume})
-    } else {
-      player.setState({volume: 0})
-      this.setState({prevVolume: volume})
-    }
+    this.props.player.toggleMute()
   }
 
   change = event => {
     const {player} = this.props
     const {target: {value}} = event
 
-    player.setState({volume: parseInt(value)})
+    this.props.player.changeVolume(parseInt(value))
   }
 
   getIcon = () => {

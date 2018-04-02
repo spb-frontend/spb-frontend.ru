@@ -4,14 +4,7 @@ import PauseIcon from './pause-icon'
 
 export class Play extends Component {
   switch = () => {
-    const {player} = this.props
-    const {state: {playStatus}} = player
-
-    if (playStatus === 'STOPPED' || playStatus === 'PAUSED') {
-      player.setState({playStatus: 'PLAYING'})
-    } else {
-      player.setState({playStatus: 'PAUSED'})
-    }
+    this.props.player.togglePlaying()
   }
 
   getIcon = () => {
