@@ -1,0 +1,46 @@
+.photo {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  overflow: hidden;
+  margin: 0 auto;
+  margin-bottom: 20px;
+}
+
+.photo img {
+  margin: 0;
+  padding: 0;
+}
+
+.list {
+  display: flex;
+  flex-flow: row wrap;
+  list-style: none;
+}
+
+.item {
+  width: 33.3333%;
+  margin-bottom: 30px;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+}
+
+@media screen and (max-width: 720px) {
+  .item {
+    width: 50%;
+  }
+}
+
+@media screen and (max-width: 699px) {
+  .item {
+    width: 33.333%;
+  }
+}
+
+@media screen and (max-width: 522px) {
+  .item {
+    width: 50%;
+  }
+}

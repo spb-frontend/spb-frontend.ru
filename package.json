@@ -34,6 +34,8 @@
     "babel-preset-env": "^1.6.1",
     "eslint": "^4.19.1",
     "eslint-plugin-compat": "^2.2.0",
+    "eslint-plugin-css-modules": "^2.7.5",
+    "eslint-plugin-flowtype": "^2.46.1",
     "eslint-plugin-import": "^2.9.0",
     "eslint-plugin-jsx-a11y": "^6.0.3",
     "eslint-plugin-react": "^7.7.0",
@@ -72,11 +74,13 @@
       "\\.(jpg|jpeg|png|gif|eot|otf|webp|svg|ttf|woff|woff2|mp4|webm|wav|mp3|m4a|aac|oga)$": "<rootDir>/jest/fileMock.js",
       "\\.(css)$": "identity-obj-proxy"
     },
-    "transform": { "^.+\\.jsx?$": "<rootDir>/jest/transformer.js" }
+    "transform": {
+      "^.+\\.jsx?$": "<rootDir>/jest/transformer.js"
+    }
   },
   "lint-staged": {
     "*.{js,jsx}": [
-      "eslint"
+      "eslint --fix"
     ],
     "*.{css,pcss}": [
       "stylelint"

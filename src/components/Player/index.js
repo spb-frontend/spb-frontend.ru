@@ -1,16 +1,8 @@
-import React, {Component} from 'react'
+import React, { Component } from 'react'
 import cn from 'classnames'
 import throttle from 'lodash.throttle'
-import {timestampToSeconds} from '../../utils/time'
-import {
-  Sound,
-  Play,
-  Volume,
-  Timer,
-  Progress,
-  Speed,
-  Download,
-} from './components'
+import { timestampToSeconds } from '../../../utils'
+import { Sound, Play, Volume, Timer, Progress, Speed } from './components'
 import st from './style.module.css'
 
 export class Player extends Component {
@@ -23,7 +15,7 @@ export class Player extends Component {
   }
 
   componentWillReceiveProps(nextProps) {
-    this.setState({position: nextProps.position})
+    this.setState({ position: nextProps.position })
   }
 
   keysHandlersHash = {
@@ -124,7 +116,7 @@ export class Player extends Component {
   }
 
   handleLoading = opts => {
-    this.setState({duration: opts.duration})
+    this.setState({ duration: opts.duration })
   }
 
   handlePlayerKeyDown = event => {

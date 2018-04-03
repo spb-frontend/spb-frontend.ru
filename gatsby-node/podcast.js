@@ -19,6 +19,18 @@ module.exports = async ({ graphql, boundActionCreators: { createPage } }) => {
             notes {
               notes
             }
+            persons {
+              id
+              slug
+              name
+              lastname
+              company
+              photo {
+                file {
+                  url
+                }
+              }
+            }
           }
         }
       }

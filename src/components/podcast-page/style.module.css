@@ -1,4 +1,3 @@
-
 .post {
   border-bottom: 1px solid #eee;
   padding-bottom: 20px;
@@ -67,4 +66,8 @@
 
 .player_controls_item + .player_controls_item {
   margin-left: 5px;
+}
+
+.personsList {
+  margin: 64px 0 32px;
 }

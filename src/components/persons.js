@@ -2,8 +2,10 @@ import React from 'react'
 import Helmet from 'react-helmet'
 import Link from 'gatsby-link'
 
-import styles from './../css/person.module.css'
+import PersonsList from '../components/persons-list'
 import { defaultHelmetMeta } from '../layouts/index'
+
+import styles from './../css/person.module.css'
 
 function getLastPodcast(array) {
   const newArray = array.map(podcast => podcast.number)
@@ -32,38 +34,15 @@ function sortPersons(array) {
   return newArray
 }
 
-const Person = ({ node: { name, lastname, photo, personId } }) => {
-
-  return (
-    <div className={styles.item}>
-      <div className={styles.photo}>
-        <Link to={`/person/${personId}`}>
-          {photo ? (
-            <img src={`https:${photo.file.url}?fit=thumb&h=100&w=100`} />
-          ) : (
-            <img src='/Person-placeholder.jpg' />
-          )}
-        </Link>
-      </div>
-      <Link to={`/person/${personId}`}>
-        {name} {lastname}
-      </Link>
-    </div>
-  )
-}
 
 export default props => {
   const { pathContext: { data: person } } = props
-  const sortedPersons = sortPersons(person)
+  const sortedPersons = sortPersons(person).map(edge => edge.node)
 
   return (
     <div>
       <div className={styles.list}>
-        {sortedPersons.map(({ node }, index) => {
-          return <Person
-            key={index}
-            node={node} />
-        })}
+        <PersonsList collection={sortedPersons} />
       </div>
 
       <Helmet meta={defaultHelmetMeta}>

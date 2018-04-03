@@ -2,7 +2,7 @@
 'use strict'
 
 import React, {Component} from 'react'
-import {getJSON, postJSON, serialize} from '../utils'
+import {getJSON, postJSON, serialize} from '../../../utils'
 import st from './style.module.css'
 
 class SubscriptionForm extends Component {

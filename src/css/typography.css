@@ -358,7 +358,7 @@ h5 {
 }
 
 h6 {
-  margin-bottom: 0 0 .85rem;
+  margin-bottom: .85rem;
   padding: 0;
   color: inherit;
   font-family:
@@ -380,19 +380,19 @@ h6 {
 }
 
 hgroup {
-  margin-bottom: 0 0 .85rem;
+  margin-bottom: .85rem;
   padding: 0;
 }
 
 ul {
-  margin: 0 0 .85rem .85rem;
+  margin: 0;
   padding: 0;
   list-style-position: outside;
   list-style-image: none;
 }
 
 ol {
-  margin-bottom: 0 0 .85rem .85rem;
+  margin: 0;
   padding: 0;
   list-style-position: outside;
   list-style-image: none;
@@ -400,7 +400,7 @@ ol {
 
 dl {
   padding: 0;
-  margin-bottom: 0 0 .85rem;
+  margin: 0;
 }
 
 dd {

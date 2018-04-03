@@ -1,72 +1,104 @@
 {
   "extends": [
     "eslint:recommended",
-    "plugin:react/recommended"
+    "plugin:react/recommended",
+    "plugin:flowtype/recommended",
+    "plugin:css-modules/recommended"
   ],
-  "plugins": ["react", "compat"],
+  "plugins": ["react", "compat", "flowtype", "css-modules"],
   "parser": "babel-eslint",
   "parserOptions": {
-    "sourceType": "module",
+    "sourceType": "module"
   },
   "rules": {
     "compat/compat": 2,
     "global-require": [0],
+    "id-length": ["error", { "exceptions": ["x", "y"] }],
     "import/no-unresolved": [0],
     "jsx-quotes": [2, "prefer-single"],
-    "no-unused-vars": [0],
+    "linebreak-style": "off",
+    "new-cap": [0],
+    "no-plusplus": [0],
+    "no-underscore-dangle": ["error", { "allow": ["_ga", "__INITIAL_STATE__"] }],
+    "no-unused-vars": [2, { "varsIgnorePattern": "React" }],
+    "require-jsdoc": [0],
     "quotes": [2, "single"],
+
     "react/display-name": [0],
     "react/jsx-boolean-value": [0],
     "react/jsx-closing-bracket-location": [2, "after-props"],
     "react/jsx-first-prop-new-line": [2, "multiline"],
     "react/jsx-indent": [2, 2],
     "react/jsx-indent-props": [2, 2],
-    "react/jsx-max-props-per-line": [2, {"maximum": 1, "when": "always"}],
-    "react/jsx-no-bind": [2, {"allowArrowFunctions": true}],
+    "react/jsx-max-props-per-line": [2, { "maximum": 1, "when": "always" }],
+    "react/jsx-no-bind": [0],
+    "react/jsx-no-duplicate-props": [2, { "ignoreCase": true }],
+    "react/jsx-wrap-multilines": [
+      2,
+      {
+        "assignment": false,
+        "arrow": false,
+        "return": false,
+        "declaration": false
+      }
+    ],
+    "react/jsx-tag-spacing": [
+      2,
+      {
+        "closingSlash": "never",
+        "beforeSelfClosing": "always",
+        "afterOpening": "never"
+      }
+    ],
     "react/no-deprecated": [2],
     "react/no-did-mount-set-state": [2],
     "react/no-did-update-set-state": [2],
     "react/no-direct-mutation-state": [2],
     "react/no-multi-comp": [0],
     "react/no-unescaped-entities": [2],
-    "react/jsx-no-duplicate-props": [2, {"ignoreCase": true}],
+    "react/jsx-uses-vars": [2],
     "react/prop-types": [0],
-    "react/sort-comp": [2, {
-      "order": [
-        "static-methods",
-        "lifecycle",
-        "/^on.+$/",
-        "everything-else",
-        "rendering"
-      ],
-      "groups": {
-        "rendering": [
-          "/^render.+$/",
-          "render"
+    "react/sort-comp": [
+      2,
+      {
+        "order": [
+          "type-annotations",
+          "static-methods",
+          "instance-variables",
+          "instance-methods",
+          "lifecycle",
+          "bindings",
+          "everything-else",
+          "rendering"
         ],
-        "lifecycle": [
-          "contextTypes",
-          "childContextTypes",
-          "statics",
-          "constructor",
-          "state",
-          "getChildContext",
-          "componentWillMount",
-          "componentDidMount",
-          "componentWillReceiveProps",
-          "shouldComponentUpdate",
-          "componentWillUpdate",
-          "componentDidUpdate",
-          "componentWillUnmount"
-        ]
+        "groups": {
+          "rendering": ["/^render.+$/", "render"],
+          "bindings": ["/^on.+$/"],
+          "lifecycle": [
+            "displayName",
+            "propTypes",
+            "contextTypes",
+            "childContextTypes",
+            "mixins",
+            "statics",
+            "defaultProps",
+            "constructor",
+            "state",
+            "getDefaultProps",
+            "getInitialState",
+            "state",
+            "getChildContext",
+            "componentWillMount",
+            "componentDidMount",
+            "componentWillReceiveProps",
+            "shouldComponentUpdate",
+            "componentWillUpdate",
+            "componentDidUpdate",
+            "componentWillUnmount"
+          ]
+        }
       }
-    }],
-    "react/jsx-tag-spacing": [2, {
-      "closingSlash": "never",
-      "beforeSelfClosing": "always",
-      "afterOpening": "never"
-    }],
-    "react/wrap-multilines": [0],
+    ]
   },
   "env": {
     "browser": true,

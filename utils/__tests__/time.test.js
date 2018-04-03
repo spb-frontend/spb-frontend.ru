@@ -1,4 +1,4 @@
-import {timestampToSeconds} from './time'
+import {timestampToSeconds} from '../time'
 
 describe('utils#timestampToSeconds', () => {
   const testData = [
