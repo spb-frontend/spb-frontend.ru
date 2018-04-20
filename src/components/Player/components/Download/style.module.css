@@ -1,0 +1,31 @@
+.downloadIcon {
+  fill: #ce350d;
+  width: 30px;
+  height: 30px;
+  display: block;
+  margin: 0 10px;
+  border-bottom: none;
+}
+
+.loaded {
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+  animation-name: download;
+}
+
+@keyframes download {
+  0% {
+    transform: translateY(-100%);
+    opacity: 0;
+  }
+
+  10% {
+    transform: translateY(-100%);
+    opacity: 1;
+  }
+
+  100% {
+    opacity: 1;
+    transform: translateY(100%);
+  }
+}

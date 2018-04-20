@@ -132,8 +132,8 @@ export class Player extends Component {
   }
 
   render() {
-    const { file } = this.props
-    const { playStatus, position, duration, volume, playbackRate } = this.state
+    const {file, fileName} = this.props
+    const {playStatus, position, duration, volume, playbackRate} = this.state
 
     return (
       <div
@@ -173,6 +173,12 @@ export class Player extends Component {
           playStatus={playStatus}
           autoLoad={true}
           url={file} />
+
+        <Download
+          fileName={fileName}
+          url={file} />
+
+        <div />
       </div>
     )
   }
