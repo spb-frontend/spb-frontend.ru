@@ -1,0 +1,2923 @@
+{
+  "37F6FQPUkw6m0wuSe8awU2": {
+    "type": "person",
+    "id": "37F6FQPUkw6m0wuSe8awU2",
+    "name": {
+      "ru": "Вячеслав"
+    },
+    "lastname": {
+      "ru": "Шебанов"
+    },
+    "twitter": {
+      "ru": "thought_sync"
+    },
+    "slack": {
+      "ru": "termina1"
+    },
+    "photo": {
+      "ru": {
+        "sys": {
+          "type": "Link",
+          "linkType": "Asset",
+          "id": "1erejz3HVcWIOeW448wuoy"
+        }
+      }
+    },
+    "podcasts": {
+      "ru": [
+        {
+          "sys": {
+            "type": "Link",
+            "linkType": "Entry",
+            "id": "3DSxKGiElymmQkyuI8syMc"
+          }
+        }
+      ]
+    },
+    "slug": {
+      "ru": "vyacheslav-shebanov"
+    }
+  },
+  "20xOt1Ju288SSgUEgoA4wK": {
+    "type": "person",
+    "id": "20xOt1Ju288SSgUEgoA4wK",
+    "name": {
+      "ru": "Сергей"
+    },
+    "lastname": {
+      "ru": "Густун"
+    },
+    "twitter": {
+      "ru": "gaserd123"
+    },
+    "slack": {
+      "ru": "gaserd"
+    },
+    "photo": {
+      "ru": {
+        "sys": {
+          "type": "Link",
+          "linkType": "Asset",
+          "id": "5jBl3cSONyOOWewYmwSwms"
+        }
+      }
+    },
+    "company": {
+      "ru": "Aviasales, Handsales"
+    },
+    "podcasts": {
+      "ru": [
+        {
+          "sys": {
+            "type": "Link",
+            "linkType": "Entry",
+            "id": "6x5ixnyiaWu8qGuSSk0Aei"
+          }
+        }
+      ]
+    },
+    "slug": {
+      "ru": "sergey-gustun"
+    }
+  },
+  "6feZANPNE4GOmUweKkYwqk": {
+    "type": "person",
+    "id": "6feZANPNE4GOmUweKkYwqk",
+    "name": {
+      "ru": "Евгений"
+    },
+    "lastname": {
+      "ru": "Шкодин"
+    },
+    "twitter": {
+      "ru": "iffjey"
+    },
+    "slack": {
+      "ru": "iffjey"
+    },
+    "photo": {
+      "ru": {
+        "sys": {
+          "type": "Link",
+          "linkType": "Asset",
+          "id": "wwkVmqEXZICS4oig4uiSu"
+        }
+      }
+    },
+    "company": {
+      "ru": "Evil Martians"
+    },
+    "podcasts": {
+      "ru": [
+        {
+          "sys": {
+            "type": "Link",
+            "linkType": "Entry",
+            "id": "1afGM3WWseYkiwwQgY8qCK"
+          }
+        }
+      ]
+    },
+    "slug": {
+      "ru": "evgeniy-shkodin"
+    }
+  },
+  "2fLhhdERfSQig0gKUAgW8G": {
+    "type": "person",
+    "id": "2fLhhdERfSQig0gKUAgW8G",
+    "name": {
+      "ru": "Дмитрий"
+    },
+    "lastname": {
+      "ru": "Локтев"
+    },
+    "twitter": {
+      "ru": "potomushto"
+    },
+    "photo": {
+      "ru": {
+        "sys": {
+          "type": "Link",
+          "linkType": "Asset",
+          "id": "2GESGJIaMEU2wG0mCSqyss"
+        }
+      }
+    },
+    "podcasts": {
+      "ru": [
+        {
+          "sys": {
+            "type": "Link",
+            "linkType": "Entry",
+            "id": "62V4ADFqusuQwcyWAoyS4a"
+          }
+        },
+        {
+          "sys": {
+            "type": "Link",
+            "linkType": "Entry",
+            "id": "6x5ixnyiaWu8qGuSSk0Aei"
+          }
+        }
+      ]
+    },
+    "slug": {
+      "ru": "dmitry-loktev"
+    }
+  },
+  "1hi0P9QP42IICIWcS6IioM": {
+    "type": "person",
+    "id": "1hi0P9QP42IICIWcS6IioM",
+    "name": {
+      "ru": "Катя"
+    },
+    "lastname": {
+      "ru": "Трифонова"
+    },
+    "position": {
+      "ru": "фронтенд-разработчица из _одной финтех-компании_"
+    },
+    "vk": {
+      "ru": "trifonova.katia"
+    },
+    "telegram": {
+      "ru": "trifonova_katia"
+    },
+    "twitter": {
+      "ru": "katiafriday"
+    },
+    "slack": {
+      "ru": "katia"
+    },
+    "photo": {
+      "ru": {
+        "sys": {
+          "type": "Link",
+          "linkType": "Asset",
+          "id": "74ikduYI24o4UoOCyiWaOU"
+        }
+      }
+    },
+    "talks": {
+      "ru": [
+        {
+          "sys": {
+            "type": "Link",
+            "linkType": "Entry",
+            "id": "1AZLHZ5IrSKyIWAM64cuaY"
+          }
+        }
+      ]
+    },
+    "slug": {
+      "ru": "katya-trifonova"
+    }
+  },
+  "3CyuHKiJWok2SM6IWskqw2": {
+    "type": "person",
+    "id": "3CyuHKiJWok2SM6IWskqw2",
+    "name": {
+      "ru": "Андрей"
+    },
+    "lastname": {
+      "ru": "Гурылев"
+    },
+    "slack": {
+      "ru": "forgrew"
+    },
+    "photo": {
+      "ru": {
+        "sys": {
+          "type": "Link",
+          "linkType": "Asset",
+          "id": "2XVzUcE6gwIEsUKuoEAq64"
+        }
+      }
+    },
+    "podcasts": {
+      "ru": [
+        {
+          "sys": {
+            "type": "Link",
+            "linkType": "Entry",
+            "id": "1tCSuGdUe84oUGuSeowmY0"
+          }
+        }
+      ]
+    },
+    "slug": {
+      "ru": "andrey-gurilev"
+    }
+  },
+  "2RGzIQ9MAMYAq4OogI8OKO": {
+    "type": "person",
+    "id": "2RGzIQ9MAMYAq4OogI8OKO",
+    "name": {
+      "ru": "Сергей"
+    },
+    "lastname": {
+      "ru": "Сова"
+    },
+    "twitter": {
+      "ru": "sergeysovacom"
+    },
+    "photo": {
+      "ru": {
+        "sys": {
+          "type": "Link",
+          "linkType": "Asset",
+          "id": "2T193AQMjK8eKQ2o4cUO8A"
+        }
+      }
+    },
+    "podcasts": {
+      "ru": [
+        {
+          "sys": {
+            "type": "Link",
+            "linkType": "Entry",
+            "id": "164woGSNoY08uS0SkYsseo"
+          }
+        }
+      ]
+    },
+    "slug": {
+      "ru": "sergey-sova"
+    }
+  },
+  "1gdclYhVbeCUAEkmgQq2e2": {
+    "type": "person",
+    "id": "1gdclYhVbeCUAEkmgQq2e2",
+    "name": {
+      "ru": "Александр"
+    },
+    "lastname": {
+      "ru": "Курганов"
+    },
+    "position": {
+      "ru": "frontend developer"
+    },
+    "vk": {
+      "ru": "akurganow"
+    },
+    "telegram": {
+      "ru": "akurganow"
+    },
+    "twitter": {
+      "ru": "akurganow"
+    },
+    "slack": {
+      "ru": "akurganow"
+    },
+    "photo": {
+      "ru": {
+        "sys": {
+          "type": "Link",
+          "linkType": "Asset",
+          "id": "3xKfSAWKOQSoiyIOeCKG4i"
+        }
+      }
+    },
+    "podcasts": {
+      "ru": [
+        {
+          "sys": {
+            "type": "Link",
+            "linkType": "Entry",
+            "id": "4k6SM8f3kAo2286KUYUy6q"
+          }
+        },
+        {
+          "sys": {
+            "type": "Link",
+            "linkType": "Entry",
+            "id": "6J5wqKOSCAcwa0Wcq0YsU2"
+          }
+        },
+        {
+          "sys": {
+            "type": "Link",
+            "linkType": "Entry",
+            "id": "4R1M3xvRRmKWAmKQC46g4S"
+          }
+        },
+        {
+          "sys": {
+            "type": "Link",
+            "linkType": "Entry",
+            "id": "4E4wd1fGsUUEO8OSMcQImw"
+          }
+        },
+        {
+          "sys": {
+            "type": "Link",
+            "linkType": "Entry",
+            "id": "1reZ2DOUe0agysGcSCw2ai"
+          }
+        },
+        {
+          "sys": {
+            "type": "Link",
+            "linkType": "Entry",
+            "id": "52RhCoGmt2oIocecy4KWy"
+          }
+        },
+        {
+          "sys": {
+            "type": "Link",
+            "linkType": "Entry",
+            "id": "2NSxb4X5JSSA0iIWOECmmi"
+          }
+        },
+        {
+          "sys": {
+            "type": "Link",
+            "linkType": "Entry",
+            "id": "1UnvDCYTV6wcYSYAeAuYyy"
+          }
+        },
+        {
+          "sys": {
+            "type": "Link",
+            "linkType": "Entry",
+            "id": "1afGM3WWseYkiwwQgY8qCK"
+          }
+        },
+        {
+          "sys": {
+            "type": "Link",
+            "linkType": "Entry",
+            "id": "5rVz5baPewkwUKSKa4yqCs"
+          }
+        },
+        {
+          "sys": {
+            "type": "Link",
+            "linkType": "Entry",
+            "id": "255FP0qPoscEIW8O4IIYEE"
+          }
+        },
+        {
+          "sys": {
+            "type": "Link",
+            "linkType": "Entry",
+            "id": "6iaM9epZZusWoY0MUKsEsa"
+          }
+        },
+        {
+          "sys": {
+            "type": "Link",
+            "linkType": "Entry",
+            "id": "1tCSuGdUe84oUGuSeowmY0"
+          }
+        }
+      ]
+    },
+    "slug": {
+      "ru": "akurganow"
+    }
+  },
+  "2ghXZpLXfCm0MuwwmAe6ey": {
+    "type": "person",
+    "id": "2ghXZpLXfCm0MuwwmAe6ey",
+    "name": {
+      "ru": "Светлана"
+    },
+    "lastname": {
+      "ru": "Беляева"
+    },
+    "twitter": {
+      "ru": "_Aista_"
+    },
+    "slack": {
+      "ru": "aista"
+    },
+    "photo": {
+      "ru": {
+        "sys": {
+          "type": "Link",
+          "linkType": "Asset",
+          "id": "2bo9ffTt9KeO8Ui4SiUWUa"
+        }
+      }
+    },
+    "podcasts": {
+      "ru": [
+        {
+          "sys": {
+            "type": "Link",
+            "linkType": "Entry",
+            "id": "4k6SM8f3kAo2286KUYUy6q"
+          }
+        },
+        {
+          "sys": {
+            "type": "Link",
+            "linkType": "Entry",
+            "id": "6J5wqKOSCAcwa0Wcq0YsU2"
+          }
+        },
+        {
+          "sys": {
+            "type": "Link",
+            "linkType": "Entry",
+            "id": "1wal4EXydqyAuW6EkMGomw"
+          }
+        }
+      ]
+    },
+    "slug": {
+      "ru": "svetlana-belyaeva"
+    }
+  },
+  "MnQjZTsZS6mCKSeE6WeSI": {
+    "type": "person",
+    "id": "MnQjZTsZS6mCKSeE6WeSI",
+    "name": {
+      "ru": "Михаил"
+    },
+    "lastname": {
+      "ru": "Башуров"
+    },
+    "twitter": {
+      "ru": "SaitoNakamura"
+    },
+    "slack": {
+      "ru": "saitonakamura"
+    },
+    "photo": {
+      "ru": {
+        "sys": {
+          "type": "Link",
+          "linkType": "Asset",
+          "id": "6rUtLdsXzqI0Amk2GeKYQW"
+        }
+      }
+    },
+    "podcasts": {
+      "ru": [
+        {
+          "sys": {
+            "type": "Link",
+            "linkType": "Entry",
+            "id": "4k6SM8f3kAo2286KUYUy6q"
+          }
+        },
+        {
+          "sys": {
+            "type": "Link",
+            "linkType": "Entry",
+            "id": "6J5wqKOSCAcwa0Wcq0YsU2"
+          }
+        },
+        {
+          "sys": {
+            "type": "Link",
+            "linkType": "Entry",
+            "id": "4aSvlYjCRyIm4Q2Y6yQoEm"
+          }
+        },
+        {
+          "sys": {
+            "type": "Link",
+            "linkType": "Entry",
+            "id": "52RhCoGmt2oIocecy4KWy"
+          }
+        },
+        {
+          "sys": {
+            "type": "Link",
+            "linkType": "Entry",
+            "id": "3Jk28NIt3iC0cmwGMWyIGQ"
+          }
+        }
+      ]
+    },
+    "slug": {
+      "ru": "mikhail-bashurov"
+    }
+  },
+  "17h5rGa8b4W6KwgCSgi0a4": {
+    "type": "person",
+    "id": "17h5rGa8b4W6KwgCSgi0a4",
+    "name": {
+      "ru": "Андрей"
+    },
+    "lastname": {
+      "ru": "Мелихов"
+    },
+    "twitter": {
+      "ru": "amel_true"
+    },
+    "slack": {
+      "ru": "amel_true"
+    },
+    "photo": {
+      "ru": {
+        "sys": {
+          "type": "Link",
+          "linkType": "Asset",
+          "id": "1ZfOpIMzKoe2sCI8Imcc8S"
+        }
+      }
+    },
+    "podcasts": {
+      "ru": [
+        {
+          "sys": {
+            "type": "Link",
+            "linkType": "Entry",
+            "id": "7jR6Np4amkeMy6CUimyAic"
+          }
+        }
+      ]
+    },
+    "slug": {
+      "ru": "andrey-melikhov"
+    }
+  },
+  "5fxGvx5cl2Ag8CUS2yye4m": {
+    "type": "person",
+    "id": "5fxGvx5cl2Ag8CUS2yye4m",
+    "name": {
+      "ru": "Роман"
+    },
+    "lastname": {
+      "ru": "Ганин"
+    },
+    "twitter": {
+      "ru": "Realetive"
+    },
+    "photo": {
+      "ru": {
+        "sys": {
+          "type": "Link",
+          "linkType": "Asset",
+          "id": "4owrM5hC5a6ksmgggYcwkO"
+        }
+      }
+    },
+    "podcasts": {
+      "ru": [
+        {
+          "sys": {
+            "type": "Link",
+            "linkType": "Entry",
+            "id": "164woGSNoY08uS0SkYsseo"
+          }
+        }
+      ]
+    },
+    "slug": {
+      "ru": "roman-ganin"
+    }
+  },
+  "457aJsdlV6Y0uAuE42mOq6": {
+    "type": "person",
+    "id": "457aJsdlV6Y0uAuE42mOq6",
+    "name": {
+      "ru": "Богдан"
+    },
+    "lastname": {
+      "ru": "Чадкин"
+    },
+    "twitter": {
+      "ru": "IAmTrySound"
+    },
+    "slack": {
+      "ru": "trysound"
+    },
+    "photo": {
+      "ru": {
+        "sys": {
+          "type": "Link",
+          "linkType": "Asset",
+          "id": "UeLu4abrIAK62kkIkCgGC"
+        }
+      }
+    },
+    "podcasts": {
+      "ru": [
+        {
+          "sys": {
+            "type": "Link",
+            "linkType": "Entry",
+            "id": "5GjC2mY4jS28gwGeQEoYG8"
+          }
+        }
+      ]
+    },
+    "slug": {
+      "ru": "bogdan-chadkin"
+    }
+  },
+  "3ul9j1mfkcYiQooimGOQ0o": {
+    "type": "person",
+    "id": "3ul9j1mfkcYiQooimGOQ0o",
+    "name": {
+      "ru": "Виталий"
+    },
+    "lastname": {
+      "ru": "Ризо"
+    },
+    "twitter": {
+      "ru": "KillBillsbor"
+    },
+    "slack": {
+      "ru": "killbill"
+    },
+    "photo": {
+      "ru": {
+        "sys": {
+          "type": "Link",
+          "linkType": "Asset",
+          "id": "2AHzfBRDawyAYOq2i8myOq"
+        }
+      }
+    },
+    "company": {
+      "ru": "Амплифер"
+    },
+    "podcasts": {
+      "ru": [
+        {
+          "sys": {
+            "type": "Link",
+            "linkType": "Entry",
+            "id": "4aSvlYjCRyIm4Q2Y6yQoEm"
+          }
+        }
+      ]
+    },
+    "slug": {
+      "ru": "vitaliy-rizo"
+    }
+  },
+  "28bm76VLkkYcO0UEo6SaU6": {
+    "type": "person",
+    "id": "28bm76VLkkYcO0UEo6SaU6",
+    "name": {
+      "ru": "Тим"
+    },
+    "lastname": {
+      "ru": "Маринин"
+    },
+    "photo": {
+      "ru": {
+        "sys": {
+          "type": "Link",
+          "linkType": "Asset",
+          "id": "7tTvT643nyQsE2aUkCAyiw"
+        }
+      }
+    },
+    "podcasts": {
+      "ru": [
+        {
+          "sys": {
+            "type": "Link",
+            "linkType": "Entry",
+            "id": "4E4wd1fGsUUEO8OSMcQImw"
+          }
+        }
+      ]
+    },
+    "slug": {
+      "ru": "tim-marinin"
+    }
+  },
+  "hcEIijeJZ60QmOs6g2UIg": {
+    "type": "person",
+    "id": "hcEIijeJZ60QmOs6g2UIg",
+    "name": {
+      "ru": "Александр"
+    },
+    "lastname": {
+      "ru": "Коротаев"
+    },
+    "slack": {
+      "ru": "lekzd"
+    },
+    "photo": {
+      "ru": {
+        "sys": {
+          "type": "Link",
+          "linkType": "Asset",
+          "id": "4rFRUTzBagiucA2EScKy6M"
+        }
+      }
+    },
+    "company": {
+      "ru": "Тинькофф"
+    },
+    "podcasts": {
+      "ru": [
+        {
+          "sys": {
+            "type": "Link",
+            "linkType": "Entry",
+            "id": "5H6X9MySwo4Y6Iu6oEQwmi"
+          }
+        },
+        {
+          "sys": {
+            "type": "Link",
+            "linkType": "Entry",
+            "id": "4R1M3xvRRmKWAmKQC46g4S"
+          }
+        },
+        {
+          "sys": {
+            "type": "Link",
+            "linkType": "Entry",
+            "id": "4E4wd1fGsUUEO8OSMcQImw"
+          }
+        },
+        {
+          "sys": {
+            "type": "Link",
+            "linkType": "Entry",
+            "id": "1wal4EXydqyAuW6EkMGomw"
+          }
+        },
+        {
+          "sys": {
+            "type": "Link",
+            "linkType": "Entry",
+            "id": "52RhCoGmt2oIocecy4KWy"
+          }
+        },
+        {
+          "sys": {
+            "type": "Link",
+            "linkType": "Entry",
+            "id": "164woGSNoY08uS0SkYsseo"
+          }
+        },
+        {
+          "sys": {
+            "type": "Link",
+            "linkType": "Entry",
+            "id": "3DSxKGiElymmQkyuI8syMc"
+          }
+        },
+        {
+          "sys": {
+            "type": "Link",
+            "linkType": "Entry",
+            "id": "3Jk28NIt3iC0cmwGMWyIGQ"
+          }
+        },
+        {
+          "sys": {
+            "type": "Link",
+            "linkType": "Entry",
+            "id": "5rVz5baPewkwUKSKa4yqCs"
+          }
+        },
+        {
+          "sys": {
+            "type": "Link",
+            "linkType": "Entry",
+            "id": "6iaM9epZZusWoY0MUKsEsa"
+          }
+        },
+        {
+          "sys": {
+            "type": "Link",
+            "linkType": "Entry",
+            "id": "7jR6Np4amkeMy6CUimyAic"
+          }
+        },
+        {
+          "sys": {
+            "type": "Link",
+            "linkType": "Entry",
+            "id": "17RX4Og62CQA8mOsysMmEq"
+          }
+        }
+      ]
+    },
+    "slug": {
+      "ru": "alexander-korotaev"
+    }
+  },
+  "4Vt1UebyQgSm6c2qySmYMQ": {
+    "type": "person",
+    "id": "4Vt1UebyQgSm6c2qySmYMQ",
+    "name": {
+      "ru": "Дмитрий"
+    },
+    "lastname": {
+      "ru": "Назаров"
+    },
+    "twitter": {
+      "ru": "nazarov_tech"
+    },
+    "photo": {
+      "ru": {
+        "sys": {
+          "type": "Link",
+          "linkType": "Asset",
+          "id": "2LRA5RXBwAsuEWOoae4gKc"
+        }
+      }
+    },
+    "podcasts": {
+      "ru": [
+        {
+          "sys": {
+            "type": "Link",
+            "linkType": "Entry",
+            "id": "5rVz5baPewkwUKSKa4yqCs"
+          }
+        }
+      ]
+    },
+    "slug": {
+      "ru": "dmitriy-nazarov"
+    }
+  },
+  "1jUwHksAE00UYG2G2qgekW": {
+    "type": "person",
+    "id": "1jUwHksAE00UYG2G2qgekW",
+    "name": {
+      "ru": "Сергей"
+    },
+    "lastname": {
+      "ru": "Рубанов"
+    },
+    "twitter": {
+      "ru": "chicoxyzzy"
+    },
+    "slack": {
+      "ru": "chicoxyzzy"
+    },
+    "photo": {
+      "ru": {
+        "sys": {
+          "type": "Link",
+          "linkType": "Asset",
+          "id": "5iOMkYMseQcQAUMcQIo4W8"
+        }
+      }
+    },
+    "podcasts": {
+      "ru": [
+        {
+          "sys": {
+            "type": "Link",
+            "linkType": "Entry",
+            "id": "6iaM9epZZusWoY0MUKsEsa"
+          }
+        }
+      ]
+    },
+    "slug": {
+      "ru": "sergey-rubanov"
+    }
+  },
+  "2OhKNmofx6WCUywASYUycW": {
+    "type": "person",
+    "id": "2OhKNmofx6WCUywASYUycW",
+    "name": {
+      "ru": "Константин"
+    },
+    "lastname": {
+      "ru": "Ефимов"
+    },
+    "photo": {
+      "ru": {
+        "sys": {
+          "type": "Link",
+          "linkType": "Asset",
+          "id": "4nMRoBRugw6s8qmQk68Ogu"
+        }
+      }
+    },
+    "podcasts": {
+      "ru": [
+        {
+          "sys": {
+            "type": "Link",
+            "linkType": "Entry",
+            "id": "3Jk28NIt3iC0cmwGMWyIGQ"
+          }
+        }
+      ]
+    },
+    "slug": {
+      "ru": "konstantin-efimov"
+    }
+  },
+  "3fseMTlTegEiuum6mUmiKS": {
+    "type": "person",
+    "id": "3fseMTlTegEiuum6mUmiKS",
+    "name": {
+      "ru": "Дмитрий"
+    },
+    "lastname": {
+      "ru": "Махнев"
+    },
+    "twitter": {
+      "ru": "DmitryMakhnev"
+    },
+    "photo": {
+      "ru": {
+        "sys": {
+          "type": "Link",
+          "linkType": "Asset",
+          "id": "56rD5fqttYOq4M8i0cqmGe"
+        }
+      }
+    },
+    "podcasts": {
+      "ru": [
+        {
+          "sys": {
+            "type": "Link",
+            "linkType": "Entry",
+            "id": "17RX4Og62CQA8mOsysMmEq"
+          }
+        }
+      ]
+    },
+    "slug": {
+      "ru": "dmitry-makhnev"
+    }
+  },
+  "72LlzQ7Sy48cgcqk6AWOWu": {
+    "type": "person",
+    "id": "72LlzQ7Sy48cgcqk6AWOWu",
+    "name": {
+      "ru": "Зарема"
+    },
+    "lastname": {
+      "ru": "Халилова"
+    },
+    "twitter": {
+      "ru": "Zmoki"
+    },
+    "slack": {
+      "ru": "zarema"
+    },
+    "photo": {
+      "ru": {
+        "sys": {
+          "type": "Link",
+          "linkType": "Asset",
+          "id": "72SOuOBGWkSKIwooueG2ma"
+        }
+      }
+    },
+    "company": {
+      "ru": "Uploadcare "
+    },
+    "podcasts": {
+      "ru": [
+        {
+          "sys": {
+            "type": "Link",
+            "linkType": "Entry",
+            "id": "5H6X9MySwo4Y6Iu6oEQwmi"
+          }
+        },
+        {
+          "sys": {
+            "type": "Link",
+            "linkType": "Entry",
+            "id": "4aSvlYjCRyIm4Q2Y6yQoEm"
+          }
+        },
+        {
+          "sys": {
+            "type": "Link",
+            "linkType": "Entry",
+            "id": "2NSxb4X5JSSA0iIWOECmmi"
+          }
+        },
+        {
+          "sys": {
+            "type": "Link",
+            "linkType": "Entry",
+            "id": "11kcTi6i5YkM8uAUQEWq4i"
+          }
+        },
+        {
+          "sys": {
+            "type": "Link",
+            "linkType": "Entry",
+            "id": "7jR6Np4amkeMy6CUimyAic"
+          }
+        }
+      ]
+    },
+    "slug": {
+      "ru": "zarema-khalilova"
+    }
+  },
+  "2I6UK8U7RCMw2Uqgo6osWU": {
+    "type": "person",
+    "id": "2I6UK8U7RCMw2Uqgo6osWU",
+    "name": {
+      "ru": "Алена"
+    },
+    "lastname": {
+      "ru": "Батицкая"
+    },
+    "twitter": {
+      "ru": "ABatickaya"
+    },
+    "slack": {
+      "ru": "alenabat"
+    },
+    "photo": {
+      "ru": {
+        "sys": {
+          "type": "Link",
+          "linkType": "Asset",
+          "id": "3afKsSJu9aiysSUYC4QEu2"
+        }
+      }
+    },
+    "podcasts": {
+      "ru": [
+        {
+          "sys": {
+            "type": "Link",
+            "linkType": "Entry",
+            "id": "1afGM3WWseYkiwwQgY8qCK"
+          }
+        }
+      ]
+    },
+    "slug": {
+      "ru": "alyona-batitskaya"
+    }
+  },
+  "4BgGzMJ2tGuosK680ueyIg": {
+    "type": "person",
+    "id": "4BgGzMJ2tGuosK680ueyIg",
+    "name": {
+      "ru": "Андрей"
+    },
+    "lastname": {
+      "ru": "Ситник"
+    },
+    "twitter": {
+      "ru": "andrey_sitnik"
+    },
+    "slack": {
+      "ru": "ai"
+    },
+    "photo": {
+      "ru": {
+        "sys": {
+          "type": "Link",
+          "linkType": "Asset",
+          "id": "5Vaq80XhYc8yM842KIc6u6"
+        }
+      }
+    },
+    "company": {
+      "ru": "Evil Martians"
+    },
+    "podcasts": {
+      "ru": [
+        {
+          "sys": {
+            "type": "Link",
+            "linkType": "Entry",
+            "id": "1UnvDCYTV6wcYSYAeAuYyy"
+          }
+        },
+        {
+          "sys": {
+            "type": "Link",
+            "linkType": "Entry",
+            "id": "1tCSuGdUe84oUGuSeowmY0"
+          }
+        }
+      ]
+    },
+    "slug": {
+      "ru": "andrey-sitnik"
+    }
+  },
+  "239ipx98KAwUKKE8mSqYAk": {
+    "type": "person",
+    "id": "239ipx98KAwUKKE8mSqYAk",
+    "name": {
+      "ru": "Алексей"
+    },
+    "lastname": {
+      "ru": "Золотых"
+    },
+    "photo": {
+      "ru": {
+        "sys": {
+          "type": "Link",
+          "linkType": "Asset",
+          "id": "6PBiLFI3ugGmQwEk6A6m4q"
+        }
+      }
+    },
+    "company": {
+      "ru": "Wrike"
+    },
+    "podcasts": {
+      "ru": [
+        {
+          "sys": {
+            "type": "Link",
+            "linkType": "Entry",
+            "id": "11kcTi6i5YkM8uAUQEWq4i"
+          }
+        }
+      ]
+    },
+    "slug": {
+      "ru": "alexey-zolotih"
+    }
+  },
+  "DPUFj19H8WOiI0a8EKISi": {
+    "type": "person",
+    "id": "DPUFj19H8WOiI0a8EKISi",
+    "name": {
+      "ru": "Мария"
+    },
+    "lastname": {
+      "ru": "Просвирнина"
+    },
+    "position": {
+      "ru": "frontend developer"
+    },
+    "telegram": {
+      "ru": "prosvirnina"
+    },
+    "twitter": {
+      "ru": "prosvirnina12"
+    },
+    "slack": {
+      "ru": "pmk"
+    },
+    "photo": {
+      "ru": {
+        "sys": {
+          "type": "Link",
+          "linkType": "Asset",
+          "id": "6uXxR9uRd6cIe2Mw4EkMiU"
+        }
+      }
+    },
+    "podcasts": {
+      "ru": [
+        {
+          "sys": {
+            "type": "Link",
+            "linkType": "Entry",
+            "id": "5H6X9MySwo4Y6Iu6oEQwmi"
+          }
+        },
+        {
+          "sys": {
+            "type": "Link",
+            "linkType": "Entry",
+            "id": "2NSxb4X5JSSA0iIWOECmmi"
+          }
+        },
+        {
+          "sys": {
+            "type": "Link",
+            "linkType": "Entry",
+            "id": "1UnvDCYTV6wcYSYAeAuYyy"
+          }
+        },
+        {
+          "sys": {
+            "type": "Link",
+            "linkType": "Entry",
+            "id": "4Ryk64nuascmU8UUQMIQAo"
+          }
+        }
+      ]
+    },
+    "slug": {
+      "ru": "mariya-prosvirnina"
+    }
+  },
+  "6qtizJ7KcoKeEEaACAC886": {
+    "type": "person",
+    "id": "6qtizJ7KcoKeEEaACAC886",
+    "name": {
+      "ru": "Сергей"
+    },
+    "lastname": {
+      "ru": "Попов"
+    },
+    "twitter": {
+      "ru": "sergeytovarov"
+    },
+    "slack": {
+      "ru": "sergeypopov"
+    },
+    "photo": {
+      "ru": {
+        "sys": {
+          "type": "Link",
+          "linkType": "Asset",
+          "id": "6BEn6tzk3eIqSsu28cycmC"
+        }
+      }
+    },
+    "podcasts": {
+      "ru": [
+        {
+          "sys": {
+            "type": "Link",
+            "linkType": "Entry",
+            "id": "4Ryk64nuascmU8UUQMIQAo"
+          }
+        }
+      ]
+    },
+    "slug": {
+      "ru": "sergey-popov"
+    }
+  },
+  "2klaUeAUVm8symk6SU4KMS": {
+    "type": "person",
+    "id": "2klaUeAUVm8symk6SU4KMS",
+    "name": {
+      "ru": "Артур"
+    },
+    "lastname": {
+      "ru": "Столяр"
+    },
+    "twitter": {
+      "ru": "nekrtemplar"
+    },
+    "slack": {
+      "ru": "nekr"
+    },
+    "photo": {
+      "ru": {
+        "sys": {
+          "type": "Link",
+          "linkType": "Asset",
+          "id": "3UnIv16uxa02WgMsIIyUoq"
+        }
+      }
+    },
+    "podcasts": {
+      "ru": [
+        {
+          "sys": {
+            "type": "Link",
+            "linkType": "Entry",
+            "id": "5GjC2mY4jS28gwGeQEoYG8"
+          }
+        },
+        {
+          "sys": {
+            "type": "Link",
+            "linkType": "Entry",
+            "id": "62V4ADFqusuQwcyWAoyS4a"
+          }
+        }
+      ]
+    },
+    "slug": {
+      "ru": "artur-stolyar"
+    }
+  },
+  "5ULEnropHy8y8oKoQAgWaO": {
+    "type": "person",
+    "id": "5ULEnropHy8y8oKoQAgWaO",
+    "name": {
+      "ru": "Алексей"
+    },
+    "lastname": {
+      "ru": "Плуталов"
+    },
+    "twitter": {
+      "ru": "demiazz"
+    },
+    "slack": {
+      "ru": "demiazz"
+    },
+    "photo": {
+      "ru": {
+        "sys": {
+          "type": "Link",
+          "linkType": "Asset",
+          "id": "3gqF4w43VSq6A8AmQA2Wuk"
+        }
+      }
+    },
+    "podcasts": {
+      "ru": [
+        {
+          "sys": {
+            "type": "Link",
+            "linkType": "Entry",
+            "id": "1reZ2DOUe0agysGcSCw2ai"
+          }
+        }
+      ]
+    },
+    "slug": {
+      "ru": "alexey-plutalov"
+    }
+  },
+  "64YZMKjf4kIqYGUOg0uCcg": {
+    "type": "person",
+    "id": "64YZMKjf4kIqYGUOg0uCcg",
+    "name": {
+      "ru": "Сергей"
+    },
+    "lastname": {
+      "ru": "Лапин"
+    },
+    "position": {
+      "ru": "Senior Frontend developer"
+    },
+    "vk": {
+      "ru": "sergeylapin"
+    },
+    "telegram": {
+      "ru": "lapanoid"
+    },
+    "twitter": {
+      "ru": "lapanoid"
+    },
+    "slack": {
+      "ru": "lapanoid"
+    },
+    "photo": {
+      "ru": {
+        "sys": {
+          "type": "Link",
+          "linkType": "Asset",
+          "id": "4C1klB24j6sAAOuCi0yo40"
+        }
+      }
+    },
+    "company": {
+      "ru": "gamecredits.com"
+    },
+    "podcasts": {
+      "ru": [
+        {
+          "sys": {
+            "type": "Link",
+            "linkType": "Entry",
+            "id": "62V4ADFqusuQwcyWAoyS4a"
+          }
+        },
+        {
+          "sys": {
+            "type": "Link",
+            "linkType": "Entry",
+            "id": "5GjC2mY4jS28gwGeQEoYG8"
+          }
+        },
+        {
+          "sys": {
+            "type": "Link",
+            "linkType": "Entry",
+            "id": "11kcTi6i5YkM8uAUQEWq4i"
+          }
+        },
+        {
+          "sys": {
+            "type": "Link",
+            "linkType": "Entry",
+            "id": "4Ryk64nuascmU8UUQMIQAo"
+          }
+        },
+        {
+          "sys": {
+            "type": "Link",
+            "linkType": "Entry",
+            "id": "3DSxKGiElymmQkyuI8syMc"
+          }
+        },
+        {
+          "sys": {
+            "type": "Link",
+            "linkType": "Entry",
+            "id": "4R1M3xvRRmKWAmKQC46g4S"
+          }
+        }
+      ]
+    },
+    "slug": {
+      "ru": "sergey-lapin"
+    }
+  },
+  "3TOVMGCftK282K8ceG02ci": {
+    "type": "person",
+    "id": "3TOVMGCftK282K8ceG02ci",
+    "name": {
+      "ru": "Иван"
+    },
+    "lastname": {
+      "ru": "Метелёв"
+    },
+    "twitter": {
+      "ru": "from_anywhere"
+    },
+    "photo": {
+      "ru": {
+        "sys": {
+          "type": "Link",
+          "linkType": "Asset",
+          "id": "3ztsPNlpe0AqowcYI22aqo"
+        }
+      }
+    },
+    "podcasts": {
+      "ru": [
+        {
+          "sys": {
+            "type": "Link",
+            "linkType": "Entry",
+            "id": "17RX4Og62CQA8mOsysMmEq"
+          }
+        }
+      ]
+    },
+    "slug": {
+      "ru": "ivan-metelyov"
+    }
+  },
+  "1ZuMYNHTqguic4Y6gyYSW2": {
+    "type": "person",
+    "id": "1ZuMYNHTqguic4Y6gyYSW2",
+    "name": {
+      "ru": "Евгений"
+    },
+    "lastname": {
+      "ru": "Гусев"
+    },
+    "twitter": {
+      "ru": "bunopus"
+    },
+    "slack": {
+      "ru": "bunopus"
+    },
+    "photo": {
+      "ru": {
+        "sys": {
+          "type": "Link",
+          "linkType": "Asset",
+          "id": "6pGJflVU7mE8aq0wsgqwQ4"
+        }
+      }
+    },
+    "podcasts": {
+      "ru": [
+        {
+          "sys": {
+            "type": "Link",
+            "linkType": "Entry",
+            "id": "255FP0qPoscEIW8O4IIYEE"
+          }
+        }
+      ]
+    },
+    "slug": {
+      "ru": "evgeniy-gusev"
+    }
+  },
+  "4Xj2LgEfVS2sQKUauCii2y": {
+    "type": "person",
+    "id": "4Xj2LgEfVS2sQKUauCii2y",
+    "name": {
+      "ru": "Михаил"
+    },
+    "lastname": {
+      "ru": "Полубояринов"
+    },
+    "twitter": {
+      "ru": "mike1pol"
+    },
+    "photo": {
+      "ru": {
+        "sys": {
+          "type": "Link",
+          "linkType": "Asset",
+          "id": "NEm2LdPSs8Um0OmEKOuc4"
+        }
+      }
+    },
+    "podcasts": {
+      "ru": [
+        {
+          "sys": {
+            "type": "Link",
+            "linkType": "Entry",
+            "id": "255FP0qPoscEIW8O4IIYEE"
+          }
+        }
+      ]
+    },
+    "slug": {
+      "ru": "mikhail-poluboyarinov"
+    }
+  },
+  "1UQq6q8yG0Ae6YC6GIWc04": {
+    "type": "person",
+    "id": "1UQq6q8yG0Ae6YC6GIWc04",
+    "name": {
+      "ru": "Константин"
+    },
+    "lastname": {
+      "ru": "Рыжов"
+    },
+    "slack": {
+      "ru": "t.doomheim"
+    },
+    "photo": {
+      "ru": {
+        "sys": {
+          "type": "Link",
+          "linkType": "Asset",
+          "id": "5kV7M1LhS0yIoGMaqu2w2i"
+        }
+      }
+    },
+    "podcasts": {
+      "ru": [
+        {
+          "sys": {
+            "type": "Link",
+            "linkType": "Entry",
+            "id": "1wal4EXydqyAuW6EkMGomw"
+          }
+        }
+      ]
+    },
+    "slug": {
+      "ru": "konstantin-rizhov"
+    }
+  },
+  "6nSLqX7e2AsQoCyiqsY8gk": {
+    "type": "person",
+    "id": "6nSLqX7e2AsQoCyiqsY8gk",
+    "name": {
+      "ru": "Всеволод"
+    },
+    "lastname": {
+      "ru": "Родионов"
+    },
+    "slack": {
+      "ru": "jabher"
+    },
+    "photo": {
+      "ru": {
+        "sys": {
+          "type": "Link",
+          "linkType": "Asset",
+          "id": "3s7HoykDvGg8qkMeKg4AM4"
+        }
+      }
+    },
+    "podcasts": {
+      "ru": [
+        {
+          "sys": {
+            "type": "Link",
+            "linkType": "Entry",
+            "id": "1reZ2DOUe0agysGcSCw2ai"
+          }
+        }
+      ]
+    },
+    "slug": {
+      "ru": "vsevolod-rodionov"
+    }
+  },
+  "1afGM3WWseYkiwwQgY8qCK": {
+    "type": "drinkcast",
+    "id": "1afGM3WWseYkiwwQgY8qCK",
+    "title": {
+      "ru": "#15 — «Юные Бобби»"
+    },
+    "date": {
+      "ru": "2017-11-03"
+    },
+    "image": {
+      "ru": {
+        "sys": {
+          "type": "Link",
+          "linkType": "Asset",
+          "id": "1KaT3gZQhCoUmGYqeCqs2C"
+        }
+      }
+    },
+    "file": {
+      "ru": "https://aphid.fireside.fm/d/1437767933/1532eacf-ac70-4afc-9432-dbcaaaa28600/e1487736-2448-4521-80d7-ffd7c66fe803.mp3"
+    },
+    "explicit": {
+      "ru": false
+    },
+    "duration": {
+      "ru": "01:01:40"
+    },
+    "length": {
+      "ru": "89011713"
+    },
+    "notes": {
+      "ru": "- <a class='podcast_time'>00:25</a> - Важная информация: у кого какие [Бобби](https://xindaorussia.ru/800x800xffffff/i/cdn/image/P705542_1.jpg))\n    <img src='https://ucarecdn.com/b2465988-4dfb-4e25-a260-26d545344e5f/-/preview/-/resize/618x/-/quality/lighter/' srcset='https://ucarecdn.com/b2465988-4dfb-4e25-a260-26d545344e5f/-/preview/-/resize/1236x/-/quality/lightest/ 2x' width='618' style=\"display:block;height:auto;\" alt='Бобби' />\n- <a class='podcast_time'>00:43</a> - Что такое [junior friendly](https://github.com/solarrust/junior-friendly) и почему он так важен;\n- <a class='podcast_time'>07:35</a> - Про пет-проекты для самообразования;\n- <a class='podcast_time'>12:06</a> - Как стать джуном;\n- <a class='podcast_time'>16:15</a> - Про высшее образование, в чем оно полезно а в чем - нет;\n- <a class='podcast_time'>24:34</a> - Почему Алена начала заниматься переводами;\n- <a class='podcast_time'>27:30</a> - Зачем фронтендеру нужен Твиттер;\n- <a class='podcast_time'>34:05</a> - Почему стоит слушать подкасты и ещё одна идея для стартапа;\n- <a class='podcast_time'>35:40</a> - Джун в плохой компании;\n- <a class='podcast_time'>41:15</a> - Где лучше общаться разработчикам?\n- <a class='podcast_time'>47:00</a> - Почему Твиттер НЕ нужен;\n- <a class='podcast_time'>51:22</a> - Опенсорс, [как марсиане похищают](http://cultofmartians.com/) тех кто много контрибьютит;"
+    },
+    "number": {
+      "ru": 15
+    },
+    "persons": {
+      "ru": [
+        {
+          "sys": {
+            "type": "Link",
+            "linkType": "Entry",
+            "id": "6feZANPNE4GOmUweKkYwqk"
+          }
+        },
+        {
+          "sys": {
+            "type": "Link",
+            "linkType": "Entry",
+            "id": "2I6UK8U7RCMw2Uqgo6osWU"
+          }
+        }
+      ]
+    }
+  },
+  "2NSxb4X5JSSA0iIWOECmmi": {
+    "type": "drinkcast",
+    "id": "2NSxb4X5JSSA0iIWOECmmi",
+    "title": {
+      "ru": "#10 — «Похмельный, про сообщество и подкаст»"
+    },
+    "date": {
+      "ru": "2017-09-29"
+    },
+    "image": {
+      "ru": {
+        "sys": {
+          "type": "Link",
+          "linkType": "Asset",
+          "id": "qCarmp0NJ6i4mO6Es8E4k"
+        }
+      }
+    },
+    "file": {
+      "ru": "https://aphid.fireside.fm/d/1437767933/1532eacf-ac70-4afc-9432-dbcaaaa28600/a17a44ca-c818-4534-b244-865c4d7cca6e.mp3"
+    },
+    "explicit": {
+      "ru": false
+    },
+    "duration": {
+      "ru": "48:33"
+    },
+    "length": {
+      "ru": "69920143"
+    },
+    "notes": {
+      "ru": "Наш [Telegram](https://t.me/drinkcast) для отзывов и общения.\n\n- <a class='podcast_time'>1:10</a> - Про конфу, на которой был придуман SPB-Frontend.\n- <a class='podcast_time'>11:30</a> - С чего начиналось сообщество и какие мероприятия мы устраивали.\n- <a class='podcast_time'>15:05</a> - Про дринкапы и [фронтирники](https://vk.com/frontirnik), почему на них не обязательно пить алкоголь.\n- <a class='podcast_time'>19:33</a> - Однажды пытались сделать хакатон, но не взлетело.\n- <a class='podcast_time'>21:25</a> - Как попасть в сообщество?\n- <a class='podcast_time'>22:54</a> - Про фронтенд-завтраки.\n- <a class='podcast_time'>27:20</a> - А что вообще такое SPB-Frontend?\n- <a class='podcast_time'>28:02</a> - Когда митап?\n- <a class='podcast_time'>31:55</a> - Про подкаст, с чего он начинался и как создается. \n\n[Как организовать свой фронтирник](https://docs.google.com/forms/d/e/1FAIpQLSem0vIkc_NOQfTRRsn0OZMBH6N9to_pc0FvQArm09cV2KBH2A/viewform)\n"
+    },
+    "number": {
+      "ru": 10
+    }
+  },
+  "4Ryk64nuascmU8UUQMIQAo": {
+    "type": "drinkcast",
+    "id": "4Ryk64nuascmU8UUQMIQAo",
+    "title": {
+      "ru": "#14 — «Ментор успеха залог твоего»"
+    },
+    "date": {
+      "ru": "2017-10-27"
+    },
+    "image": {
+      "ru": {
+        "sys": {
+          "type": "Link",
+          "linkType": "Asset",
+          "id": "1KaT3gZQhCoUmGYqeCqs2C"
+        }
+      }
+    },
+    "file": {
+      "ru": "https://aphid.fireside.fm/d/1437767933/1532eacf-ac70-4afc-9432-dbcaaaa28600/1ebfea66-4d72-4d3c-a022-6b628ce27f9f.mp3"
+    },
+    "explicit": {
+      "ru": false
+    },
+    "duration": {
+      "ru": "01:11:08"
+    },
+    "length": {
+      "ru": "85563100"
+    },
+    "notes": {
+      "ru": "Наш [Telegram](https://t.me/drinkcast) для отзывов и общения.\n\n- <a class='podcast_time'>00:45</a> - Москва или Питер? \n- <a class='podcast_time'>09:40</a> - [Junior Friendly](https://github.com/solarrust/junior-friendly), платное и бесплатное менторство;\n- <a class='podcast_time'>17:55</a> - Классификация типов учеников и кто такие \"призраки\";\n- <a class='podcast_time'>22:35</a> - Про полезность онлайн-курсов, насколько реально получить профессию;\n- <a class='podcast_time'>30:28</a> - Каково это быть ментором и куда можно деть кружку из Старбакса;\n- <a class='podcast_time'>43:02</a> - Самое главное умение, которое стоит освоить джуниору;\n- <a class='podcast_time'>48:05</a> - Почему так много разных курсов;\n- <a class='podcast_time'>51:05</a> - Про хайп вокруг гридов и \"[кормление динозавров](https://wordpress.tv/2017/10/07/sergey-popov-stop-feeding-dinosaurs/)\";\n- <a class='podcast_time'>62:25</a> - Почему общество пока не готово отказаться от поддержки старых IE;\n\nДоклады Сергея Попова <a href=\"https://www.youtube.com/watch?v=bEWLTQYIcYE\">«Поговорим о наших младших товарищах»</a> и <a href=\"https://www.youtube.com/watch?v=_ARkNIOaS3c\">«Пора начинать Фыркать – Grid Layout уже здесь»</a>"
+    },
+    "number": {
+      "ru": 14
+    },
+    "persons": {
+      "ru": [
+        {
+          "sys": {
+            "type": "Link",
+            "linkType": "Entry",
+            "id": "6qtizJ7KcoKeEEaACAC886"
+          }
+        }
+      ]
+    }
+  },
+  "1tCSuGdUe84oUGuSeowmY0": {
+    "type": "drinkcast",
+    "id": "1tCSuGdUe84oUGuSeowmY0",
+    "title": {
+      "ru": "#26 — «Грустный»"
+    },
+    "date": {
+      "ru": "2018-03-13"
+    },
+    "image": {
+      "ru": {
+        "sys": {
+          "type": "Link",
+          "linkType": "Asset",
+          "id": "1KaT3gZQhCoUmGYqeCqs2C"
+        }
+      }
+    },
+    "file": {
+      "ru": "https://aphid.fireside.fm/d/1437767933/1532eacf-ac70-4afc-9432-dbcaaaa28600/7931e02e-65f4-4c88-9dad-ecd5f11c2e6e.mp3"
+    },
+    "explicit": {
+      "ru": false
+    },
+    "duration": {
+      "ru": "53:46"
+    },
+    "length": {
+      "ru": "51826112"
+    },
+    "notes": {
+      "ru": "- <a class='podcast_time'>1:05</a> - Почему люди [«выгорают»](https://ru.wikipedia.org/wiki/%D0%AD%D0%BC%D0%BE%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D0%B2%D1%8B%D0%B3%D0%BE%D1%80%D0%B0%D0%BD%D0%B8%D0%B5)?\n- <a class='podcast_time'>12:41</a> - Мотивация заниматься опенсорсом и организацией мероприятий.\n- <a class='podcast_time'>19:37</a> - Ложные идеи про выгорание.\n- <a class='podcast_time'>39:30</a> - Зачем нужны менеджеры.\n- <a class='podcast_time'>42:07</a> - Выученная беспомощность.\n- <a class='podcast_time'>43:50</a> - [Диссоциативная фуга.](https://ru.wikipedia.org/wiki/%D0%94%D0%B8%D1%81%D1%81%D0%BE%D1%86%D0%B8%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D0%B0%D1%8F_%D1%84%D1%83%D0%B3%D0%B0)\n- <a class='podcast_time'>47:33</a> - Способы выйти из депрессии."
+    },
+    "number": {
+      "ru": 26
+    },
+    "persons": {
+      "ru": [
+        {
+          "sys": {
+            "type": "Link",
+            "linkType": "Entry",
+            "id": "3CyuHKiJWok2SM6IWskqw2"
+          }
+        }
+      ]
+    }
+  },
+  "6x5ixnyiaWu8qGuSSk0Aei": {
+    "type": "drinkcast",
+    "id": "6x5ixnyiaWu8qGuSSk0Aei",
+    "title": {
+      "ru": "#22 — «Как стать независимым разработчиком»"
+    },
+    "date": {
+      "ru": "2017-12-22"
+    },
+    "image": {
+      "ru": {
+        "sys": {
+          "type": "Link",
+          "linkType": "Asset",
+          "id": "1KaT3gZQhCoUmGYqeCqs2C"
+        }
+      }
+    },
+    "file": {
+      "ru": "https://aphid.fireside.fm/d/1437767933/1532eacf-ac70-4afc-9432-dbcaaaa28600/e98ad641-ef29-4d14-b907-aa53091b5105.mp3"
+    },
+    "explicit": {
+      "ru": false
+    },
+    "duration": {
+      "ru": "01:11:29"
+    },
+    "length": {
+      "ru": "85999834"
+    },
+    "notes": {
+      "ru": "- <a class='podcast_time'>0:55</a> - Кто такие инди-разработчики и что способствует работе на себя.\n- <a class='podcast_time'>7:13</a> - Разные идеи для стартапов, как зарабатывать на лайках в соц сетях.\n- <a class='podcast_time'>13:12</a> - Нестандартные способы поиска работы и кто такие [digital nomads](https://ru.wikipedia.org/wiki/%D0%A6%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D1%8B%D0%B5_%D0%BA%D0%BE%D1%87%D0%B5%D0%B2%D0%BD%D0%B8%D0%BA%D0%B8).\n- <a class='podcast_time'>18:54</a> - Как написать index.php, положить себе в карман $2342 и не сойти с ума, если близкие просят найти нормальную работу а стартап все не взлетает.\n- <a class='podcast_time'>29:33</a> - История Сережи Лапина, который прыгал из одного стартапа в другой и не ходил в крупные компании.\n- <a class='podcast_time'>38:43</a> - Почему стартапы экономят деньги, взгляд изнутри.\n- <a class='podcast_time'>42:09</a> - Сережа Густун рассказывает про свой стартап — [handsales](https://handsales.ru/), жизнь стартапперов в России и особенности нейминга успешных проектов.\n- <a class='podcast_time'>57:15</a> - Куда пойти чтобы стать независимым разработчиком, в чем плюсы и откуда брать деньги.\n\nТут те, у кого есть идеи, находят как их реализовать:\n[Product hunt](https://www.producthunt.com/)\n[Hacker news](https://news.ycombinator.com/)\n\n[Nomad list, где инди-разработчики обсуждают где можно поработать](https://nomadlist.com/)\n\nТак же у нас есть telegram чат для обратной связи [@drinkcast](https://t.me/drinkcast).\n"
+    },
+    "number": {
+      "ru": 22
+    },
+    "persons": {
+      "ru": [
+        {
+          "sys": {
+            "type": "Link",
+            "linkType": "Entry",
+            "id": "20xOt1Ju288SSgUEgoA4wK"
+          }
+        }
+      ]
+    }
+  },
+  "1UnvDCYTV6wcYSYAeAuYyy": {
+    "type": "drinkcast",
+    "id": "1UnvDCYTV6wcYSYAeAuYyy",
+    "title": {
+      "ru": "#12 — «Автостопом по Галактике с Андреем Ситником»"
+    },
+    "date": {
+      "ru": "2017-10-13"
+    },
+    "image": {
+      "ru": {
+        "sys": {
+          "type": "Link",
+          "linkType": "Asset",
+          "id": "1KaT3gZQhCoUmGYqeCqs2C"
+        }
+      }
+    },
+    "file": {
+      "ru": "https://aphid.fireside.fm/d/1437767933/1532eacf-ac70-4afc-9432-dbcaaaa28600/a92c5a8b-7d3f-4892-a52a-dcbe31deaf4f.mp3"
+    },
+    "explicit": {
+      "ru": false
+    },
+    "duration": {
+      "ru": "65:32"
+    },
+    "length": {
+      "ru": "78863604"
+    },
+    "notes": {
+      "ru": "- <a class='podcast_time'>0:47</a> - Как в других странах с фронтендом, культурные особенности?\n- <a class='podcast_time'>18:44</a> - Как выступать на зарубежных конференциях?\n- <a class='podcast_time'>25:00</a> - Какие технологии используются в мире?\n- <a class='podcast_time'>27:59</a> - Как поживает <a href='https://github.com/postcss'>postcss</a>?\n- <a class='podcast_time'>30:54</a> - <a href='https://github.com/logux'>Logux</a>.\n- <a class='podcast_time'>37:11</a> - Назад от разных методов синхронизации к \"выпадашечкам и анимашечкам\".\n- <a class='podcast_time'>38:50</a> - Разговоры бабушек во Владивостоке. \n- <a class='podcast_time'>41:17</a> - Смелые Социальные Эксперименты.\n- <a class='podcast_time'>48:17</a> - Проблема чистки лога в Logux.\n- <a class='podcast_time'>55:13</a> - Скрытая философия в проектах Андрея.\n- <a class='podcast_time'>1:00:37</a> - Китайский Ду-Лянь."
+    },
+    "number": {
+      "ru": 12
+    },
+    "persons": {
+      "ru": [
+        {
+          "sys": {
+            "type": "Link",
+            "linkType": "Entry",
+            "id": "4BgGzMJ2tGuosK680ueyIg"
+          }
+        }
+      ]
+    }
+  },
+  "52RhCoGmt2oIocecy4KWy": {
+    "type": "drinkcast",
+    "id": "52RhCoGmt2oIocecy4KWy",
+    "title": {
+      "ru": "#9 — «Сколько нужно программистов, чтобы очистить код»"
+    },
+    "date": {
+      "ru": "2017-09-22"
+    },
+    "image": {
+      "ru": {
+        "sys": {
+          "type": "Link",
+          "linkType": "Asset",
+          "id": "qCarmp0NJ6i4mO6Es8E4k"
+        }
+      }
+    },
+    "file": {
+      "ru": "https://aphid.fireside.fm/d/1437767933/1532eacf-ac70-4afc-9432-dbcaaaa28600/dd5bc0c9-190d-4584-b6f7-87bf2dd45658.mp3"
+    },
+    "explicit": {
+      "ru": false
+    },
+    "duration": {
+      "ru": "58:40"
+    },
+    "length": {
+      "ru": "84483929"
+    },
+    "notes": {
+      "ru": "Наш [Telegram](https://t.me/drinkcast) для отзывов и общения.\n\n- <a class='podcast_time'>1:08</a> - Те немногие случаи, когда чистота кода не нужна.\n- <a class='podcast_time'>7:10</a> - Где брать время на рефакторинг и что по этому поводу думает [Scrum](https://ru.wikipedia.org/wiki/Scrum).\n- <a class='podcast_time'>13:45</a> - Код-ревью и в чем его смысл.\n- <a class='podcast_time'>19:07</a> - Зачем нужны линтеры и почему с них надо начинать.\n- <a class='podcast_time'>21:44</a> - [Bikeshedding](https://ru.wikipedia.org/wiki/%D0%97%D0%B0%D0%BA%D0%BE%D0%BD_%D1%82%D1%80%D0%B8%D0%B2%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D0%B8) и главная проблема код-ревью.\n- <a class='podcast_time'>24:23</a> - TODOшки и документация.\n- <a class='podcast_time'>28:37</a> - О комментариях в коде.\n- <a class='podcast_time'>31:05</a> - Про рефакторинг и разные IDE.\n- <a class='podcast_time'>37:08</a> - Почему стоит поскорее расставаться с [legacy](https://en.wikipedia.org/wiki/Legacy_code).\n- <a class='podcast_time'>38:25</a> - [Технический долг](https://ru.wikipedia.org/wiki/%D0%A2%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%B4%D0%BE%D0%BB%D0%B3) как осознанное решение.\n- <a class='podcast_time'>41:45</a> - Когда и как обновлять зависимости.\n- <a class='podcast_time'>49:00</a> - О том как Миша устаревший код переписывал.\n- <a class='podcast_time'>51:55</a> - Как автоматизировать обновление библиотек [greenkeeper.io](https://greenkeeper.io/) и [Snyk](https://snyk.io/).\n\n[Тот самый доклад Курганова «Как жить на острие технологий»](https://www.youtube.com/watch?v=PUE6Avu1Yak)"
+    },
+    "number": {
+      "ru": 9
+    }
+  },
+  "6iaM9epZZusWoY0MUKsEsa": {
+    "type": "drinkcast",
+    "id": "6iaM9epZZusWoY0MUKsEsa",
+    "title": {
+      "ru": "#23 — «Afterparty»"
+    },
+    "date": {
+      "ru": "2017-12-29"
+    },
+    "image": {
+      "ru": {
+        "sys": {
+          "type": "Link",
+          "linkType": "Asset",
+          "id": "1KaT3gZQhCoUmGYqeCqs2C"
+        }
+      }
+    },
+    "file": {
+      "ru": "https://aphid.fireside.fm/d/1437767933/1532eacf-ac70-4afc-9432-dbcaaaa28600/1f83fd3e-39c5-4d69-a3b3-e11caa865cbf.mp3"
+    },
+    "explicit": {
+      "ru": false
+    },
+    "duration": {
+      "ru": "01:17:23"
+    },
+    "length": {
+      "ru": "93070083"
+    },
+    "notes": {
+      "ru": "- <a class='podcast_time'>1:17</a> - Сережа вспоминает афтерпати разных конференций и фламенко.\n- <a class='podcast_time'>6:38</a> - Чем конфы в Европе отличают от наших, почему нетворкинг важнее докладов и взгляд со стороны спиккера.\n- <a class='podcast_time'>18:07</a> - Секреты организации [BeerJS](https://github.com/beerjs).\n- <a class='podcast_time'>23:06</a> - Итоги года: отказ от IE и PWA, который все не взлетит.\n- <a class='podcast_time'>28:35</a> - [WebAssembly](http://webassembly.org/) который никого не спасет, лезем в суть и говорим о реалиях компилируемых модулей.\n- <a class='podcast_time'>37:25</a> - Много любви к [jQuery](https://jquery.com/).\n- <a class='podcast_time'>40:25</a> - Итоги года: [флексбоксы](https://frontender.info/a-guide-to-flexbox/), которые заменили нам все и как взять [гриды](https://developer.mozilla.org/ru/docs/Web/CSS/CSS_Grid_Layout) в продакшен.\n- <a class='podcast_time'>46:08</a> - Итоги года: вечно зеленый [Angular](https://angular.io/), [Angular Elements](https://moduscreate.com/blog/angular-elements-ngcomponents-everywhere/), [16-й React](https://reactjs.org/blog/2017/09/26/react-v16.0.html), смерть [Bower](https://bower.io/) и [Glimmer](https://glimmerjs.com/).\n- <a class='podcast_time'>51:52</a> - Про проблему скорости React и фронтенд на других языках.\n- <a class='podcast_time'>55:25</a> - Итоги года: [стоимость JS](https://habrahabr.ru/post/343562/) и [огромные node_modules](https://habrahabr.ru/post/307822/), как жить в эпоху победившего JS.\n- <a class='podcast_time'>61:56</a> - Тут ничего нет.\n- <a class='podcast_time'>62:07</a> - И тут тоже ничего интересного.\n\n[Интерпретатор WebAssembly на JS](https://github.com/xtuc/js-webassembly-interpreter)\n\n[Поиск и устранение неисправностей Node.js-приложений под капотом](https://holyjs-moscow.ru/talks/2m8yli9bes6e2uaweymeqc/)"
+    },
+    "number": {
+      "ru": 23
+    },
+    "persons": {
+      "ru": [
+        {
+          "sys": {
+            "type": "Link",
+            "linkType": "Entry",
+            "id": "1jUwHksAE00UYG2G2qgekW"
+          }
+        }
+      ]
+    }
+  },
+  "1reZ2DOUe0agysGcSCw2ai": {
+    "type": "drinkcast",
+    "id": "1reZ2DOUe0agysGcSCw2ai",
+    "title": {
+      "ru": "#8 — «Что такое FrontOps»"
+    },
+    "date": {
+      "ru": "2017-09-15"
+    },
+    "image": {
+      "ru": {
+        "sys": {
+          "type": "Link",
+          "linkType": "Asset",
+          "id": "qCarmp0NJ6i4mO6Es8E4k"
+        }
+      }
+    },
+    "file": {
+      "ru": "https://aphid.fireside.fm/d/1437767933/1532eacf-ac70-4afc-9432-dbcaaaa28600/43b1bd88-5fd1-4f79-a5a1-6d83afa39097.mp3"
+    },
+    "explicit": {
+      "ru": false
+    },
+    "duration": {
+      "ru": "1:02:09"
+    },
+    "length": {
+      "ru": "59681403 "
+    },
+    "notes": {
+      "ru": "Наш [Telegram](https://t.me/drinkcast) для отзывов и общения.\n\n- <a class='podcast_time'>1:12</a> - Что такое FrontOps и чем он отличается от [DevOps](https://ru.wikipedia.org/wiki/DevOps)?\n- <a class='podcast_time'>2:55</a> - [Time to first render](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/) и Time to interactive.\n- <a class='podcast_time'>7:45</a> - Чем должен заниматься FrontOps?\n- <a class='podcast_time'>14:40</a> - Почему для настройки окружения фронтендеров нужен отдельный специалист.\n- <a class='podcast_time'>25:13</a> - FrontOps vs Front-end разработчик.\n- <a class='podcast_time'>27:06</a> - Немного фантазий на тему [нейросетей](https://ru.wikipedia.org/wiki/%D0%98%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BD%D0%B5%D0%B9%D1%80%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F_%D1%81%D0%B5%D1%82%D1%8C).\n- <a class='podcast_time'>30:33</a> - Еще раз пытаемся продать FrontOps а бизнесу.\n- <a class='podcast_time'>36:45</a> - Про опенсорсные инструменты и их сырость.\n- <a class='podcast_time'>41:58</a> - Зачем переходить на [Webpack](https://webpack.github.io/)?\n- <a class='podcast_time'>46:40</a> - Оптимизация SVG и CSS.\n- <a class='podcast_time'>57:03</a> - Зачем Сева скачал весь NPM и подключил к нему нейросеть.\n"
+    },
+    "number": {
+      "ru": 8
+    },
+    "persons": {
+      "ru": [
+        {
+          "sys": {
+            "type": "Link",
+            "linkType": "Entry",
+            "id": "5ULEnropHy8y8oKoQAgWaO"
+          }
+        },
+        {
+          "sys": {
+            "type": "Link",
+            "linkType": "Entry",
+            "id": "6nSLqX7e2AsQoCyiqsY8gk"
+          }
+        }
+      ]
+    }
+  },
+  "1wal4EXydqyAuW6EkMGomw": {
+    "type": "drinkcast",
+    "id": "1wal4EXydqyAuW6EkMGomw",
+    "title": {
+      "ru": "#7 — «Все фронтендеры попадают в Питер»"
+    },
+    "date": {
+      "ru": "2017-09-08"
+    },
+    "image": {
+      "ru": {
+        "sys": {
+          "type": "Link",
+          "linkType": "Asset",
+          "id": "qCarmp0NJ6i4mO6Es8E4k"
+        }
+      }
+    },
+    "file": {
+      "ru": "https://aphid.fireside.fm/d/1437767933/1532eacf-ac70-4afc-9432-dbcaaaa28600/a245f81d-e823-4ce1-ae34-fec8a53115f5.mp3"
+    },
+    "explicit": {
+      "ru": false
+    },
+    "duration": {
+      "ru": "52:28"
+    },
+    "length": {
+      "ru": "25186671"
+    },
+    "notes": {
+      "ru": "- <a class='podcast_time'>1:25</a> - Как Коcтя и Света впервые попали в Питер.\n- <a class='podcast_time'>8:50</a> - А почему не Москва?\n- <a class='podcast_time'>16:10</a> - Как Костя второй раз в Петербург переезжал.\n- <a class='podcast_time'>21:10</a> - Как от отчаяния найти работу у голландцев.\n- <a class='podcast_time'>32:30</a> - Как Саша нашел работу в веб-студии.\n- <a class='podcast_time'>35:05</a> - Света, Омск и чайка-менеджмент.\n- <a class='podcast_time'>44:30</a> - Как переезжают целые компании.\n- <a class='podcast_time'>46:53</a> - Как искать работу в Питере, открытые и закрытые сервисы.\n- <a class='podcast_time'>50:55</a> - [Spb-frontend](http://spb-frontend.ru/), завтраки, slack и #friday.\n"
+    },
+    "number": {
+      "ru": 7
+    },
+    "persons": {
+      "ru": [
+        {
+          "sys": {
+            "type": "Link",
+            "linkType": "Entry",
+            "id": "1UQq6q8yG0Ae6YC6GIWc04"
+          }
+        }
+      ]
+    }
+  },
+  "164woGSNoY08uS0SkYsseo": {
+    "type": "drinkcast",
+    "id": "164woGSNoY08uS0SkYsseo",
+    "title": {
+      "ru": "#11 — «Дизайн-системы и ui-киты»"
+    },
+    "date": {
+      "ru": "2017-10-06"
+    },
+    "image": {
+      "ru": {
+        "sys": {
+          "type": "Link",
+          "linkType": "Asset",
+          "id": "1KaT3gZQhCoUmGYqeCqs2C"
+        }
+      }
+    },
+    "file": {
+      "ru": "https://aphid.fireside.fm/d/1437767933/1532eacf-ac70-4afc-9432-dbcaaaa28600/312fa77f-39a8-42b2-a0dc-bffb7f531d58.mp3"
+    },
+    "explicit": {
+      "ru": false
+    },
+    "duration": {
+      "ru": "52:38"
+    },
+    "length": {
+      "ru": "76030732"
+    },
+    "notes": {
+      "ru": "- <a class='podcast_time'>0:57</a> - Что такое дизайн-система, и как она строится и кому это нужно.\n- <a class='podcast_time'>8:22</a> - Кто должен создавать дизайн-систему и из чего она состоит.\n- <a class='podcast_time'>10:57</a> - Как Яндекс разрабатывал систему чтобы унифицировать весь UI и про преимущества [БЭМ](https://ru.bem.info/).\n- <a class='podcast_time'>13:55</a> - С чего начать? Как Рома взял кривой дизайн и сделал из него систему на EM-ах и принципах золотого сечения.\n- <a class='podcast_time'>19:32</a> - Вывели главную суть дизайн-системы.\n- <a class='podcast_time'>21:57</a> - Как выглядит ui-кит от Яндекса изнутри.\n- <a class='podcast_time'>28:35</a> - Почему [Bootstrap](http://getbootstrap.com/) - это не полноценная дизайн-система.\n- <a class='podcast_time'>32:00</a> - Плюсы использования дизайн-системы, про наследование компонентов.\n- <a class='podcast_time'>36:30</a> - Про то как быть с мобильной версией.\n- <a class='podcast_time'>39:11</a> - Как жить, когда тебе мешают делать правильную дизайн-систему и почему онлайн-консультант может быть полезен.\n- <a class='podcast_time'>41:35</a> - Что стало с дизайн-системой Ромы.\n- <a class='podcast_time'>44:52</a> - Как устроены компоненты ui-кита в Яндексе.\n- <a class='podcast_time'>48:10</a> - Документация для ui-кита и как делать это проще.\n\n[Даниил Ковчий - Компоненты веб-интерфейса](https://medium.com/@kovchiy/interface-components-ac2447ab5fbe)"
+    },
+    "number": {
+      "ru": 11
+    },
+    "persons": {
+      "ru": [
+        {
+          "sys": {
+            "type": "Link",
+            "linkType": "Entry",
+            "id": "2RGzIQ9MAMYAq4OogI8OKO"
+          }
+        },
+        {
+          "sys": {
+            "type": "Link",
+            "linkType": "Entry",
+            "id": "5fxGvx5cl2Ag8CUS2yye4m"
+          }
+        }
+      ]
+    }
+  },
+  "3DSxKGiElymmQkyuI8syMc": {
+    "type": "drinkcast",
+    "id": "3DSxKGiElymmQkyuI8syMc",
+    "title": {
+      "ru": " #13 — «ООП — это обман»"
+    },
+    "date": {
+      "ru": "2017-10-20"
+    },
+    "image": {
+      "ru": {
+        "sys": {
+          "type": "Link",
+          "linkType": "Asset",
+          "id": "1KaT3gZQhCoUmGYqeCqs2C"
+        }
+      }
+    },
+    "file": {
+      "ru": "https://aphid.fireside.fm/d/1437767933/1532eacf-ac70-4afc-9432-dbcaaaa28600/2a583563-03a3-4c06-8ca5-2a81ca9d5fa7.mp3"
+    },
+    "explicit": {
+      "ru": false
+    },
+    "duration": {
+      "ru": "1:15:24"
+    },
+    "length": {
+      "ru": "90815814"
+    },
+    "notes": {
+      "ru": "- <a class='podcast_time'>00:57</a> - Каким образом человек становится функциональщиком?\n- <a class='podcast_time'>9:30</a> - Шутки про ООП за 300. <img src=\"https://ucarecdn.com/4abcb7c2-635a-44e7-bac7-f0ec27459801/-/preview/-/resize/360x/-/format/auto/poster11.jpg\" srcset=\"https://ucarecdn.com/4abcb7c2-635a-44e7-bac7-f0ec27459801/-/preview/-/resize/720x/-/format/auto/poster11.jpg 2x\" alt=\"Шутки про ООП за 300\" width=\"360\" style=\"display:block;height:auto;\"/>\n- <a class='podcast_time'>14:40 </a> - Что спрашивает Слава на собеседовании в VK?\n- <a class='podcast_time'>24:14</a> - Пользователь как функция - <a href='https://www.youtube.com/watch?v=1zj7M1LnJV4'>доклад</a> Андрея Штальца.\n- <a class='podcast_time'>27:27</a> - Про системы типов.\n- <a class='podcast_time'>39:24</a> - Откуда возникли ЯП вообще, откуда у них ноги растут?\n- <a class='podcast_time'>44:45</a> - ЯП которые мы придумали и ЯП которые мы открыли - <a href='https://youtu.be/IOiZatlZtGU?t=33m27s'>доклад</a> Филиппа Вадлера.\n- <a class='podcast_time'>51:11</a> - Проектировать лучше в ООП?\n- <a class='podcast_time'>56:56</a> - Почему в ФП куча непонятных слов.\n- <a class='podcast_time'>57:54</a> - <a href='https://blog.jcoglan.com/2011/03/11/promises-are-the-monad-of-asynchronous-programming'>Промис</a> - <a href='https://medium.com/@dtipson/promises-are-legitimately-and-to-spec-intentionally-both-functors-and-monads-and-if-people-want-188d27fc193b'>это</a> <a href='https://gist.github.com/briancavalier/3296186'>монада</a>.\n- <a class='podcast_time'>1:00:43</a> - <a href='https://www.youtube.com/watch?v=VKQ8qvvrT4U'>Курс</a> Виталия Брагилевского по теории категорий.\n- <a class='podcast_time'>1:01:09</a> - <a href='https://vk.com/paperswelovespb'>Papers We Love</a>\n- <a class='podcast_time'>1:02:05</a> - Как лучше учиться ФП?\n- <a class='podcast_time'>1:12:13</a> - <a href='http://www.stlport.org/resources/StepanovUSA.html'>Интервью</a> с создателем STL Степановым. \n\nКнижки:\n- <a href='http://modis.ispras.ru/Lizorkin/private/patterns.pdf\n'>Паттерны банды 4х</a> \n- <a href='https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215'>Domain-Driven Design - Tackling Complexity in the Heart of Software</a>  \n- <a href='https://www.manning.com/books/type-driven-development-with-idris'>Type-Driven Development with Idris</a>  "
+    },
+    "number": {
+      "ru": 13
+    },
+    "persons": {
+      "ru": [
+        {
+          "sys": {
+            "type": "Link",
+            "linkType": "Entry",
+            "id": "37F6FQPUkw6m0wuSe8awU2"
+          }
+        }
+      ]
+    }
+  },
+  "5H6X9MySwo4Y6Iu6oEQwmi": {
+    "type": "drinkcast",
+    "id": "5H6X9MySwo4Y6Iu6oEQwmi",
+    "title": {
+      "ru": "#3 — «Раньше дивы были зеленее»"
+    },
+    "date": {
+      "ru": "2017-08-11"
+    },
+    "image": {
+      "ru": {
+        "sys": {
+          "type": "Link",
+          "linkType": "Asset",
+          "id": "qCarmp0NJ6i4mO6Es8E4k"
+        }
+      }
+    },
+    "file": {
+      "ru": "https://aphid.fireside.fm/d/1437767933/1532eacf-ac70-4afc-9432-dbcaaaa28600/1b5cd049-1c68-45f6-9ce5-ba8561b16e59.mp3"
+    },
+    "explicit": {
+      "ru": false
+    },
+    "duration": {
+      "ru": "50:45"
+    },
+    "length": {
+      "ru": "48799443"
+    },
+    "notes": {
+      "ru": "- <a class='podcast_time'>1:13</a> - Как верстают ведущие.\n- <a class='podcast_time'>6:10</a> - Стили для WYSIWYG\n- <a class='podcast_time'>8:27</a> - Истории ведущих про первые шаги в верстке\n- <a class='podcast_time'>12:45</a> - Как выходят спецификации и что это такое\n- <a class='podcast_time'>17:07</a> - Про семантику, теги и [микроразметку](http://schema.org/)\n- <a class='podcast_time'>19:28</a> - Необычные теги, что выходит и как это использовать\n- <a class='podcast_time'>23:58</a> - Кроссбраузерность, как отказаться от IE и начать использовать [гриды](https://habrahabr.ru/post/325760/)\n- <a class='podcast_time'>30:10</a> - Ностальгическое: центрирование элементов в прошлом\n- <a class='podcast_time'>31:40</a> - Доступность и как поймать фокус\n- <a class='podcast_time'>33:20</a> - Автокомплиты, мультиселекты и их нативная замена\n- <a class='podcast_time'>34:40</a> - О препроцессорах\n- <a class='podcast_time'>36:50</a> - [CSS-in-JS](https://github.com/cssinjs), [Emotion](https://medium.com/@tkh44/emotion-ad1c45c6d28b)\n- <a class='podcast_time'>38:50</a> - Старые способы изоляции стилей и энтерпрайз\n- <a class='podcast_time'>41:45</a> - Вымрут ли флексы?\n- <a class='podcast_time'>45:05</a> - Про фронтендеров, которые не умеют верстать\n\nТеперь мы есть в [Telegram](https://t.me/drinkcast)"
+    },
+    "number": {
+      "ru": 3
+    },
+    "persons": {
+      "ru": [
+        {
+          "sys": {
+            "type": "Link",
+            "linkType": "Entry",
+            "id": "72LlzQ7Sy48cgcqk6AWOWu"
+          }
+        },
+        {
+          "sys": {
+            "type": "Link",
+            "linkType": "Entry",
+            "id": "hcEIijeJZ60QmOs6g2UIg"
+          }
+        },
+        {
+          "sys": {
+            "type": "Link",
+            "linkType": "Entry",
+            "id": "DPUFj19H8WOiI0a8EKISi"
+          }
+        }
+      ]
+    }
+  },
+  "11kcTi6i5YkM8uAUQEWq4i": {
+    "type": "drinkcast",
+    "id": "11kcTi6i5YkM8uAUQEWq4i",
+    "title": {
+      "ru": "#17 — «Как выйти из вима?»"
+    },
+    "date": {
+      "ru": "2017-11-17"
+    },
+    "image": {
+      "ru": {
+        "sys": {
+          "type": "Link",
+          "linkType": "Asset",
+          "id": "1KaT3gZQhCoUmGYqeCqs2C"
+        }
+      }
+    },
+    "file": {
+      "ru": "https://aphid.fireside.fm/d/1437767933/1532eacf-ac70-4afc-9432-dbcaaaa28600/fb1b1ba0-4406-4e5e-b48d-09dbb8b654d4.mp3"
+    },
+    "explicit": {
+      "ru": false
+    },
+    "duration": {
+      "ru": "01:16:46"
+    },
+    "length": {
+      "ru": "92330695"
+    },
+    "notes": {
+      "ru": "- <a class='podcast_time'>1:30</a> - Как выйти из [Vim](https://ru.wikipedia.org/wiki/Vim) и стоит ли?\n- <a class='podcast_time'>11:45</a> - Чем хорош [WebStorm](https://www.jetbrains.com/webstorm/), а чем - плох, срывы покровов на IDE.\n- <a class='podcast_time'>17:05</a> - Как разобраться в Vim.\n- <a class='podcast_time'>18:45</a> - Открываем несколько проектов в редакторе.\n- <a class='podcast_time'>21:25</a> - VimL - это боль.\n- <a class='podcast_time'>25:00</a> - Решаем проблемы при помощи регулярных выражений.\n- <a class='podcast_time'>28:53</a> - Вся правда про [линтер](https://eslint.org/), [претиер](https://github.com/prettier/prettier) и их совместную работу. \n- <a class='podcast_time'>36:15</a> - Как правильно готовить git. \n- <a class='podcast_time'>41:00</a> - О проблемах коммуникации.\n- <a class='podcast_time'>45:50</a> - Зачем фронтендеру [Docker](https://www.docker.com/) и как перестать делать npm install.\n- <a class='podcast_time'>63:10</a> - Разбираемся, а зачем нужно изучать все ранее названное и становиться \"фронтопсом\".\n- <a class='podcast_time'>73:10</a> - Зачем вообще обсуждать кто чем собирает и как что компилирует. \n\n[Vim adventures](https://vim-adventures.com) - игра, которая учит навигации в Vim.\n\n[Atom nuclide](https://atom.io/packages/nuclide) - плагин, превращающий atom в IDE.\n\n[Modern.ie](https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/) - виртуальные машины с разными версиями IE.\n\n[Kubernetes](https://kubernetes.io/)."
+    },
+    "number": {
+      "ru": 17
+    },
+    "persons": {
+      "ru": [
+        {
+          "sys": {
+            "type": "Link",
+            "linkType": "Entry",
+            "id": "239ipx98KAwUKKE8mSqYAk"
+          }
+        }
+      ]
+    }
+  },
+  "17RX4Og62CQA8mOsysMmEq": {
+    "type": "drinkcast",
+    "id": "17RX4Og62CQA8mOsysMmEq",
+    "title": {
+      "ru": " #25 — «Те самые Java-фронтендеры»"
+    },
+    "date": {
+      "ru": "2018-02-06"
+    },
+    "image": {
+      "ru": {
+        "sys": {
+          "type": "Link",
+          "linkType": "Asset",
+          "id": "1KaT3gZQhCoUmGYqeCqs2C"
+        }
+      }
+    },
+    "file": {
+      "ru": "https://aphid.fireside.fm/d/1437767933/1532eacf-ac70-4afc-9432-dbcaaaa28600/d8e7018d-8141-4ce1-bf57-07ecc22eca83.mp3"
+    },
+    "explicit": {
+      "ru": false
+    },
+    "duration": {
+      "ru": "1:15:29"
+    },
+    "length": {
+      "ru": "90776276"
+    },
+    "notes": {
+      "ru": "- <a class='podcast_time'>1:30</a> - Когда Java это тоже фронтенд, а [Opera-mini](http://www.opera.com/ru/mobile/mini) - тоже браузер.\n- <a class='podcast_time'>7:45</a> - Плоская структура, много фич и огромная кодобаза, как фронтендеры с этим справляются.\n- <a class='podcast_time'>16:45</a> - Про тесты, ночные СМСки от пользователей.\n- <a class='podcast_time'>21:10</a> - Когда есть несколько мобильных версий и как с этим жить.\n- <a class='podcast_time'>25:35</a> - Долгая история о том, как ребята фреймворк выбирали и почему ни один не прошел. И что-то посложнее [todo-листа для проверки фреймворка](http://todomvc.com/).\n- <a class='podcast_time'>34:40</a> - Про новый стек и выпил [GWT](http://www.gwtproject.org/) и [jQuery](https://jquery.com/) в будущем.\n- <a class='podcast_time'>48:09</a> - Cтили, код-стайлы и код-ревью.\n- <a class='podcast_time'>52:50</a> - Ленивые компоненты в изоморфном приложении.\n- <a class='podcast_time'>58:03</a> - Почему бекендеры не против того, что фронтендеры лезут в Java и наоборот.\n- <a class='podcast_time'>64:00</a> - [Dart](https://www.dartlang.org/) - лучший из непопулярных языков программирования.\n- <a class='podcast_time'>65:30</a> - Идеальный стек для домашнего проекта.\n- <a class='podcast_time'>70:46</a> - Каково это быть фронтендером на Java.\n- <a class='podcast_time'>73:15</a> - Розыгрыш подарка от \"Одноклассников\".\n\nСергей Чикуенок - А так ли нужен Virtual DOM? (Про новый стек, о котором упоминали ребята)\n[https://www.youtube.com/watch?v=063LPB8eK4Y](https://www.youtube.com/watch?v=063LPB8eK4Y)\n\nРебята с радостью отдадут фирменную термокружку за самую милую😍 историю вашего взаимодействия с бекендерами, подробности в подкасте."
+    },
+    "number": {
+      "ru": 25
+    },
+    "persons": {
+      "ru": [
+        {
+          "sys": {
+            "type": "Link",
+            "linkType": "Entry",
+            "id": "3TOVMGCftK282K8ceG02ci"
+          }
+        },
+        {
+          "sys": {
+            "type": "Link",
+            "linkType": "Entry",
+            "id": "3fseMTlTegEiuum6mUmiKS"
+          }
+        }
+      ]
+    }
+  },
+  "4E4wd1fGsUUEO8OSMcQImw": {
+    "type": "drinkcast",
+    "id": "4E4wd1fGsUUEO8OSMcQImw",
+    "title": {
+      "ru": "#6 — «Тим Маринин и мышки на тёрке»"
+    },
+    "date": {
+      "ru": "2017-09-01"
+    },
+    "image": {
+      "ru": {
+        "sys": {
+          "type": "Link",
+          "linkType": "Asset",
+          "id": "qCarmp0NJ6i4mO6Es8E4k"
+        }
+      }
+    },
+    "file": {
+      "ru": "https://aphid.fireside.fm/d/1437767933/1532eacf-ac70-4afc-9432-dbcaaaa28600/07657a6c-7126-48e3-a4ad-889cd06bc757.mp3"
+    },
+    "explicit": {
+      "ru": false
+    },
+    "duration": {
+      "ru": "1:26:08"
+    },
+    "length": {
+      "ru": "82721260"
+    },
+    "notes": {
+      "ru": "Теперь мы есть в [Telegram](https://t.me/drinkcast)\n\n- <a class='podcast_time'>1:05</a> - Почему Тим не любит, когда его называют фронтендером.\n- <a class='podcast_time'>3:56</a> - Немного о себе, текущей работе, легаси и React.\n- <a class='podcast_time'>9:38</a> - Ностальгическое: про времена jQuery и табличную верстку.\n- <a class='podcast_time'>11:17</a> - Про [NodeSchool](https://nodeschool.io/).\n- <a class='podcast_time'>13:57</a> - С чего начинались [Фронтерки](http://fronterki.fm/).\n- <a class='podcast_time'>24:00</a> - Про интервью [Дудя](https://www.youtube.com/channel/UCMCgOm8GZkHp8zJ6l7_hIuA).\n- <a class='podcast_time'>25:31</a> - Что такое крафтовый подкаст.\n- <a class='podcast_time'>32:10</a> - Как происходит запись Фронтерок.\n- <a class='podcast_time'>34:40</a> - Про алкогольный выпуск с Ситником.\n- <a class='podcast_time'>38:45</a> - Как Андрея Гурылева 4 часа писали.\n- <a class='podcast_time'>41:29</a> - Про гостей и интересных людей, как попасть во Фронтерки.\n- <a class='podcast_time'>46:41</a> - Как делать интересные интервью.\n- <a class='podcast_time'>53:10</a> - Про митапы, сообщество и о том, почему тяжело общаться на конференциях.\n- <a class='podcast_time'>58:30</a> - Про [EventLoop](https://eventloop.ru/), митапы, западных и русских докладчиков.\n- <a class='podcast_time'>71:20</a> - Про книжки: как читать и как выбирать.\n- <a class='podcast_time'>77:25</a> - Стоит ли читать сразу на английском?\n- <a class='podcast_time'>80:00</a> - Идеальный фронтенд стек по мнению Тима.\n\nИнтересные книги из выпуска:\n- \"Как читать книги. Руководство по чтению великих произведений\"|\"How to Read a Book: A Guide to Reading the Great Books\". Мортимер Адлер\n- \"Совершенный код\"|\"Code Complete: A Practical Handbook of Software Construction\". Стив Макконнелл\n- \"Рефакторинг. Улучшение существующего кода\"|\"Refactoring: Improving the Design of Existing Code\". Мартин Фаулер, Кент Бек, Джон Брант, Уильям Апдайк, Дон Робертс, Эрих Гамма\n"
+    },
+    "number": {
+      "ru": 6
+    },
+    "persons": {
+      "ru": [
+        {
+          "sys": {
+            "type": "Link",
+            "linkType": "Entry",
+            "id": "28bm76VLkkYcO0UEo6SaU6"
+          }
+        }
+      ]
+    }
+  },
+  "5rVz5baPewkwUKSKa4yqCs": {
+    "type": "drinkcast",
+    "id": "5rVz5baPewkwUKSKa4yqCs",
+    "title": {
+      "ru": "#18 — «Ребята, давайте жить дружно»"
+    },
+    "date": {
+      "ru": "2017-11-24"
+    },
+    "image": {
+      "ru": {
+        "sys": {
+          "type": "Link",
+          "linkType": "Asset",
+          "id": "1KaT3gZQhCoUmGYqeCqs2C"
+        }
+      }
+    },
+    "file": {
+      "ru": "https://aphid.fireside.fm/d/1437767933/1532eacf-ac70-4afc-9432-dbcaaaa28600/23a9b69f-71a5-487d-9bef-39d0fc3ed502.mp3"
+    },
+    "explicit": {
+      "ru": false
+    },
+    "duration": {
+      "ru": "01:14:21"
+    },
+    "length": {
+      "ru": "89434619"
+    },
+    "notes": {
+      "ru": "- <a class='podcast_time'>0:46</a> - Тот самый Митя, который провел дебаты на [ITGM](http://piter-united.ru/itgm11/). Почему JS на сервере это смертный грех и что вообще там случилось?\n- <a class='podcast_time'>10:32</a> - Конфликты между сообществами, чем питонисты похожи на фронтендеров.\n- <a class='podcast_time'>13:43</a> - Почему полезно изучать другие языки и быть фуллстеком.\n- <a class='podcast_time'>20:10</a> - Синдром самозванца, как движущий фактор взаимных насмешек.\n- <a class='podcast_time'>21:45</a> - Взгляд со стороны HR-ов, о мнимой элитарности разработчиков.\n- <a class='podcast_time'>29:54</a> - О том куда загибается веб.\n- <a class='podcast_time'>33:10</a> - Почему большие платные конференции стоят дорого и образуют закрытую тусовку работников крупных компаний. Можно ли сделать дешевле?\n- <a class='podcast_time'>47:22</a> - Если нравится конференция - иди туда докладчиком!\n- <a class='podcast_time'>52:08</a> - Теплые ламповые локальные сообщества и митапы, почему важно развивать городские комьюнити.\n- <a class='podcast_time'>57:23</a> - Зачем делать строго женские воркшопы, почему это так активно распространяется по миру и где мы нашли дискриминацию.\n- <a class='podcast_time'>69:02</a> - Learn in public, work and tell.\n\n[Эти токсичные, токсичные собеседования](https://habrahabr.ru/company/exante/blog/335096/)\n\n[Рэп-батл нейросетей](https://www.youtube.com/watch?v=iZC-E4wQe_s)\n\n[Ольга Павлова: Как уследить за трендами технологий, если вы не программист](https://events.yandex.ru/lib/talks/4492/)"
+    },
+    "number": {
+      "ru": 18
+    },
+    "persons": {
+      "ru": [
+        {
+          "sys": {
+            "type": "Link",
+            "linkType": "Entry",
+            "id": "4Vt1UebyQgSm6c2qySmYMQ"
+          }
+        }
+      ]
+    }
+  },
+  "6J5wqKOSCAcwa0Wcq0YsU2": {
+    "type": "drinkcast",
+    "id": "6J5wqKOSCAcwa0Wcq0YsU2",
+    "title": {
+      "ru": "#2 — «Бойкий Джун — Счастливый Ментор»"
+    },
+    "date": {
+      "ru": "2017-08-04"
+    },
+    "image": {
+      "ru": {
+        "sys": {
+          "type": "Link",
+          "linkType": "Asset",
+          "id": "qCarmp0NJ6i4mO6Es8E4k"
+        }
+      }
+    },
+    "file": {
+      "ru": "https://aphid.fireside.fm/d/1437767933/1532eacf-ac70-4afc-9432-dbcaaaa28600/84cde619-39a2-488b-8367-2b2241daf158.mp3"
+    },
+    "explicit": {
+      "ru": false
+    },
+    "duration": {
+      "ru": "55:01"
+    },
+    "length": {
+      "ru": "52881771"
+    },
+    "notes": {
+      "ru": "- <a class='podcast_time'>1:16</a> - Собеседование джуниора\n- <a class='podcast_time'>6:48</a> - Как разгялдеть огонек в глазах, знания и интерес к профессии\n- <a class='podcast_time'>8:55</a> - Стажёры, чем они отличаются от джунов\n- <a class='podcast_time'>12:20</a> - Что должен знать джуниор, как не испугать его на собеседовании, с чего начать интервью\n- <a class='podcast_time'>16:40</a> - Тестовое задание на дом или задачки на собеседованиях?\n- <a class='podcast_time'>24:15</a> - А может сразу взять миддла?\n- <a class='podcast_time'>27:10</a> - Как удержать разработчика в компании\n- <a class='podcast_time'>29:00</a> - Истории ведущих, кто каким джуниором был\n- <a class='podcast_time'>33:18</a> - От джуна до миддла, рост разработчика в команде, можно ли определить момент перехода\n- <a class='podcast_time'>40:45</a> - Стоит ли учить подопечного оценивать свои силы и задачи\n- <a class='podcast_time'>45:04</a> - Как Миша шестерых специалистов растил\n- <a class='podcast_time'>48:18</a> - [Парное программирование](https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D1%80%D0%BD%D0%BE%D0%B5_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5) и код-ревью\n- <a class='podcast_time'>52:20</a> - О менторстве"
+    },
+    "number": {
+      "ru": 2
+    }
+  },
+  "4k6SM8f3kAo2286KUYUy6q": {
+    "type": "drinkcast",
+    "id": "4k6SM8f3kAo2286KUYUy6q",
+    "title": {
+      "ru": "#1 — «12 колонок на пакет мертвеца»"
+    },
+    "date": {
+      "ru": "2017-07-28"
+    },
+    "image": {
+      "ru": {
+        "sys": {
+          "type": "Link",
+          "linkType": "Asset",
+          "id": "qCarmp0NJ6i4mO6Es8E4k"
+        }
+      }
+    },
+    "file": {
+      "ru": "https://aphid.fireside.fm/d/1437767933/1532eacf-ac70-4afc-9432-dbcaaaa28600/6e1166ca-3c9a-4970-8234-bb1743357afb.mp3"
+    },
+    "explicit": {
+      "ru": false
+    },
+    "duration": {
+      "ru": "43:13"
+    },
+    "length": {
+      "ru": "83070974"
+    },
+    "notes": {
+      "ru": "- <a class='podcast_time'>0:40</a> - CSS-in-JS: [Decss](https://github.com/kossnocorp/decss), [Styled Components](https://github.com/styled-components/styled-components)\n- <a class='podcast_time'>11:40</a> - [Houdini](https://habrahabr.ru/company/mailru/blog/282027/)\n- <a class='podcast_time'>13:35</a> - Кастомные свойства в CSS\n- <a class='podcast_time'>14:45</a> - Сетки в 2017, нужны или нет?\n- <a class='podcast_time'>27:25</a> - [Yarn](https://yarnpkg.com/lang/en/) vs [PNPM](https://pnpm.js.org/) vs [NPM 5.2.0](https://www.npmjs.com/)\n- <a class='podcast_time'>33:08</a> - Ведение личного проекта, опенсорс\n- <a class='podcast_time'>39:20</a> - [Gatsby](https://github.com/gatsbyjs/gatsby) - генератор статики на [GraphQL](http://graphql.org/)\n"
+    },
+    "number": {
+      "ru": 1
+    },
+    "persons": {
+      "ru": [
+        {
+          "sys": {
+            "type": "Link",
+            "linkType": "Entry",
+            "id": "2ghXZpLXfCm0MuwwmAe6ey"
+          }
+        },
+        {
+          "sys": {
+            "type": "Link",
+            "linkType": "Entry",
+            "id": "1gdclYhVbeCUAEkmgQq2e2"
+          }
+        },
+        {
+          "sys": {
+            "type": "Link",
+            "linkType": "Entry",
+            "id": "MnQjZTsZS6mCKSeE6WeSI"
+          }
+        }
+      ]
+    }
+  },
+  "4aSvlYjCRyIm4Q2Y6yQoEm": {
+    "type": "drinkcast",
+    "id": "4aSvlYjCRyIm4Q2Y6yQoEm",
+    "title": {
+      "ru": "#5 — «Фриланс vs офис, о работе и мотивации»"
+    },
+    "date": {
+      "ru": "2017-08-25"
+    },
+    "image": {
+      "ru": {
+        "sys": {
+          "type": "Link",
+          "linkType": "Asset",
+          "id": "qCarmp0NJ6i4mO6Es8E4k"
+        }
+      }
+    },
+    "file": {
+      "ru": "https://aphid.fireside.fm/d/1437767933/1532eacf-ac70-4afc-9432-dbcaaaa28600/a312e6ae-b6fe-4bfc-ae40-d62d68e24e7f.mp3"
+    },
+    "explicit": {
+      "ru": false
+    },
+    "duration": {
+      "ru": "47:06"
+    },
+    "length": {
+      "ru": "67825539"
+    },
+    "notes": {
+      "ru": "Теперь мы есть в [Telegram](https://t.me/drinkcast)\n\n- <a class='podcast_time'>1:12</a> - Первый заказ на [Upwork](https://www.upwork.com/) и найти работу на удаленке.\n- <a class='podcast_time'>5:34</a> - Работа в распределенной команде, коллеги в других городах и странах.\n- <a class='podcast_time'>10:54</a> - Почему стоит завести собаку если ты - фрилансер и где найти мотивацию.\n- <a class='podcast_time'>14:45</a> - Перерывы в работе, отрываемся от компа.\n- <a class='podcast_time'>17:22</a> - Чем стартап отличается от большой компании.\n- <a class='podcast_time'>21:32</a> - Истории о начале работы от ведущих.\n- <a class='podcast_time'>26:32</a> - Как плохой менеджмент может развалить веб-студию.\n- <a class='podcast_time'>28:40</a> - О роли наставника, плюсы и минусы работы в большой компании.\n- <a class='podcast_time'>34:50</a> - Как поработать на курорте.\n- <a class='podcast_time'>37:48</a> - Что выбрать как первое место работы, если ты - джун.\n- <a class='podcast_time'>42:08</a> - Куда бы ни за что не пошли бы работать ведущие."
+    },
+    "number": {
+      "ru": 5
+    },
+    "persons": {
+      "ru": [
+        {
+          "sys": {
+            "type": "Link",
+            "linkType": "Entry",
+            "id": "3ul9j1mfkcYiQooimGOQ0o"
+          }
+        }
+      ]
+    }
+  },
+  "4R1M3xvRRmKWAmKQC46g4S": {
+    "type": "drinkcast",
+    "id": "4R1M3xvRRmKWAmKQC46g4S",
+    "title": {
+      "ru": "#4 — «Ошибки и места их обитания»"
+    },
+    "date": {
+      "ru": "2017-08-18"
+    },
+    "image": {
+      "ru": {
+        "sys": {
+          "type": "Link",
+          "linkType": "Asset",
+          "id": "qCarmp0NJ6i4mO6Es8E4k"
+        }
+      }
+    },
+    "file": {
+      "ru": "https://aphid.fireside.fm/d/1437767933/1532eacf-ac70-4afc-9432-dbcaaaa28600/a23feea0-8632-48b4-8b11-15e15c2450a5.mp3"
+    },
+    "explicit": {
+      "ru": false
+    },
+    "duration": {
+      "ru": "1:13:26"
+    },
+    "length": {
+      "ru": "44124415"
+    },
+    "notes": {
+      "ru": "- <a class='podcast_time'>1:12</a> - Про пирожки со стекловатой.\n- <a class='podcast_time'>3:10</a> - [Линтеры](http://forwebdev.ru/javascript/linting/), на страже красоты и порядка.\n- <a class='podcast_time'>6:45</a> - [Prettier](https://prettier.io/), как финальный удар по кодстайлу.\n- <a class='podcast_time'>10:11</a> - Споры о [статической типизации](https://habrahabr.ru/post/308484/), зачем она в JS?\n- <a class='podcast_time'>28:30</a> - [Unit-тесты](https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D0%B4%D1%83%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5)\n- <a class='podcast_time'>33:57</a> - Недостижимые [100% coverage](https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BA%D1%80%D1%8B%D1%82%D0%B8%D0%B5_%D0%BA%D0%BE%D0%B4%D0%B0) и необходимость тестов вцелом.\n- <a class='podcast_time'>41:25</a> - Как Саша первые тесты написал.\n- <a class='podcast_time'>42:50</a> - [End-to-End тесты](https://tproger.ru/translations/frontend-testing-3/) (e2e), простые и сложные.\n- <a class='podcast_time'>51:45</a> - Как тестировщики могут помочь с тестами.\n- <a class='podcast_time'>52:33</a> - Что такое smoke-тесты.\n- <a class='podcast_time'>52:33</a> - О пользе e2e.\n- <a class='podcast_time'>60:30</a> - React [песочница](https://codesandbox.io/), [StoryBook](https://storybook.js.org/).\n- <a class='podcast_time'>67:58</a> - Тестирование скриншотами.\n\nТеперь мы есть в [Telegram](https://t.me/drinkcast)"
+    },
+    "number": {
+      "ru": 4
+    }
+  },
+  "62V4ADFqusuQwcyWAoyS4a": {
+    "type": "drinkcast",
+    "id": "62V4ADFqusuQwcyWAoyS4a",
+    "title": {
+      "ru": "#21 — «RN vs PWA»"
+    },
+    "date": {
+      "ru": "2017-12-15"
+    },
+    "image": {
+      "ru": {
+        "sys": {
+          "type": "Link",
+          "linkType": "Asset",
+          "id": "1KaT3gZQhCoUmGYqeCqs2C"
+        }
+      }
+    },
+    "file": {
+      "ru": "https://aphid.fireside.fm/d/1437767933/1532eacf-ac70-4afc-9432-dbcaaaa28600/7e70602a-76e7-4392-8913-f04b062a0d81.mp3"
+    },
+    "explicit": {
+      "ru": false
+    },
+    "duration": {
+      "ru": "01:11:40"
+    },
+    "length": {
+      "ru": "86202095"
+    },
+    "notes": {
+      "ru": "- <a class='podcast_time'>1:00</a> - Трогательная история о том как все с нетерпением ждали выхода [React Native](https://facebook.github.io/react-native/) и почему он был на голову выше конкурентов.\n- <a class='podcast_time'>7:55</a> - Почему всякие обертки медленные и никто не делает нормальную поддержку жестов в ненативных приложениях.\n- <a class='podcast_time'>9:30</a> - Делать быстро или круто, что из этого приносит деньги? Звучит маленькая надежда на взлет [PWA](https://developers.google.com/web/progressive-web-apps/).\n- <a class='podcast_time'>17:11</a> - Как можно по-быстрому превратить сайт в PWA и почему не стоит смотреть на размер картинок. Дружно мочим React Native.\n- <a class='podcast_time'>22:10</a> - Реабилитируем нативные технологии и чем разработка под RN похожа на веб-разработку и почему не все нативное хорошо только потому, что еще не дошло до веба.\n- <a class='podcast_time'>31:18</a> - Универсальные компоненты это миф? И сколько на самом деле стоит мультиплатформенность.\n- <a class='podcast_time'>36:00</a> - Почему CDN — миф старого веба, как правильно готовить PWA и что не так с экосистемой React.\n- <a class='podcast_time'>43:47</a> - [Hot-reloading](https://facebook.github.io/react-native/blog/2016/03/24/introducing-hot-reloading.html), который пришел из веба и JS который лучше бы не приходил.\n- <a class='podcast_time'>52:15</a> - Нативные разработчики vs фронтендеры, кому как платят и кто тут больше программист.\n- <a class='podcast_time'>61:00</a> - Окончательно топим React Native.\n\n[Цена JS — перевод нашумевшей статьи про большие бандлы](https://habrahabr.ru/post/343562/)\n\nСтатья Никиты Прокопова (Веб тоже иногда ломают) - http://tonsky.me/blog/chrome-intervention/\n\nДима Локтев также ведет канал про React Native, подписывайтесь - https://t.me/reactnativenotes\n\nТак же у нас есть telegram чат для обратной связи [@drinkcast](https://t.me/drinkcast)."
+    },
+    "number": {
+      "ru": 21
+    },
+    "persons": {
+      "ru": [
+        {
+          "sys": {
+            "type": "Link",
+            "linkType": "Entry",
+            "id": "2fLhhdERfSQig0gKUAgW8G"
+          }
+        },
+        {
+          "sys": {
+            "type": "Link",
+            "linkType": "Entry",
+            "id": "64YZMKjf4kIqYGUOg0uCcg"
+          }
+        }
+      ]
+    }
+  },
+  "3Jk28NIt3iC0cmwGMWyIGQ": {
+    "type": "drinkcast",
+    "id": "3Jk28NIt3iC0cmwGMWyIGQ",
+    "title": {
+      "ru": "#16 — «К нам зашел бекенд...»"
+    },
+    "date": {
+      "ru": "2017-11-10"
+    },
+    "image": {
+      "ru": {
+        "sys": {
+          "type": "Link",
+          "linkType": "Asset",
+          "id": "1KaT3gZQhCoUmGYqeCqs2C"
+        }
+      }
+    },
+    "file": {
+      "ru": "https://aphid.fireside.fm/d/1437767933/1532eacf-ac70-4afc-9432-dbcaaaa28600/b8ede500-6724-446d-ab5c-934eb03b521b.mp3"
+    },
+    "explicit": {
+      "ru": false
+    },
+    "duration": {
+      "ru": "01:05:49"
+    },
+    "length": {
+      "ru": "79199687"
+    },
+    "notes": {
+      "ru": "- <a class='podcast_time'>0:46</a> - Как работать 4/3 на зависть коллегам;\n- <a class='podcast_time'>11:08</a> - Поиск миддла/сениора: другой подход к тестовым заданиям и собеседованиям;\n- <a class='podcast_time'>18:12</a> - [CodePen](https://codepen.io/) и стрессовые собеседования.\n- <a class='podcast_time'>20:45</a> - Про лояльность к компаниям и знакомые стены.\n- <a class='podcast_time'>22:18</a> - [Задача на хабре](https://habrahabr.ru/post/341262/) и миддлы, которые не миддлы.\n- <a class='podcast_time'>24:47</a> - Снижение стресса в команде, почему разработчики молчат.\n- <a class='podcast_time'>33:32</a> - Апишечки для фронтендеров и зачем нужны бизнес-аналитики. \n- <a class='podcast_time'>38:55</a> - В чем проблема [GraphQL](http://graphql.org/).\n- <a class='podcast_time'>44:30</a> - Немного споров о том, как получать обновления с сервера и про денормализацию данных.\n- <a class='podcast_time'>55:20</a> - Чистим кэш перезагрузкой страницы.\n- <a class='podcast_time'>61:09</a> - UX-извращения, истории про одно большое предприятие."
+    },
+    "number": {
+      "ru": 16
+    },
+    "persons": {
+      "ru": [
+        {
+          "sys": {
+            "type": "Link",
+            "linkType": "Entry",
+            "id": "2OhKNmofx6WCUywASYUycW"
+          }
+        }
+      ]
+    }
+  },
+  "5GjC2mY4jS28gwGeQEoYG8": {
+    "type": "drinkcast",
+    "id": "5GjC2mY4jS28gwGeQEoYG8",
+    "title": {
+      "ru": "#20 — «Поймать опенсорсера»"
+    },
+    "date": {
+      "ru": "2017-12-08"
+    },
+    "image": {
+      "ru": {
+        "sys": {
+          "type": "Link",
+          "linkType": "Asset",
+          "id": "1KaT3gZQhCoUmGYqeCqs2C"
+        }
+      }
+    },
+    "file": {
+      "ru": "https://aphid.fireside.fm/d/1437767933/1532eacf-ac70-4afc-9432-dbcaaaa28600/0c90e048-3d0a-45c8-ba6b-2c0214d22d55.mp3"
+    },
+    "explicit": {
+      "ru": false
+    },
+    "duration": {
+      "ru": "01:26:53"
+    },
+    "length": {
+      "ru": "104467659"
+    },
+    "notes": {
+      "ru": "- <a class='podcast_time'>1:01</a> - Как становятся опенсорсерами просто решая проблемы, в чем тут боль, а в чем - кайф.\n- <a class='podcast_time'>6:50</a> - Можно ли зарабатывать на том, что лежит бесплатно, как Webpack стал бизнесом и что уже давно следует прикрутить к Гитхабу.\n- <a class='podcast_time'>12:58</a> - Зачем опенсорсеру Твиттер.\n- <a class='podcast_time'>19:18</a> - Как Богдан захватывает репозитории и что там должно быть чтобы в них завелась жизнь.\n- <a class='podcast_time'>25:03</a> - Webpack — красавчик? Чем он так ужасен изнутри и почему [RollupJS](https://rollupjs.org/) лучше.\n- <a class='podcast_time'>36:10</a> - Богдан рассказывает что побудило его мейнтейнить [DerivableJS](https://github.com/ds300/derivablejs) и чем он лучше [MobX](https://mobx.js.org/) и [Redux](https://redux.js.org/). Споры о хранении стейта.\n- <a class='podcast_time'>40:40</a> - [React-cosmos](https://react-cosmos.github.io/) — убийца [Storybook](https://storybook.js.org/).\n- <a class='podcast_time'>43:11</a> - Снова хвалим [DerivableJS](https://github.com/ds300/derivablejs) и ругаем [декораторы](https://habrahabr.ru/post/277021/) и классы.\n- <a class='podcast_time'>51:57</a> - Артур рассказывает про свой [offline плагин для Webpack](https://github.com/NekR/offline-plugin) и как [«offline first»](https://habrahabr.ru/post/160477/) захватит мир, где тут бизнес, а где — [UX](https://ru.wikipedia.org/wiki/%D0%9E%D0%BF%D1%8B%D1%82_%D0%B2%D0%B7%D0%B0%D0%B8%D0%BC%D0%BE%D0%B4%D0%B5%D0%B9%D1%81%D1%82%D0%B2%D0%B8%D1%8F).\n- <a class='podcast_time'>69:05</a> - В чем суть политики Apple по отношению к Safari и другим браузерам.\n- <a class='podcast_time'>69:56</a> - Зачем нужен [offline плагин](https://github.com/NekR/offline-plugin), почему нативные приложения весят так много и что такое [Service Worker](https://developer.mozilla.org/ru/docs/Web/API/Service_Worker_API).\n- <a class='podcast_time'>79:20</a> - Почему [React Native](https://facebook.github.io/react-native/) взлетает быстрее [PWA](https://developers.google.com/web/progressive-web-apps/). О войне между корпорациями на поле опенсорса, за деньги и разработчиков.\n\n[opencollective — площадка для сбора денег](https://opencollective.com/)\n\nПочему нужно делать пва и почему нейтив может быть не нужен: https://cloudfour.com/thinks/progressive-web-apps-simply-make-sense\n\nCreate Progressive Web App - https://github.com/developit/preact-cli\n\nКак ПВА помогли поднять конверсию бизнесу, увеличить количество пользователей. Кейсы разные. https://www.pwastats.com/\n\nКуда же без \"гитхабов\" ведущих: [Сережа](https://github.com/lapanoid), [Богдан](https://github.com/TrySound) и [Артур](https://github.com/nekr).\n\nТак же у нас есть telegram чат для обратной связи [@drinkcast](https://t.me/drinkcast)."
+    },
+    "number": {
+      "ru": 20
+    },
+    "persons": {
+      "ru": [
+        {
+          "sys": {
+            "type": "Link",
+            "linkType": "Entry",
+            "id": "2klaUeAUVm8symk6SU4KMS"
+          }
+        },
+        {
+          "sys": {
+            "type": "Link",
+            "linkType": "Entry",
+            "id": "457aJsdlV6Y0uAuE42mOq6"
+          }
+        }
+      ]
+    }
+  },
+  "255FP0qPoscEIW8O4IIYEE": {
+    "type": "drinkcast",
+    "id": "255FP0qPoscEIW8O4IIYEE",
+    "title": {
+      "ru": "#19 — «Пресвятой JavaScript»"
+    },
+    "date": {
+      "ru": "2017-12-01"
+    },
+    "image": {
+      "ru": {
+        "sys": {
+          "type": "Link",
+          "linkType": "Asset",
+          "id": "1KaT3gZQhCoUmGYqeCqs2C"
+        }
+      }
+    },
+    "file": {
+      "ru": "https://aphid.fireside.fm/d/1437767933/1532eacf-ac70-4afc-9432-dbcaaaa28600/f487b38a-deb4-48a5-b0bc-31622e650832.mp3"
+    },
+    "explicit": {
+      "ru": false
+    },
+    "duration": {
+      "ru": "59:42"
+    },
+    "length": {
+      "ru": "71859231"
+    },
+    "notes": {
+      "ru": "- <a class='podcast_time'>1:04</a> - Кто такие [Миша](https://twitter.com/mike1pol) и [Женя](https://twitter.com/bunopus) и чем они занимаются помимо [HolyJS](https://holyjs-moscow.ru/).\n- <a class='podcast_time'>4:18</a> - Что такое программный комитет* и чем они занимаются.\n- <a class='podcast_time'>6:25</a> - Почему стоит звать иностранных спикеров и что может остановить [Мартина Шплитта](https://twitter.com/g33konaut).\n- <a class='podcast_time'>8:45</a> - Почему фронтендерам стоит чаще встречаться, а фанатам реакта - начать копить на подводную лодку.\n- <a class='podcast_time'>16:23</a> - Общаться сложно, но полезно и причем тут конференции. \n- <a class='podcast_time'>27:58</a> - Организация мероприятий это не про деньги, что же толкает их снова и снова это делать?\n- <a class='podcast_time'>31:57</a> - Почему именно HolyJS, какие там плюшки и как правильно обращаться к [Крокфорду](https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%BE%D0%BA%D1%84%D0%BE%D1%80%D0%B4,_%D0%94%D1%83%D0%B3%D0%BB%D0%B0%D1%81)?\n- <a class='podcast_time'>38:06</a> - Как начиналась HolyJS: SPB-Frontend и \"[Клевый лысый дядька](https://twitter.com/23derevo)\".\n- <a class='podcast_time'>40:02</a> - Наконец-то про деньги, почему так дорого?\n- <a class='podcast_time'>47:30</a> - Грустная история про 30% заявок в последний день приема заявок.\n- <a class='podcast_time'>48:57</a> - ТОП-10 докладчиков предстоящей конференции по версии ребят.\n\n*PS: на самом деле, программный комитет это 4 человека: [Миша](https://twitter.com/mike1pol), [Женя](https://twitter.com/bunopus), [Вадим](https://twitter.com/_bmsdave) и [Дмитрий](https://twitter.com/dmitrymakhnev).\n\n[Доклад \"Бешеные псы: Angular 2 vs React\"](https://habrahabr.ru/company/wrike/blog/330872/)\n[Angular Cruise](https://ngcruise.com/#/)\n\nРускоязычные большие конференции про фронтенду: \n[РИТ++](http://ritfest.ru/)\n[CodeFest](https://2018.codefest.ru/)\n[Highload++](http://www.highload.ru/)\n[Rolling Scopes](https://rollingscopes.com/)\n[Стачка](https://nastachku.ru/)\n[HolyJS](https://holyjs.ru/)\n[PiterCSS](https://pitercss.com/) \n\nПромокод:"
+    },
+    "number": {
+      "ru": 19
+    },
+    "persons": {
+      "ru": [
+        {
+          "sys": {
+            "type": "Link",
+            "linkType": "Entry",
+            "id": "1ZuMYNHTqguic4Y6gyYSW2"
+          }
+        },
+        {
+          "sys": {
+            "type": "Link",
+            "linkType": "Entry",
+            "id": "4Xj2LgEfVS2sQKUauCii2y"
+          }
+        }
+      ]
+    }
+  },
+  "7jR6Np4amkeMy6CUimyAic": {
+    "type": "drinkcast",
+    "id": "7jR6Np4amkeMy6CUimyAic",
+    "title": {
+      "ru": "#24 — «Знай свой Джаваскрипт»"
+    },
+    "date": {
+      "ru": "2018-01-29"
+    },
+    "image": {
+      "ru": {
+        "sys": {
+          "type": "Link",
+          "linkType": "Asset",
+          "id": "1KaT3gZQhCoUmGYqeCqs2C"
+        }
+      }
+    },
+    "file": {
+      "ru": "https://aphid.fireside.fm/d/1437767933/1532eacf-ac70-4afc-9432-dbcaaaa28600/f87ee06f-43f2-4ad0-aff3-91b8d246ae6d.mp3"
+    },
+    "explicit": {
+      "ru": false
+    },
+    "duration": {
+      "ru": "01:22:05"
+    },
+    "length": {
+      "ru": "79006110"
+    },
+    "notes": {
+      "ru": "- <a class='podcast_time'>1:13</a> - \"Знай свой инструмент\": мантра которая нас преледует. \n- <a class='podcast_time'>4:20</a> - История про [ангуляржс](https://angularjs.org/) и тот случай, когда реально не помешало зайти в исходники.\n- <a class='podcast_time'>8:36</a> - Зачем фронтендеру знать про деревья, байткод и прочий [computer science](https://ru.wikipedia.org/wiki/%D0%98%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0), чем ремесленник отличается от инженера.\n- <a class='podcast_time'>13:40</a> - Зачем писать игры, почему многие приходят в программирование через это.\n- <a class='podcast_time'>19:50</a> - Алгоритмы и структуры данных в реальной жизни.\n- <a class='podcast_time'>22:15</a> - Учат ли всему этому на курсах в Яндексе?.\n- <a class='podcast_time'>26:00</a> - Нода это фронтенд? И на чем лучше писать бекенд.\n- <a class='podcast_time'>39:15</a> - Про пасхалку в PHP и цикличность мира веб-разработки.\n- <a class='podcast_time'>46:35</a> - Признание в любви python-like языкам, почему погиб [CoffeScript](http://coffeescript.org/) и единственная хорошая фича оттуда.\n- <a class='podcast_time'>50:22</a> - Про [Babel](https://babeljs.io/) и то, какое будущее никогда не настанет.\n- <a class='podcast_time'>54:40</a> - Признание в любви к XML.\n- <a class='podcast_time'>60:15</a> - Как подружиться с джавистами и другими бекендерами, возможно, мы испытываем \"кризис мыслителей\"."
+    },
+    "number": {
+      "ru": 24
+    },
+    "persons": {
+      "ru": [
+        {
+          "sys": {
+            "type": "Link",
+            "linkType": "Entry",
+            "id": "17h5rGa8b4W6KwgCSgi0a4"
+          }
+        }
+      ]
+    }
+  }
+}
