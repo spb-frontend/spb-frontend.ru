@@ -48,7 +48,9 @@
 
 .controls {
   display: flex;
+  flex-flow: row, nowrap;
   align-items: flex-end;
+  align-content: flex-start;
 }
 
 .player {

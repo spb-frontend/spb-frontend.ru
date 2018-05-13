@@ -1,8 +1,6 @@
 import React, { Component } from 'react'
 import cn from 'classnames'
-import throttle from 'lodash.throttle'
-import { timestampToSeconds } from '../../../utils'
-import { Sound, Play, Volume, Timer, Progress, Speed } from './components'
+import { Sound, Play, Volume, Timer, Progress, Speed, Share } from './components'
 import st from './style.module.css'
 
 export class Player extends Component {
@@ -108,10 +106,6 @@ export class Player extends Component {
   }
 
   handlePlaying = opts => {
-    const seconds = Math.trunc(opts.position / 1000)
-
-    history.replaceState(null, null, `${location.pathname}?time=${seconds}`)
-
     this.setState(opts)
   }
 
@@ -136,9 +130,29 @@ export class Player extends Component {
     const { playStatus, position, duration, volume, playbackRate } = this.state
 
     return (
-      <div
-        className={st.player}
-        onKeyDown={this.handlePlayerKeyDown}>
+      <div>
+        <div
+          className={st.player}
+          onKeyDown={this.handlePlayerKeyDown}>
+          <Progress
+            player={this}
+            position={position}
+            duration={duration}
+            className={st.progress} />
+          <Timer
+            position={position}
+            className={st.timer} />
+
+          <Sound
+            position={position}
+            volume={volume}
+            playbackRate={playbackRate}
+            onPlaying={this.handlePlaying}
+            onLoading={this.handleLoading}
+            playStatus={playStatus}
+            autoLoad={true}
+            url={file} />
+        </div>
         <div className={st.controls}>
           <Play
             player={this}
@@ -154,25 +168,10 @@ export class Player extends Component {
             player={this}
             volume={volume}
             className={cn(st.control, st.small)} />
+          <Share
+            position={position}
+            classNames={[st.control, st.small]} />
         </div>
-        <Progress
-          player={this}
-          position={position}
-          duration={duration}
-          className={st.progress} />
-        <Timer
-          position={position}
-          className={st.timer} />
-
-        <Sound
-          position={position}
-          volume={volume}
-          playbackRate={playbackRate}
-          onPlaying={this.handlePlaying}
-          onLoading={this.handleLoading}
-          playStatus={playStatus}
-          autoLoad={true}
-          url={file} />
       </div>
     )
   }
