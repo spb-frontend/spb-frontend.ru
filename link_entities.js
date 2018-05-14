@@ -231,7 +231,8 @@ const idsMapToTitles = (items, map) => {
 const combinedToTitles = (items, map) => {
   const idToTitle = createIdToTitle(items);
   return _.fromPairs(
-    _.toPairs(map).map(([key, {fromSourceToTarget, fromTargetToSource}]) => {
+    _.toPairs(map).map(([key, value]) => {
+      const {fromSourceToTarget = [], fromTargetToSource = []} = value;
       return [
         idToTitle(key),
         {
@@ -402,17 +403,17 @@ const dumpJSON = (filename, obj) => {
       idsMapToTitles(items, finalPodcastToPerson),
     );
 
-    // await updateEntries({
-    //   space,
-    //   entriesMap: finalPersonToPodcast,
-    //   fieldName: 'podcasts',
-    // });
+    await updateEntries({
+      space,
+      entriesMap: finalPersonToPodcast,
+      fieldName: 'podcasts',
+    });
 
-    // await updateEntries({
-    //   space,
-    //   entriesMap: finalPodcastToPerson,
-    //   fieldName: 'persons',
-    // });
+    await updateEntries({
+      space,
+      entriesMap: finalPodcastToPerson,
+      fieldName: 'persons',
+    });
 
     // dumpJSON(
     //   'fromPersonToPodcastMaps.sourcesToTargets.json',
