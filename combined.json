@@ -1,21 +1,392 @@
 {
-  "Сергей Лапин": {
+  "Алексей Бахирев - «Архитектура систем локализации на клиенте»": {
     "fromSourceToTarget": [
-      "#21 — «RN vs PWA»",
-      "#20 — «Поймать опенсорсера»",
-      "#17 — «Как выйти из вима?»",
-      "#14 — «Ментор успеха залог твоего»",
-      " #13 — «ООП — это обман»",
-      "#4 — «Ошибки и места их обитания»"
+      "Алексей Бахирев"
     ],
-    "fromTargetToSource": [
-      "#4 — «Ошибки и места их обитания»",
-      "#17 — «Как выйти из вима?»",
-      " #13 — «ООП — это обман»",
-      "#22 — «Как стать независимым разработчиком»",
-      "#20 — «Поймать опенсорсера»",
-      "#21 — «RN vs PWA»",
-      "#14 — «Ментор успеха залог твоего»"
-    ]
+    "fromTargetToSource": []
+  },
+  "Дмитрий Локтев - «Сложно ли написать приложение на React Native?»": {
+    "fromSourceToTarget": [
+      "Дмитрий Локтев"
+    ],
+    "fromTargetToSource": []
+  },
+  "Андрей Вдовиченко - «Быстрый старт: Yeoman, Bower, gulp»": {
+    "fromSourceToTarget": [
+      "Андрей Вдовиченко"
+    ],
+    "fromTargetToSource": []
+  },
+  "Артём Сущев - «Famo.us»": {
+    "fromSourceToTarget": [
+      "Артём Сущев"
+    ],
+    "fromTargetToSource": []
+  },
+  "Вячеслав Шебанов - «Лайв-кодинг приложения на Meteor.js»": {
+    "fromSourceToTarget": [
+      "Вячеслав Шебанов"
+    ],
+    "fromTargetToSource": []
+  },
+  "Михаил Баранов  - «Урок труда и ОБЖ»": {
+    "fromSourceToTarget": [
+      "Михаил Баранов"
+    ],
+    "fromTargetToSource": []
+  },
+  "Андрей Ситник - «Чему нас могут научить ошибки космической индустрии»": {
+    "fromSourceToTarget": [
+      "Андрей Ситник"
+    ],
+    "fromTargetToSource": []
+  },
+  "Роман Ганин - «„Утиные истории“ – не все поймут, но многие вспомнят…»": {
+    "fromSourceToTarget": [
+      "Роман Ганин"
+    ],
+    "fromTargetToSource": []
+  },
+  "Вячеслав Шебанов - «Веб-безопасность»": {
+    "fromSourceToTarget": [
+      "Вячеслав Шебанов"
+    ],
+    "fromTargetToSource": []
+  },
+  "Станислав Гуменюк - «Как упаковать node.js приложение в Docker?»": {
+    "fromSourceToTarget": [
+      "Станислав Гуменюк"
+    ],
+    "fromTargetToSource": []
+  },
+  "Катерина Павленко - «Как сделать плагин на PostCSS?»": {
+    "fromSourceToTarget": [
+      "Катерина Павленко"
+    ],
+    "fromTargetToSource": []
+  },
+  "Зарема Халилова - «Публикуем npm пакеты»": {
+    "fromSourceToTarget": [
+      "Зарема Халилова"
+    ],
+    "fromTargetToSource": []
+  },
+  "Андрей Складчиков - «Переиспользуемые компоненты: технологии и приёмы разработки»": {
+    "fromSourceToTarget": [
+      "Андрей Складчиков"
+    ],
+    "fromTargetToSource": []
+  },
+  "Алена Батицкая - «Как правильно вести себя на новой работе. 10 вредных советов»": {
+    "fromSourceToTarget": [
+      "Алёна Батицкая"
+    ],
+    "fromTargetToSource": []
+  },
+  "Сергей Густун - «Мобильный веб или как дальше жить»": {
+    "fromSourceToTarget": [
+      "Сергей Густун"
+    ],
+    "fromTargetToSource": []
+  },
+  "Зарема Халилова - «Прощай, jQuery!»": {
+    "fromSourceToTarget": [
+      "Зарема Халилова"
+    ],
+    "fromTargetToSource": []
+  },
+  "Валентин Семирульник - «как всё обновить и не умереть»": {
+    "fromSourceToTarget": [
+      "Валентин Семирульник"
+    ],
+    "fromTargetToSource": []
+  },
+  "Евгений Гусев - «Где лучше работать в стартапе или в большой компании?»": {
+    "fromSourceToTarget": [
+      "Евгений Гусев"
+    ],
+    "fromTargetToSource": []
+  },
+  "Алексей Плуталов - «Экскурс в React.js»": {
+    "fromSourceToTarget": [
+      "Алексей Плуталов"
+    ],
+    "fromTargetToSource": []
+  },
+  "Артём Сущев - «Ember from zero party»": {
+    "fromSourceToTarget": [
+      "Артём Сущев"
+    ],
+    "fromTargetToSource": []
+  },
+  "Сергей Густун - «Законы в интерфейсах или зачем они нам?»": {
+    "fromSourceToTarget": [
+      "Сергей Густун"
+    ],
+    "fromTargetToSource": []
+  },
+  "Андрей Ситник - «PostCSS»": {
+    "fromSourceToTarget": [
+      "Андрей Ситник"
+    ],
+    "fromTargetToSource": []
+  },
+  "Кирилл Сухомлин - «Как писать unit-тесты для Rx.js?»": {
+    "fromSourceToTarget": [
+      "Кирилл Сухомлин"
+    ],
+    "fromTargetToSource": []
+  },
+  "Андрей Косяков - «Оптимизация Рендеринга сайта в Chrome DevTools»": {
+    "fromSourceToTarget": [
+      "Андрей Косяков"
+    ],
+    "fromTargetToSource": []
+  },
+  "Мария Просвирнина - «Фронтенд: Другая война»": {
+    "fromSourceToTarget": [
+      "Мария Просвирнина"
+    ],
+    "fromTargetToSource": []
+  },
+  "Александр Коротаев - «Игра „Герои Меча и Магии“ в браузере: долго, сложно и невыносимо интересно»": {
+    "fromSourceToTarget": [
+      "Александр Коротаев"
+    ],
+    "fromTargetToSource": []
+  },
+  "Виктор Пасынок  - «Electron: от мотивации до публикации»": {
+    "fromSourceToTarget": [
+      "Виктор Пасынок"
+    ],
+    "fromTargetToSource": []
+  },
+  "Андрей Попп - «Инструменты статического анализа JavaScript»": {
+    "fromSourceToTarget": [
+      "Андрей Попп"
+    ],
+    "fromTargetToSource": []
+  },
+  "Даня Абрамов - «Redux»": {
+    "fromSourceToTarget": [
+      "Даня Абрамов"
+    ],
+    "fromTargetToSource": []
+  },
+  "Валентин Семирульник - «Как всё обновить и не умереть»": {
+    "fromSourceToTarget": [
+      "Валентин Семирульник"
+    ],
+    "fromTargetToSource": []
+  },
+  "Дмитрий Долженко - «Как я ускорял загрузку видео в ok.ru»": {
+    "fromSourceToTarget": [
+      "Дмитрий Долженко"
+    ],
+    "fromTargetToSource": []
+  },
+  "Сергей Лапин - «Что такое React и как его готовить?»": {
+    "fromSourceToTarget": [
+      "Сергей Лапин"
+    ],
+    "fromTargetToSource": []
+  },
+  "Андрей Попп - «Как сделать плагин на Webpack?»": {
+    "fromSourceToTarget": [
+      "Андрей Попп"
+    ],
+    "fromTargetToSource": []
+  },
+  "Александр Курганов - «От Белаза к JavaScript»": {
+    "fromSourceToTarget": [
+      "Александр Курганов"
+    ],
+    "fromTargetToSource": []
+  },
+  "Алёна Батицкая - «Как правильно вести себя на новой работе. 10 вредных советов»": {
+    "fromSourceToTarget": [
+      "Алёна Батицкая"
+    ],
+    "fromTargetToSource": []
+  },
+  "Михаил Башуров - «Иван Тулуп: асинхронщина в js под капотом»": {
+    "fromSourceToTarget": [
+      "Михаил Башуров"
+    ],
+    "fromTargetToSource": []
+  },
+  "Екатерина Пригара - «Демо современного workflow фронтенд-разработчика в IDE WebStorm»": {
+    "fromSourceToTarget": [
+      "Екатерина Пригара"
+    ],
+    "fromTargetToSource": []
+  },
+  "Алексей Симоненко - «Искусство обучать. Опыт HTML Academy»": {
+    "fromSourceToTarget": [
+      "Алексей Симоненко"
+    ],
+    "fromTargetToSource": []
+  },
+  "Яна Клементьева - «Нейросети в JavaScript»": {
+    "fromSourceToTarget": [
+      "Яна Клементьева"
+    ],
+    "fromTargetToSource": []
+  },
+  "Катя Трифонова - «Визуализация аудио на JavaScript»": {
+    "fromSourceToTarget": [
+      "Екатерина Трифонова"
+    ],
+    "fromTargetToSource": []
+  },
+  "Вячеслав Лапин - «Короткое введение в WebAssembly.»": {
+    "fromSourceToTarget": [
+      "Вячеслав Лапин"
+    ],
+    "fromTargetToSource": []
+  },
+  "Илья Кашлаков - «Jenkins на службе фронтенд разработки»": {
+    "fromSourceToTarget": [
+      "Илья Кашлаков"
+    ],
+    "fromTargetToSource": []
+  },
+  "Зарема Халилова - «Играемся с вебкамерой: от старта потока до дополненной реальности»": {
+    "fromSourceToTarget": [
+      "Зарема Халилова"
+    ],
+    "fromTargetToSource": []
+  },
+  "Дмитрий Рычков - ««Используем веб-шрифты правильно»": {
+    "fromSourceToTarget": [
+      "Дмитрий Рычков"
+    ],
+    "fromTargetToSource": []
+  },
+  "Martin Kleppe - «JSFuck»": {
+    "fromSourceToTarget": [
+      "Martin Kleppe"
+    ],
+    "fromTargetToSource": []
+  },
+  "Вадим Макеев - «Молоток и гвозди»": {
+    "fromSourceToTarget": [
+      "Вадим Макеев"
+    ],
+    "fromTargetToSource": []
+  },
+  "Сергей Лапин - «Обзор экосистемы JavaScript»": {
+    "fromSourceToTarget": [
+      "Сергей Лапин"
+    ],
+    "fromTargetToSource": []
+  },
+  "Максим Рыжиков - «Webpack»": {
+    "fromSourceToTarget": [
+      "Максим Рыжиков"
+    ],
+    "fromTargetToSource": []
+  },
+  "Екатерина Трифонова - «Визуализация аудио на JavaScript»": {
+    "fromSourceToTarget": [
+      "Екатерина Трифонова"
+    ],
+    "fromTargetToSource": []
+  },
+  "Николай Рыжиков - «Про REPL Driven Development и Clojure (Script).»": {
+    "fromSourceToTarget": [
+      "Николай Рыжиков"
+    ],
+    "fromTargetToSource": []
+  },
+  "Артём Сущев - «EmderJS»": {
+    "fromSourceToTarget": [
+      "Артём Сущев"
+    ],
+    "fromTargetToSource": []
+  },
+  "Екатерина Булатова - «Дизайн для разработчиков»": {
+    "fromSourceToTarget": [
+      "Екатерина Булатова"
+    ],
+    "fromTargetToSource": []
+  },
+  "Андрей Попп - «CSS in JS»": {
+    "fromSourceToTarget": [
+      "Андрей Попп"
+    ],
+    "fromTargetToSource": []
+  },
+  "Вячеслав Шебанов - «Dependency Injection в браузере.»": {
+    "fromSourceToTarget": [
+      "Вячеслав Шебанов"
+    ],
+    "fromTargetToSource": []
+  },
+  "Сергей Попов - «Хватит врать про Grid Layout!»": {
+    "fromSourceToTarget": [
+      "Сергей Попов"
+    ],
+    "fromTargetToSource": []
+  },
+  "Всеволод Родионов - «Работа с блокчейном, смарт-контрактами и криптотокенами в Ethereum из браузера и node.js»": {
+    "fromSourceToTarget": [
+      "Всеволод Родионов"
+    ],
+    "fromTargetToSource": []
+  },
+  "Александр Казаченко - «Интеграция автотестов в процесс разработки»": {
+    "fromSourceToTarget": [
+      "Александр Казаченко"
+    ],
+    "fromTargetToSource": []
+  },
+  "Алёна Батицкая - «Аудит доступности сайта на скорую руку»": {
+    "fromSourceToTarget": [
+      "Алёна Батицкая"
+    ],
+    "fromTargetToSource": []
+  },
+  "Валентин Семирульник - «Чанки-чанки-чанки»": {
+    "fromSourceToTarget": [
+      "Валентин Семирульник"
+    ],
+    "fromTargetToSource": []
+  },
+  "Андрей Лушников - «Responsive Design и Workspace в Google Chrome Developer tools.»": {
+    "fromSourceToTarget": [
+      "Андрей Лушников"
+    ],
+    "fromTargetToSource": []
+  },
+  "Сергей Лапин - «Как сделать плагин на Gulp?»": {
+    "fromSourceToTarget": [
+      "Сергей Лапин"
+    ],
+    "fromTargetToSource": []
+  },
+  "Вадим Макеев - «Как выбраться со дна бассейна в наручниках?»": {
+    "fromSourceToTarget": [
+      "Вадим Макеев"
+    ],
+    "fromTargetToSource": []
+  },
+  "Мария Просвирнина - «Предание об Adobe Flash»": {
+    "fromSourceToTarget": [
+      "Мария Просвирнина"
+    ],
+    "fromTargetToSource": []
+  },
+  "Алексей Золотых - «Angular 2»": {
+    "fromSourceToTarget": [
+      "Алексей Золотых"
+    ],
+    "fromTargetToSource": []
+  },
+  "Антон Федянин - «Vue.js»": {
+    "fromSourceToTarget": [
+      "Антон Федянин"
+    ],
+    "fromTargetToSource": []
   }
 }

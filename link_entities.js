@@ -5,6 +5,7 @@
 const contentful = require('contentful-management');
 const fs = require('fs');
 const _ = require('lodash');
+const promiseSerial = require('promise-serial');
 
 const client = contentful.createClient({
   accessToken:
@@ -149,8 +150,8 @@ const updateEntry = async ({space, entryId, linkFieldName, linksIds}) => {
 };
 
 const updateEntries = async ({space, entriesMap, fieldName}) => {
-  await Promise.all(
-    Object.keys(entriesMap).map(async id => {
+  await promiseSerial(
+    Object.keys(entriesMap).map(id => async () => {
       await updateEntry({
         space,
         entryId: id,
@@ -182,8 +183,8 @@ const collectSourceTargetMaps = async ({
 }) => {
   const sourcesToTargets: IdMapT = {};
 
-  await Promise.all(
-    sourceItems.map(async (item: any) => {
+  await promiseSerial(
+    sourceItems.map((item: any) => async () => {
       const {id: sourceId} = item;
       if (!item[targetsFieldName]) {
         sourcesToTargets[sourceId] = [];
@@ -222,7 +223,10 @@ const collectIds = async (space, sourceContentType, targetContentType) => {
 };
 
 const createIdToTitle = items => id => {
-  if (items[id].type === sourceContentType) {
+  if (!items[id]) {
+    return null;
+  }
+  if (items[id].type === 'person') {
     return items[id].name.ru + ' ' + items[id].lastname.ru;
   }
   return items[id].title.ru;
@@ -293,10 +297,10 @@ const dumpJSON = (filename, obj) => {
   try {
     const space: SpaceT = await client.getSpace('ej3wzulnf8dw');
 
-    const sourceContentType = 'person';
-    const targetContentType = 'drinkcast';
-    const sourcesFieldName = 'persons';
-    const targetsFieldName = 'podcasts';
+    const sourceContentType = 'talk';
+    const targetContentType = 'person';
+    const sourcesFieldName = 'talks';
+    const targetsFieldName = 'persons';
 
     const items = await collectIds(space, sourceContentType, targetContentType);
 
@@ -424,25 +428,25 @@ const dumpJSON = (filename, obj) => {
       fieldName: sourcesFieldName,
     });
 
-    // dumpJSON(
-    //   'fromPersonToPodcastMaps.sourcesToTargets.json',
-    //   idsMapToTitles(items, fromPersonToPodcastMaps.sourcesToTargets),
-    // );
+    dumpJSON(
+      'fromPersonToPodcastMaps.sourcesToTargets.json',
+      idsMapToTitles(items, fromPersonToPodcastMaps.sourcesToTargets),
+    );
 
-    // dumpJSON(
-    //   'fromPersonToPodcastMaps.reverseSourcesToTargets.json',
-    //   idsMapToTitles(items, fromPersonToPodcastMaps.reverseSourcesToTargets),
-    // );
+    dumpJSON(
+      'fromPersonToPodcastMaps.reverseSourcesToTargets.json',
+      idsMapToTitles(items, fromPersonToPodcastMaps.reverseSourcesToTargets),
+    );
 
-    // dumpJSON(
-    //   'fromPodcastToPersonMaps.sourcesToTargets.json',
-    //   idsMapToTitles(items, fromPodcastToPersonMaps.sourcesToTargets),
-    // );
+    dumpJSON(
+      'fromPodcastToPersonMaps.sourcesToTargets.json',
+      idsMapToTitles(items, fromPodcastToPersonMaps.sourcesToTargets),
+    );
 
-    // dumpJSON(
-    //   'fromPodcastToPersonMaps.reverseSourcesToTargets.json',
-    //   idsMapToTitles(items, fromPodcastToPersonMaps.reverseSourcesToTargets),
-    // );
+    dumpJSON(
+      'fromPodcastToPersonMaps.reverseSourcesToTargets.json',
+      idsMapToTitles(items, fromPodcastToPersonMaps.reverseSourcesToTargets),
+    );
 
     // console.log(oldSourcesToTargets);
 
