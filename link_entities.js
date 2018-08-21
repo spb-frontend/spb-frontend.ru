@@ -131,23 +131,32 @@ type PodcastEntryT = {
 
 type IdMapT = {[string]: Array<string>};
 
+const updateEntry = async ({space, entryId, linkFieldName, linksIds}) => {
+  const entry = await space.getEntry(entryId);
+
+  entry.fields[linkFieldName] = {
+    ru: linksIds.map(id => {
+      return {
+        sys: {
+          type: 'Link',
+          linkType: 'Entry',
+          id,
+        },
+      };
+    }),
+  };
+  await entry.update();
+};
+
 const updateEntries = async ({space, entriesMap, fieldName}) => {
   await Promise.all(
     Object.keys(entriesMap).map(async id => {
-      const entry = await space.getEntry(id);
-
-      entry.fields[fieldName] = {
-        ru: entriesMap[id].map(id => {
-          return {
-            sys: {
-              type: 'Link',
-              linkType: 'Entry',
-              id,
-            },
-          };
-        }),
-      };
-      await entry.update();
+      await updateEntry({
+        space,
+        entryId: id,
+        linkFieldName: fieldName,
+        linksIds: entriesMap[id],
+      });
     }),
   );
 };
@@ -213,7 +222,7 @@ const collectIds = async (space, sourceContentType, targetContentType) => {
 };
 
 const createIdToTitle = items => id => {
-  if (items[id].type === 'person') {
+  if (items[id].type === sourceContentType) {
     return items[id].name.ru + ' ' + items[id].lastname.ru;
   }
   return items[id].title.ru;
@@ -300,19 +309,19 @@ const dumpJSON = (filename, obj) => {
     const fromPersonToPodcastMaps = await buildOneWayMaps({
       space,
       items,
-      sourceContentType: 'person',
-      targetContentType: 'drinkcast',
-      sourcesFieldName: 'persons',
-      targetsFieldName: 'podcasts',
+      sourceContentType: sourceContentType,
+      targetContentType: targetContentType,
+      sourcesFieldName: sourcesFieldName,
+      targetsFieldName: targetsFieldName,
     });
 
     const fromPodcastToPersonMaps = await buildOneWayMaps({
       space,
       items,
-      sourceContentType: 'drinkcast',
-      targetContentType: 'person',
-      sourcesFieldName: 'podcasts',
-      targetsFieldName: 'persons',
+      sourceContentType: targetContentType,
+      targetContentType: sourceContentType,
+      sourcesFieldName: targetsFieldName,
+      targetsFieldName: sourcesFieldName,
     });
 
     const combined = _.fromPairs(
@@ -406,13 +415,13 @@ const dumpJSON = (filename, obj) => {
     await updateEntries({
       space,
       entriesMap: finalPersonToPodcast,
-      fieldName: 'podcasts',
+      fieldName: targetsFieldName,
     });
 
     await updateEntries({
       space,
       entriesMap: finalPodcastToPerson,
-      fieldName: 'persons',
+      fieldName: sourcesFieldName,
     });
 
     // dumpJSON(
