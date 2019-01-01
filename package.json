@@ -15,7 +15,7 @@
     "gatsby-source-filesystem": "^2.0.8",
     "gatsby-transformer-json": "^2.1.5",
     "lodash.throttle": "^4.1.1",
-    "marked": "^0.5.1",
+    "marked": "^0.6.0",
     "moment": "^2.21.0",
     "react": "^16.6.1",
     "react-disqussion": "^1.1.0",
