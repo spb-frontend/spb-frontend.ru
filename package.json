@@ -26,7 +26,7 @@
     "slug": "^0.9.1",
     "soundmanager2": "^2.97.20170602",
     "translit-rus-eng": "^1.0.7",
-    "transliteration": "^1.6.2"
+    "transliteration": "^2.0.0"
   },
   "engines": {
     "node": "^10.13.0"
