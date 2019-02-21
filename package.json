@@ -23,7 +23,7 @@
     "react-helmet": "^5.2.0",
     "react-sound": "^1.1.0",
     "rss": "^1.2.2",
-    "slug": "^0.9.1",
+    "slug": "^1.0.0",
     "soundmanager2": "^2.97.20170602",
     "translit-rus-eng": "^1.0.7",
     "transliteration": "^1.6.2"
