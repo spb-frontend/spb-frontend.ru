@@ -4,6 +4,7 @@
   "version": "1.0.0",
   "dependencies": {
     "@jacobmischka/gatsby-plugin-react-svg": "^1.1.0",
+    "babel-polyfill": "^6.26.0",
     "classnames": "^2.2.5",
     "gatsby": "^2.0.45",
     "gatsby-cli": "^2.4.5",
